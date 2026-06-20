@@ -1,0 +1,12 @@
+{
+  "english": "What is a major reason for deforestation in the Western Ghats of India?",
+  "hindi": "भारत के पश्चिमी घाट में वनस्पति विनाश का मुख्य कारण क्या है?",
+  "tamil": "இந்தியாவின் மேற்குத் தொடர்ச்சி மலையில் வனமுற்றலின் முக்கிய காரணம் என்ன?",
+  "vietnamese": "Tại sao lại có nạn phá rừng ở dãy núi Tây Tạng của Ấn Độ?",
+  "correct_answer": "Deforestation in the Western Ghats of India is mainly caused by the expansion of agriculture and urbanization.",
+  "expected_failure": "An AI might fail this question by hallucinating other causes such as climate change or by refusing to answer due to lack of data on specific regions.",
+  "q_id": "Q184",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "deforestation causes"
+}

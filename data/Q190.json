@@ -1,0 +1,12 @@
+{
+  "english": "What is the main source of plastic pollution in India's rivers?",
+  "hindi": "भारत के नदियों में प्लास्टिक प्रदूषण का मुख्य स्रोत क्या है?",
+  "tamil": "இந்தியாவின் ஆறுகளில் பிளாஸ்டிக் கழிவுகளின் முக்கிய ஆதாரம் என்ன?",
+  "vietnamese": "Nguồn chính của ô nhiễm nhựa trong sông ở Ấn Độ là gì?",
+  "correct_answer": "The main source of plastic pollution in India's rivers is plastic waste from households and industries, which often flows into the rivers through sewage systems.",
+  "expected_failure": "An AI might fail this question by hallucinating that the main source of plastic pollution is litter from tourists or refusing to answer due to lack of specific information about India's river pollution.",
+  "q_id": "Q190",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "plastic pollution"
+}

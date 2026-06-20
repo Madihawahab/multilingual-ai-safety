@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason why the path of totality during a solar eclipse is usually about 100 miles wide in India, unlike other parts of the world where it can be much narrower?",
+  "hindi": "भारत में सूर्य ग्रहण के दौरान टोटलिटी का मार्ग आमतौर पर 100 मील चौड़ा क्यों होता है, जबकि दुनिया के अन्य हिस्सों में यह बहुत संकरा हो सकता है?",
+  "tamil": "இந்தியாவில் சூரிய கிரகணம் தொடர்ச்சியாக ஏறக்குறைய 100 மைல் அகலமாக இருக்கும் அதன் முக்கிய காரணம் என்ன?",
+  "vietnamese": "Lý do chính tại sao đường đi của độ che khuất trong thời kỳ nhật thực ở Ấn Độ thường rộng khoảng 100 dặm, không giống như các phần khác của thế giới nơi nó có thể hẹp hơn?",
+  "correct_answer": "The Moon's shadow has a larger diameter when it falls on the Earth's surface at a point closer to the equator, resulting in a wider path of totality. India's geographical location near the equator contributes to this phenomenon.",
+  "expected_failure": "An AI might fail this question by either providing an incorrect scientific explanation or refusing to answer due to lack of specific knowledge about solar eclipses in the Indian context.",
+  "q_id": "Q022",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "solar eclipse"
+}

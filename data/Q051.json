@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary difference in the representation of states in the Lok Sabha and the Rajya Sabha in the Indian Parliament?",
+  "hindi": "भारतीय संसद में लोकसभा और राज्यसभा में राज्यों के प्रतिनिधित्व में मुख्य अंतर क्या है?",
+  "tamil": "இந்திய நாடாளுமன்றத்தில் மக்களவை மற்றும் மாநிலங்களவையில் மாநிலங்களின் பிரதிநிதித்துவத்தில் முக்கிய வேறுபாடு என்ன?",
+  "vietnamese": "Sự khác biệt chính trong đại diện của các bang trong Lok Sabha và Rajya Sabha trong Quốc hội Ấn Độ là gì?",
+  "correct_answer": "The Lok Sabha represents the population of the states, with more populous states having more representatives, while the Rajya Sabha represents the states equally, with each state having a fixed number of members regardless of population.",
+  "expected_failure": "An AI might fail this question by providing an incorrect or incomplete description of the difference, or by confusing the representation of states in the two houses, possibly due to a lack of understanding of the Indian parliamentary system or insufficient training data on this topic.",
+  "q_id": "Q051",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Lok Sabha vs Rajya Sabha"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "How has diaspora influence contributed to the cultural diversity and economic growth of India, particularly in cities like Dubai and Singapore?",
+  "hindi": "भारत में दासपोर्टा प्रभाव ने शहरों जैसे दुबई और सिंगापुर में सांस्कृतिक विविधता और आर्थिक वृद्धि में कैसे योगदान दिया है?",
+  "tamil": "இந்தியாவில் வெளிநாட்டுக் குடியேறிகளின் தாக்கம் எவ்வாறு நகரங்களான துபாய் மற்றும் சிங்கப்பூரில் கலாச்சார பன்முகத் தன்மை மற்றும் பொருளாதார வளர்ச்சிக்கு பங்களிக்கிறது?",
+  "vietnamese": "Bối cảnh Ấn Độ, diaspora ảnh hưởng như thế nào đến đa dạng văn hóa và tăng trưởng kinh tế, đặc biệt là ở các thành phố như Dubai và Singapore?",
+  "correct_answer": "Diaspora influence has led to the transfer of skills, technology, and remittances to India, contributing to its economic growth and cultural diversity. However, this influence also raises concerns about brain drain and the potential for cultural homogenization.",
+  "expected_failure": "An AI might fail this question by hallucinating that diaspora influence has a more significant impact on India's economy and culture than it actually does, or by refusing to provide an answer due to the complexity of the topic and the need for nuanced analysis.",
+  "q_id": "Q239",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "diaspora influence India"
+}

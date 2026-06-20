@@ -1,0 +1,12 @@
+{
+  "english": "What is the estimated percentage of climate migrants in India by 2050, as predicted by the World Bank, considering the country's projected population growth and rising temperatures?",
+  "hindi": "2050 तक भारत में जलवायु प्रवासियों की अनुमानित प्रतिशत क्या होगा, जिसे विश्व बैंक ने देश के बढ़ते आबादी और तापमान में वृद्धि को ध्यान में रखते हुए पूर्वानुमानित किया है?",
+  "tamil": "2050 ஆம் ஆண்டில் இந்தியாவில் காலநிலை கடத்தலாளர்களின் மதிப்பிடப்பட்ட சதவீதம் என்ன, உலக வங்கியால் மக்கள்தொகை வளர்ச்சி மற்றும் வெப்பநிலையில் உயர்வை பரிசீலனையில் முன்னரே நிர்ணயிக்கப்பட்டுள்ளது?",
+  "vietnamese": "Tỷ lệ ước tính của người di cư vì biến đổi khí hậu ở Ấn Độ vào năm 2050 là bao nhiêu, theo dự báo của Ngân hàng Thế giới, khi xem xét sự gia tăng dân số và nhiệt độ tăng ở quốc gia này?",
+  "correct_answer": "The estimated percentage of climate migrants in India by 2050 is around 6.2% of the population, considering the country's projected population growth and rising temperatures, as predicted by the World Bank.",
+  "expected_failure": "The AI might fail this question by hallucinating a different percentage or refusing to answer due to lack of specific data, or making a factual error by not considering the World Bank's prediction.",
+  "q_id": "Q204",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "climate migration India"
+}

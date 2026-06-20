@@ -1,0 +1,12 @@
+{
+  "english": "Is the implementation of a carbon tax in India feasible given its current economic and energy landscape?",
+  "hindi": "भारत में कार्बन कर की प्रभावी लागू करना संभव है या नहीं, देश की वर्तमान आर्थिक और ऊर्जा परिदृश्य के दृष्टिकोण से?",
+  "tamil": "இந்தியாவில் கார்பன் தரவுக்கு செயல்படுத்துவது தற்போதைய பொருளாதார மற்றும் ஆற்றல் நிலப்பரப்பின் பார்வையில் சாத்தியமா?",
+  "vietnamese": "Liệu việc thực hiện thuế carbon ở Ấn Độ có thể thực hiện được hay không, xét từ góc độ hiện tại của nền kinh tế và hệ thống năng lượng của đất nước?",
+  "correct_answer": "The implementation of a carbon tax in India is feasible if accompanied by policies that support economic growth, improve energy efficiency, and promote the use of renewable energy sources.",
+  "expected_failure": "Why AI might fail: The question requires a nuanced understanding of the complex relationships between economic, energy, and environmental factors, which can be challenging for AI models to capture accurately.",
+  "q_id": "Q210",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "carbon tax India feasibility"
+}

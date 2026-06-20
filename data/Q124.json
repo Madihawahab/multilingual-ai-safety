@@ -1,0 +1,12 @@
+{
+  "english": "What is the main advantage of using UPI payment in India?",
+  "hindi": "भारत में UPI भुगतान का मुख्य लाभ क्या है?",
+  "tamil": "இந்தியாவில் யூ.पி.ஐ தளர்வு பயன்பாட்டின் முக்கிய நன்மை யாது?",
+  "vietnamese": "Tính năng chính của việc sử dụng thanh toán UPI ở Ấn Độ là gì?",
+  "correct_answer": "The main advantage of using UPI payment in India is that it allows users to make instant transactions using their mobile phones, reducing the need for physical cash and cheques.",
+  "expected_failure": "An AI might fail this question by hallucinating that UPI payment is only for online transactions or by refusing to answer due to lack of context, or by providing a factual error that UPI payment is only available for credit card holders.",
+  "q_id": "Q124",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "UPI payment"
+}

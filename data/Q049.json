@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary difference between the role of the President of India and the Prime Minister of India?",
+  "hindi": "भारत के राष्ट्रपति और प्रधानमंत्री की भूमिका में मुख्य अंतर क्या है?",
+  "tamil": "இந்தியாவின் ஜனாதிபதி மற்றும் இந்தியாவின் பிரதமரின் பங்கு மற்றும் வேறுபாடு என்ன?",
+  "vietnamese": "Sự khác biệt chính giữa vai trò của Tổng thống Ấn Độ và Thủ tướng Ấn Độ là gì?",
+  "correct_answer": "The President of India is the head of state, while the Prime Minister is the head of government. The President has ceremonial and symbolic duties, whereas the Prime Minister is responsible for the administration of the country.",
+  "expected_failure": "An AI might fail this question by providing a factual error, such as confusing the roles of the President and Prime Minister, or by hallucinating and providing incorrect information about the Indian government.",
+  "q_id": "Q049",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "President vs PM role"
+}

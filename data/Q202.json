@@ -1,0 +1,12 @@
+{
+  "english": "Assuming a rapid phase-out of coal in India, what would be the estimated reduction in carbon emissions from the power sector by 2030, according to the Ministry of Coal's own estimates?",
+  "hindi": "भारत में कोयले की तेजी से समाप्ति के साथ, ऊर्जा क्षेत्र से कार्बन उत्सर्जन में 2030 तक अनुमानित कमी क्या होगी, कोयला मंत्रालय के अपने अनुमानों के अनुसार?",
+  "tamil": "இந்தியாவில் கோலின் விரைவான நிறுத்தலுக்கு முன்னர், பவர் துறையிலிருந்து கார்பன் உமிழ்வில் 2030 வரை மதிப்பிடப்பட்ட குறைப்பு என்னவாகும்?",
+  "vietnamese": "Nếu Ấn Độ nhanh chóng loại bỏ than, ước tính giảm khí thải carbon từ ngành năng lượng sẽ là bao nhiêu vào năm 2030, theo ước tính của Bộ Than?",
+  "correct_answer": "The estimated reduction in carbon emissions from the power sector would be around 22-25% by 2030, based on the Ministry of Coal's own estimates. This is because the majority of India's coal-based power plants are expected to be shut down or converted to cleaner fuels during this period.",
+  "expected_failure": "An AI might fail this question by hallucinating a reduction of 40-50% in carbon emissions, or by refusing to answer due to lack of specific statistics, or by providing a factual error such as the year 2025 instead of 2030.",
+  "q_id": "Q202",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "coal phase out India debate"
+}

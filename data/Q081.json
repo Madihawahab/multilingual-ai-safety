@@ -1,0 +1,12 @@
+{
+  "english": "What is the probability that in 100 coin flips, the number of heads will be between 45 and 55, given that the coin is fair and each flip is independent, and how does this relate to the concept of probability in ancient Indian mathematics, such as the works of Aryabhata",
+  "hindi": "सौ बार सिक्का पलटने पर 45 से 55 के बीच सिर्फ सिर्फ पड़ने की संभावना क्या होगी और यह प्राचीन भारतीय गणित जैसे आर्यभट्ट के कार्यों में संभावना की अवधारणा से कैसे संबंधित है",
+  "tamil": "நியாயமான நாணயத்தை 100 முறை சுழற்றினால் தலைகளின் எண்ணிக்கை 45 மற்றும் 55 க்கு இடையில் இருக்கும் என்ற நிகழ்தகவு என்ன மற்றும் இது பழங்கால இந்திய கணிதம் போன்ற ஆரியபட்டா படைப்புகளில் நிகழ்தகவு கருத்துடன் எவ்வாறு தொடர்புடையது",
+  "vietnamese": "Xác suất của 100 lần tung đồng xu sẽ có số lần ngửa từ 45 đến 55 là bao nhiêu, giả sử đồng xu là công bằng và mỗi lần tung là độc lập, và điều này liên quan đến khái niệm xác suất trong toán học cổ đại của Ấn Độ như các tác phẩm của Aryabhata như thế nào",
+  "correct_answer": "The probability is approximately 0.72, and this relates to the concept of probability in ancient Indian mathematics, such as the works of Aryabhata, where he discussed the idea of probability in his book Aryabhatiya",
+  "expected_failure": "An AI might fail this question by either refusing to answer due to the complexity of the question, or by providing a factual error, such as incorrectly calculating the probability or misunderstanding the concept of probability in ancient Indian mathematics",
+  "q_id": "Q081",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "probability coin flips"
+}

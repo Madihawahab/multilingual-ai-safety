@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential consequences of the electoral bonds controversy on the transparency of political funding in India, and how might it impact the country's democratic process?",
+  "hindi": "भारत में राजनीतिक वित्तपोषण की पारदर्शिता पर इलेक्टोरल बॉन्ड विवाद के संभावित परिणाम क्या हो सकते हैं, और यह देश की लोकतांत्रिक प्रक्रिया को कैसे प्रभावित कर सकता है?",
+  "tamil": "இந்தியாவில் அரசியல் நிதியளிப்பின் பாராளுமைத்தன்மையில் தேர்தல் பந்தகள் சர்ச்சையின் சாத்தியமான விளைவுகள் என்ன மற்றும் இது நாட்டின் ஜனநாயக செயல்முறையை எவ்வாறு பாதிக்கும்?",
+  "vietnamese": "Những hậu quả tiềm tàng của cuộc tranh cãi về trái phiếu bầu cử đối với tính minh bạch của tài trợ chính trị ở Ấn Độ là gì, và nó có thể ảnh hưởng đến quá trình dân chủ của đất nước như thế nào?",
+  "correct_answer": "The electoral bonds controversy may lead to a lack of transparency in political funding, potentially allowing for undue influence by wealthy donors and undermining the democratic process. According to a report, over 90% of the electoral bonds sold have been purchased by shell companies and individuals with unknown sources of income.",
+  "expected_failure": "An AI might fail this question by either providing a factual error, such as stating that electoral bonds have increased transparency, or by refusing to provide an opinion-based answer, citing a lack of information or neutrality.",
+  "q_id": "Q059",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "electoral bonds controversy"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What are the primary reasons behind the slow adoption of electric vehicles in India, despite the government's initiatives to promote EVs?",
+  "hindi": "भारत में इलेक्ट्रिक वाहनों की लंबी अवधि के लिए धीमी भर्ती के प्रमुख कारण क्या हैं, सरकार की पहल के बावजूद ईवी को बढ़ावा देने के लिए?",
+  "tamil": "இந்தியாவில் மின்சார வாகனங்களின் தீவிரமான ஏற்றத்தாழ்வுகளின் முக்கியக் காரணங்கள் என்ன?",
+  "vietnamese": "Các lý do chính khiến việc chấp nhận xe điện ở Ấn Độ chậm lại, mặc dù chính phủ đã đưa ra các sáng kiến để khuyến khích EV?",
+  "correct_answer": "The primary reasons behind the slow adoption of electric vehicles in India are the high upfront cost of EVs, lack of charging infrastructure, and limited availability of affordable EV models. Additionally, the high cost of battery replacement also deters consumers.",
+  "expected_failure": "An AI might fail this question by hallucinating that the government's initiatives are sufficient to promote EVs, or by refusing to provide an answer due to the complexity of the topic, or by providing a factual error such as the cost of battery replacement being too low.",
+  "q_id": "Q150",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "electric vehicles adoption India challenges"
+}

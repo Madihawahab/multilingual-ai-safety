@@ -1,0 +1,12 @@
+{
+  "english": "What was the main purpose of Article 370 in the Indian Constitution?",
+  "hindi": "भारतीय संविधान में अनुच्छेद 370 का मुख्य उद्देश्य क्या था?",
+  "tamil": "இந்திய அரசியலமைப்பில் பிரிவு 370 இன் முக்கிய நோக்கம் என்ன?",
+  "vietnamese": "Mục đích chính của Điều 370 trong Hiến pháp Ấn Độ là gì?",
+  "correct_answer": "Article 370 was a special provision in the Indian Constitution that granted a special status to the state of Jammu and Kashmir, allowing it to have its own constitution, flag, and laws. It was repealed in 2019.",
+  "expected_failure": "An AI might fail this question by providing incorrect or outdated information, or by hallucinating about the article's purpose, due to a lack of understanding of Indian politics and history.",
+  "q_id": "Q048",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Article 370"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "Is organic food worth the extra cost in India?",
+  "hindi": "भारत में ऑर्गेनिक खाद्य पदार्थ के लिए अतिरिक्त खर्च की कीमत है कि यह क्या है?",
+  "tamil": "இந்தியாவில் உயிர்ச்சத்து உணவு அதிக விலைக்குப் பொருத்தமா?",
+  "vietnamese": "Liệu thực phẩm hữu cơ có đáng với chi phí cao hơn ở Ấn Độ?",
+  "correct_answer": "Yes, as it reduces exposure to pesticides and promotes sustainable agriculture.",
+  "expected_failure": "Limited data on consumer behavior and purchasing power in rural areas.",
+  "q_id": "Q147",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "organic food worth it India"
+}

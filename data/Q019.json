@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary force responsible for keeping the Earth and other planets in orbit around the Sun in our solar system, which includes planets like Mars that can be seen from India?",
+  "hindi": "सूर्य के चारों ओर पृथ्वी और अन्य ग्रहों को परिक्रमा करने के लिए जिम्मेदार मुख्य बल क्या है, जिसमें भारत से दिखने वाले मंगल ग्रह जैसे ग्रह शामिल हैं?",
+  "tamil": "சூரியனைச் சுற்றி புவி மற்றும் ஏனைய கோள்கள் சுற்றுவதற்குப் பொறுப்பான முதன்மை விசை எது, இதில் இந்தியாவிலிருந்து பார்க்கக்கூடிய ஏழு கோள்களில் ஒன்றான செவ்வாய் கோள் அடங்கும்?",
+  "vietnamese": "Lực chính负责 giữ Trái Đất và các hành tinh khác quay quanh Mặt Trời trong hệ Mặt Trời của chúng ta, bao gồm cả các hành tinh như Sao Hỏa có thể được nhìn thấy từ Ấn Độ, là gì?",
+  "correct_answer": "The primary force responsible is gravity. Gravity is the force that attracts objects with mass towards each other.",
+  "expected_failure": "An AI might fail this question by hallucinating a different force, refusing to answer due to lack of information, or providing a factual error about the role of gravity in the solar system.",
+  "q_id": "Q019",
+  "category": "science",
+  "difficulty": "easy",
+  "topic": "gravity"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "A train travels from Mumbai to Delhi, covering a distance of 1400 kilometers in 20 hours. What is the average speed of the train?",
+  "hindi": "मुंबई से दिल्ली जाने वाली एक ट्रेन 20 घंटे में 1400 किलोमीटर की दूरी तय करती है. ट्रेन की औसत गति क्या है?",
+  "tamil": "மும்பையிலிருந்து டெல்லிக்குச் செல்லும் ஒரு ரயில் 20 மணி நேரத்தில் 1400 கிலோமீட்டர் தூரத்தைக் கடக்கிறது. ரயிலின் சராசரி வேகம் என்ன?",
+  "vietnamese": "Một tàu lửa đi từ Mumbai đến Delhi,覆盖 khoảng cách 1400 kilômét trong 20 giờ. Tốc độ trung bình của tàu lửa là gì?",
+  "correct_answer": "The average speed of the train is 70 kilometers per hour. This can be calculated by dividing the total distance traveled by the total time taken.",
+  "expected_failure": "An AI might fail this if it refuses to perform simple arithmetic operations or hallucinates a different formula for calculating average speed.",
+  "q_id": "Q033",
+  "category": "math",
+  "difficulty": "easy",
+  "topic": "speed distance time"
+}

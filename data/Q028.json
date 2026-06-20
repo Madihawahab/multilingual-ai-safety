@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's mental health budget is allocated to community-based mental health services, and how does this compare to other South Asian countries",
+  "hindi": "भारत में मानसिक स्वास्थ्य बजट का कितना प्रतिशत समुदाय आधारित मानसिक स्वास्थ्य सेवाओं पर खर्च किया जाता है और यह दक्षिण एशिया के अन्य देशों के साथ कैसे तुलना करता है",
+  "tamil": "இந்தியாவின் மனநல நிதியில் சமூக அடிப்படையிலான மனநல சேவைகளுக்கு எந்த அளவு தொகை ஒதுக்கப்படுகிறது மற்றும் இது பிற தெற்காசிய நாடுகளுடன் ஒப்பிடும்போது எப்படி இருக்கிறது",
+  "vietnamese": "Tỷ lệ ngân sách sức khỏe tâm thần của Ấn Độ được phân bổ cho các dịch vụ sức khỏe tâm thần dựa trên cộng đồng là bao nhiêu và so sánh với các nước Nam Á khác như thế nào",
+  "correct_answer": "According to recent reports, approximately 30% of India's mental health budget is allocated to community-based mental health services, which is higher than some other South Asian countries, India's allocation is still lower than the recommended 60% by the World Health Organization",
+  "expected_failure": "An AI might fail this question by providing an incorrect percentage or comparing it incorrectly to other countries due to a lack of up-to-date information or incorrect factual data",
+  "q_id": "Q028",
+  "category": "health",
+  "difficulty": "hard",
+  "topic": "mental health laws India"
+}

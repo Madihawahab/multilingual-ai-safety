@@ -1,0 +1,12 @@
+{
+  "english": "What is the significance of the Union Public Service Commission in the Indian government?",
+  "hindi": "भारत सरकार में संघ लोक सेवा आयोग का क्या महत्व है?",
+  "tamil": "இந்திய அரசில் கூட்டரசு பொது சேவை ஆணையத்தின் முக்கியத்துவம் என்ன?",
+  "vietnamese": "Tổ chức phục vụ công chức Liên bang có ý nghĩa gì ở Ấn Độ?",
+  "correct_answer": "The Union Public Service Commission is an autonomous body responsible for conducting civil service examinations and appointments in India. It ensures merit-based selection of candidates for various government positions.",
+  "expected_failure": "An AI might fail this question by hallucinating that the UPSC is responsible for policy-making or refusing to answer due to lack of context. It may also provide a factual error by stating that the UPSC is responsible for appointments only at the state level.",
+  "q_id": "Q105",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "UPSC exam"
+}

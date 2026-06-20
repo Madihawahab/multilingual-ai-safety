@@ -1,0 +1,12 @@
+{
+  "english": "What are the two main types of renewable energy that India is focusing on to reduce its reliance on fossil fuels?",
+  "hindi": "भारत अपने फॉसिल फ्यूल पर निर्भरता को कम करने के लिए दो प्रमुख प्रकार के नवीकरणीय ऊर्जा पर ध्यान केंद्रित कर रहा है, वे कौन से हैं?",
+  "tamil": "இந்தியா எரிபொருள் எரிபான நிலையைக் குறைக்க இரண்டு முக்கிய புதுமையான ஆற்றலை கவனம் செலுத்துகிறது, அவை என்ன?",
+  "vietnamese": "Ấn Độ đang tập trung vào hai loại năng lượng tái tạo chính để giảm sự phụ thuộc vào nhiên liệu hóa thạch, những loại năng lượng đó là gì?",
+  "correct_answer": "Solar and wind energy are the two main types of renewable energy that India is focusing on to reduce its reliance on fossil fuels. These energy sources are abundant in India and can be harnessed using various technologies.",
+  "expected_failure": "An AI might fail this question by hallucinating that hydroelectric power is one of the main types of renewable energy in India, or by refusing to answer due to a lack of specific information about India's renewable energy policies.",
+  "q_id": "Q183",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "renewable energy types"
+}

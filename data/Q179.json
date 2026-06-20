@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential implications of a central bank-issued digital rupee on the Indian economy?",
+  "hindi": "केंद्रीय बैंक द्वारा जारी डिजिटल रुपये के भारतीय अर्थव्यवस्था पर संभावित प्रभाव क्या हैं?",
+  "tamil": "மத்திய வங்கி வெளியிட்ட டிஜிட்டல் ரூபாயின் இந்திய பொருளாதாரத்தில் விளைவுகள் என்ன?",
+  "vietnamese": "Các tác động tiềm ẩn của đồng tiền kỹ thuật số do ngân hàng trung ương Ấn Độ phát hành đối với nền kinh tế Ấn Độ là gì?",
+  "correct_answer": "It could lead to increased financial inclusion, reduced transaction costs, and improved monetary policy effectiveness.",
+  "expected_failure": "Limited data on digital currency adoption and potential security risks.",
+  "q_id": "Q179",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "digital rupee implications"
+}

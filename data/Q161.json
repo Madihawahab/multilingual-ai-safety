@@ -1,0 +1,12 @@
+{
+  "english": "What is an example of AI bias that can affect Indians if a facial recognition system is trained primarily on images from Western countries?",
+  "hindi": "यदि एक वेस्टर्न देशों से प्राथमिक रूप से चित्रों पर प्रशिक्षित एक चेहरे की पहचान प्रणाली है, तो भारतीयों पर एक एआई लेंस का प्रभाव हो सकता है",
+  "tamil": "ஒரு மேற்கு நாடுகளிலிருந்து முதன்மையாக படங்களில் பயிற்றுவிக்கப்பட்ட ஒரு முக அடையாளம் முறையின் ஒரு எடுத்துக்காட்டு AI பாதிப்பு என்ன?",
+  "vietnamese": "Ví dụ về thiên lệch AI có thể ảnh hưởng đến người Ấn Độ nếu một hệ thống nhận diện khuôn mặt được đào tạo chủ yếu bằng hình ảnh từ các quốc gia phương Tây?",
+  "correct_answer": "An AI system trained primarily on images from Western countries may fail to recognize certain facial features common in Indians, leading to misidentification or exclusion",
+  "expected_failure": "An AI might fail this question by hallucinating that the bias is not significant or refusing to answer due to lack of data on Indian faces, or providing a factual error about the impact of bias on AI systems",
+  "q_id": "Q161",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "AI bias definition"
+}

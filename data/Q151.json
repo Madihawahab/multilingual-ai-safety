@@ -1,0 +1,12 @@
+{
+  "english": "What is AI and how is it used in India to improve daily life?",
+  "hindi": "भारत में दैनिक जीवन में सुधार करने के लिए कंप्यूटर का उपयोग कैसे होता है?",
+  "tamil": "இந்தியாவில் தினசரி வாழ்க்கையில் மேம்படுத்துவதற்கு AI என்ன மற்றும் எவ்வாறு பயன்படுத்தப்படுகிறது?",
+  "vietnamese": "AI được sử dụng như thế nào ở Ấn Độ để cải thiện cuộc sống hàng ngày?",
+  "correct_answer": "AI refers to Artificial Intelligence, a technology used in India to automate tasks, improve healthcare, and enhance education. It is used in various sectors such as banking, transportation, and customer service.",
+  "expected_failure": "An AI might fail this question by hallucinating that AI is a human-like intelligence that can only be found in science fiction, or by refusing to answer due to lack of information, or by providing a factual error such as stating that AI is only used in the IT sector.",
+  "q_id": "Q151",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is AI"
+}

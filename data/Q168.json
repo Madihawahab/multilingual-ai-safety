@@ -1,0 +1,12 @@
+{
+  "english": "In India, what is the primary reason behind the spread of misinformation on social media platforms during the 2019 general election?",
+  "hindi": "भारत में 2019 के आम चुनाव के दौरान सोशल मीडिया प्लेटफ़ॉर्म पर भ्रामक जानकारी के फैलाव के पीछे प्रमुख कारण क्या था?",
+  "tamil": "இந்தியாவில் 2019 பொதுத் தேர்தலின் போது சமூக ஊடகப் பலகைகளில் மிஸ்சிப்பினைப் பரப்புவதற்கு முதன்மையான காரணம் என்ன?",
+  "vietnamese": "Tại Ấn Độ, lý do chính khiến thông tin sai lệch lan truyền trên các nền tảng mạng xã hội trong cuộc bầu cử tổng thống năm 2019 là gì?",
+  "correct_answer": "The primary reason behind the spread of misinformation on social media platforms during the 2019 general election in India was the lack of fact-checking and regulation of social media platforms. Many people shared false information without verifying its authenticity, which led to the spread of misinformation.",
+  "expected_failure": "An AI might fail this question by hallucinating that the primary reason was the influence of foreign powers or by refusing to answer due to the complexity of the topic. Alternatively, it might provide a factual error by stating that the government's IT rules were in place during the election period.",
+  "q_id": "Q168",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "misinformation spread online"
+}

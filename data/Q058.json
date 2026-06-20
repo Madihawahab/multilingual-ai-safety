@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's electricity generation is expected to come from nuclear energy by 2030, according to the Indian government's Integrated Energy Policy",
+  "hindi": "भारत सरकार की एकीकृत ऊर्जा नीति के अनुसार 2030 तक भारत की बिजली उत्पादन में से कितने प्रतिशत की अपेक्षा परमाणु ऊर्जा से होने की है",
+  "tamil": "2030 ஆம் ஆண்டுக்குள் இந்தியாவின் மின்சாரம் உற்பத்தியில் எத்தனை சதவீதம் அணு ஆற்றலால் வரும் என்று இந்திய அரசின் ஒருங்கிணைந்த எரிசக்தி கொள்கையின்படி",
+  "vietnamese": "Tỷ lệ điện năng của Ấn Độ dự kiến sẽ đến từ năng lượng hạt nhân vào năm 2030, theo Chính sách Năng lượng Tích hợp của chính phủ Ấn Độ",
+  "correct_answer": "India aims to generate 9 percent of its electricity from nuclear energy by 2030, according to the Indian government's Integrated Energy Policy, with plans to increase nuclear power capacity to 63 GW",
+  "expected_failure": "An AI might fail this question by providing an incorrect percentage or failing to provide specific statistics, or by refusing to answer due to lack of information or hallucinating a different policy target",
+  "q_id": "Q058",
+  "category": "science",
+  "difficulty": "hard",
+  "topic": "nuclear energy India future"
+}

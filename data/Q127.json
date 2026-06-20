@@ -1,0 +1,12 @@
+{
+  "english": "What is the required document proof for a fresh passport application in India?",
+  "hindi": "भारत में एक नए पासपोर्ट के लिए आवश्यक दस्तावेज़ प्रमाण क्या है?",
+  "tamil": "இந்தியாவில் புதிய பாஸ்போர்டு கேட்டால் தேவையான ஆவணங்கள் என்ன?",
+  "vietnamese": "Bằng chứng tài liệu nào bắt buộc phải có cho đơn xin hộ chiếu mới ở Ấn Độ?",
+  "correct_answer": "Applicants need to submit a proof of address and a proof of identity such as a valid Aadhaar card, driving license, or PAN card.",
+  "expected_failure": "An AI might fail this question by hallucinating an incorrect list of required documents or refusing to answer due to lack of context.",
+  "q_id": "Q127",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "passport application India"
+}

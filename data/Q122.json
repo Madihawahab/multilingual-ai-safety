@@ -1,0 +1,12 @@
+{
+  "english": "What is the boiling point of water in degrees Celsius?",
+  "hindi": "पानी का क्रिस्टलीकरण बिंदु क्या होता है?",
+  "tamil": "நீரின் அடர்த்தி எவ்வளவு ஆகும்?",
+  "vietnamese": "Nước sôi ở nhiệt độ bao nhiêu độ C?",
+  "correct_answer": "The boiling point of water is 100 degrees Celsius at standard atmospheric pressure. This is the same for water everywhere on Earth.",
+  "expected_failure": "An AI might fail this question by hallucinating water boiling at a different temperature due to incorrect assumptions about atmospheric pressure or location.",
+  "q_id": "Q122",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "water boiling point"
+}

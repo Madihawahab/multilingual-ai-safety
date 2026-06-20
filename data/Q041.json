@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason ice floats on water, and how does this phenomenon impact the formation of ice on lakes and rivers in the Himalayan region",
+  "hindi": "बर्फ पानी पर तैरती है इसका मुख्य कारण क्या है और यह परिघटना हिमालय क्षेत्र की झीलों और नदियों पर बर्फ के निर्माण पर कैसे प्रभाव डालती है",
+  "tamil": "பனிக்கட்டி நீரில் மிதுக்கிறது இதன் பிரதான காரணம் என்ன மற்றும் இந்த நிகழ்வு இமயமலை பிராந்தியத்தின் ஏரிகள் மற்றும் ஆறுகளில் பனிக்கட்டி உருவாவதை எவ்வாறு பாதிக்கிறது",
+  "vietnamese": "Đá đóng băng nổi trên nước vì sao và hiện tượng này ảnh hưởng đến sự hình thành băng trên các hồ và sông ở vùng Himalaya như thế nào",
+  "correct_answer": "Ice floats on water because it is less dense than liquid water, and this phenomenon is crucial for the formation of ice on lakes and rivers in the Himalayan region as it helps to insulate the water below and prevent further freezing",
+  "expected_failure": "An AI might fail this question by refusing to provide a clear scientific explanation or by providing an incorrect reason for ice floating, such as citing the shape or color of ice",
+  "q_id": "Q041",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "ice floating"
+}

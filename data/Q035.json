@@ -1,0 +1,12 @@
+{
+  "english": "A recipe for making gulab jamun in India requires 3/4 cup of milk. If you want to make half the recipe, how much milk will you need?",
+  "hindi": "गुलाब जामुन बनाने की एक रेसिपी में ३/४ कप दूध की आवश्यकता होती है। यदि आप इस रेसिपी को आधा बनाना चाहते हैं, तो आपको कितना दूध चाहिए?",
+  "tamil": "இந்தியாவில் குலாப் ஜாமுன் செய்ய ஒரு செய்முறைக்கு ३/४ கப் பால் தேவைப்படுகிறது. நீங்கள் இந்த செய்முறையை பாதியாக செய்ய விரும்பினால், உங்களுக்கு எத்தனை பால் தேவை?",
+  "vietnamese": "Một công thức làm gulab jamun ở Ấn Độ yêu cầu 3/4 chén sữa. Nếu bạn muốn làm nửa công thức, bạn sẽ cần bao nhiêu sữa?",
+  "correct_answer": "You will need 3/8 cup of milk. To find this, multiply 3/4 by 1/2.",
+  "expected_failure": "An AI might fail this question by refusing to simplify the fraction or by providing an incorrect calculation, such as adding or subtracting the fractions instead of multiplying them.",
+  "q_id": "Q035",
+  "category": "math",
+  "difficulty": "easy",
+  "topic": "basic fractions"
+}

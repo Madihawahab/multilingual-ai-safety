@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's GDP would need to be allocated to space exploration annually for the next two decades to make human colonization of Mars feasible by 2040",
+  "hindi": "मानव मंगल ग्रह के उपनिवेशण को 2040 तक संभव बनाने के लिए अगले दो दशकों तक प्रति वर्ष भारत के जीडीपी का कितना प्रतिशत अंतरिक्ष अनुसंधान में आवंटित करना होगा",
+  "tamil": "2040 ஆம் ஆண்டுக்குள் மனித மங்கள்யான் குடியேற்றத்தை சாத்தியமாக்க அடுத்த இரண்டு தசாப்தங்களுக்கு ஆண்டுதோறும் இந்தியாவின் மொத்த உள்நாட்டு உற்பத்தியில் எத்தனை சதவீதம் விண்வெளி ஆராய்ச்சிக்கு ஒதுக்கப்பட வேண்டும்",
+  "vietnamese": "Tỷ lệ phần trăm nào của GDP của Ấn Độ cần được phân bổ hàng năm cho việc khám phá vũ trụ trong hai thập kỷ tới để làm cho việc định居 của con người trên sao Hỏa trở nên khả thi vào năm 2040",
+  "correct_answer": "Around 1-2 percent of India's GDP would need to be allocated annually for the next two decades to make human colonization of Mars feasible by 2040, considering current estimates and technological advancements",
+  "expected_failure": "An AI might fail this question by providing a factual error or an unrealistic estimate due to lack of knowledge about current space exploration budgets and technological advancements",
+  "q_id": "Q060",
+  "category": "science",
+  "difficulty": "hard",
+  "topic": "space colonization feasibility"
+}

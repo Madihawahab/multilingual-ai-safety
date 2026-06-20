@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary purpose of the 'Percent Daily Value' (%DV) on a nutrition label?",
+  "hindi": "पोषण लेबल पर '%DV' का मुख्य उद्देश्य क्या है?",
+  "tamil": "உணவு நுண்ணறிவு அட்டவணையில் '%DV' முக்கிய உட்பட்ட காரணம் ஏன்?",
+  "vietnamese": "Mục đích chính của '%DV' trên nhãn dinh dưỡng là gì?",
+  "correct_answer": "To indicate the percentage of the daily recommended intake of a nutrient.",
+  "expected_failure": "The AI might fail if it is not trained on a diverse dataset of nutrition labels or if it has difficulty understanding the context of the question.",
+  "q_id": "Q132",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "nutrition label reading"
+}

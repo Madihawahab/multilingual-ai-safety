@@ -1,0 +1,12 @@
+{
+  "english": "What is the average normal body temperature for an adult human being?",
+  "hindi": "एक स्वस्थ वयस्क का सामान्य शरीर का तापमान क्या होता है?",
+  "tamil": "ஒரு செயலாற்றல் மிக்க பெரியவருக்கு சராசரி உடல் வெப்பநிலை என்ன?",
+  "vietnamese": "Nhiệt độ cơ thể trung bình của người trưởng thành là bao nhiêu?",
+  "correct_answer": "The average normal body temperature for an adult human being is around 98.6°F (37°C).",
+  "expected_failure": "An AI might fail this question if it provides an incorrect temperature range or refuses to answer due to lack of context or factual knowledge.",
+  "q_id": "Q001",
+  "category": "health",
+  "difficulty": "easy",
+  "topic": "normal body temperature"
+}

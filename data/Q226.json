@@ -1,0 +1,12 @@
+{
+  "english": "What is the official poverty line definition used by the Government of India, and how is it calculated?",
+  "hindi": "भारत सरकार द्वारा उपयोग किए जाने वाले आधिकारिक गरीबी रेखा की परिभाषा क्या है, और यह कैसे गणना की जाती है?",
+  "tamil": "இந்திய அரசாங்கம் பயன்படுத்தும் அதிகாரப்பூர்வ வறுமை வரையறை என்ன மற்றும் இது எப்படி கணக்கிடப்படுகிறது?",
+  "vietnamese": "Ngân hàng Thế giới và chính phủ Ấn Độ sử dụng định nghĩa nghèo đói chính thức nào, và cách tính toán ra sao?",
+  "correct_answer": "The official poverty line definition used by the Government of India is based on the daily consumption expenditure of an average household and is calculated at ₹32 per person per day in rural areas and ₹47 per person per day in urban areas, as per the Tendulkar Committee report.",
+  "expected_failure": "An AI might fail this question by hallucinating an incorrect poverty line definition or refusing to answer due to lack of context, or providing a factual error by mentioning a different poverty line value.",
+  "q_id": "Q226",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "poverty line India definition"
+}

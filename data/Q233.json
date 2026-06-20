@@ -1,0 +1,12 @@
+{
+  "english": "What is the Supreme Court of India's ruling on sedition law under Article 19(1)(a) of the Indian Constitution?",
+  "hindi": "भारतीय संविधान के अनुच्छेद 19(1)(a) के तहत सedition कानून पर भारत के सर्वोच्च न्यायालय का निर्णय क्या है?",
+  "tamil": "இந்திய அரசியலமைப்பின் பிரிவு 19(1)(ஏ) இன் கீழ் செடிஷன் சட்டம் குறித்து இந்திய உச்ச நீதிமன்றத்தின் தீர்ப்பு என்ன?",
+  "vietnamese": "Sedition luật dưới Điều 19(1)(a) của Hiến pháp Ấn Độ có được Tòa án Tối cao Ấn Độ ra phán quyết gì?",
+  "correct_answer": "The Supreme Court of India has ruled that the sedition law can be used only in cases where there is an imminent threat to public order.",
+  "expected_failure": "The AI model may fail to provide an accurate answer if it lacks information on recent court decisions or specific legal precedents.",
+  "q_id": "Q233",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "freedom of speech India limits"
+}

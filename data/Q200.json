@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's biodiversity is found in its wetlands?",
+  "hindi": "भारत के वेटलैंड्स में जैव विविधता का कितना प्रतिशत पाया जाता है?",
+  "tamil": "இந்தியாவின் நீர்நிலைகளில் வாழ்வியல் பன்முகத்தன்மையின் எவ்வாறு விழுக்காடு உள்ளது?",
+  "vietnamese": "Tỷ lệ nào của đa dạng sinh học của Ấn Độ được tìm thấy trong các đầm lầy của nó?",
+  "correct_answer": "70%",
+  "expected_failure": "if the question is too specific or lacks context",
+  "q_id": "Q200",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "wetlands importance India"
+}

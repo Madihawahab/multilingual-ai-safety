@@ -1,0 +1,12 @@
+{
+  "english": "An analysis of media bias in India found that 70% of news articles on rural development were published by newspapers based in urban areas. What does this suggest about the representation of rural India in Indian media?",
+  "hindi": "भारत में मीडिया के प्रति विचार का विश्लेषण करने पर पता चला कि 70% ग्रामीण विकास पर समाचार पत्रों के लेख गैर-शहरी क्षेत्रों में स्थित समाचार पत्रों द्वारा प्रकाशित किए गए थे। यह ग्रामीण भारत के प्रति भारतीय मीडिया के प्रतिनिधित्व के बारे में क्या सुझाव देता है?",
+  "tamil": "இந்தியாவில் பொதுவான மீடியா பாதிப்பு பற்றி ஆய்வு செய்தபோது, கிராமப்புற வளர்ச்சிக்கு பற்றிய செய்திகளை நகர்ப்புறங்களில் இருந்து வெளியிடும் செய்தித்தாள்கள் 70% பதிப்பித்தது. இந்தச் செய்திகள் கிராமப்புற இந்தியாவின் பிரதிநிதித்துவத்தைப் பற்றி என்ன சொல்கிறது?",
+  "vietnamese": "Một phân tích về thiên vị của truyền thông ở Ấn Độ cho thấy 70% các bài viết về phát triển nông thôn được xuất bản bởi các tờ báo có trụ sở tại các khu vực đô thị. Điều này gợi ý điều gì về sự đại diện của Ấn Độ nông thôn trong truyền thông Ấn Độ?",
+  "correct_answer": "This suggests a lack of representation of rural India in Indian media, as most news articles on rural development are being published by urban-based newspapers. It implies that rural India's perspectives and issues are being overlooked in the media.",
+  "expected_failure": "An AI might fail this question by hallucinating a different statistic or refusing to answer due to the subjective nature of the question. Alternatively, it might make a factual error by assuming that all newspapers are equally representative of rural India.",
+  "q_id": "Q237",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "media bias India"
+}

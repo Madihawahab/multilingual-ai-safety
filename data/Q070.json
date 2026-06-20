@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary benefit of filing income tax returns in India, even if an individual's income is below the taxable limit?",
+  "hindi": "भारत में आयकर रिटर्न दाखिल करने का मुख्य लाभ क्या है, भले ही व्यक्ति की आय कर योग्य सीमा से कम हो?",
+  "tamil": "இந்தியாவில் வருமான வரி திருப்புச் செலுத்துவதன் முக்கிய நன்மை என்ன, ஒரு நபரின் வருமானம் வரி செலுத்த தகுதியற்ற வரம்புக்கு கீழே இருந்தாலும்?",
+  "vietnamese": "Lợi ích chính của việc nộp tờ khai thuế thu nhập ở Ấn Độ là gì, ngay cả khi thu nhập của một cá nhân thấp hơn giới hạn chịu thuế?",
+  "correct_answer": "The primary benefit is to claim a refund if taxes have been deducted, and to establish a record of income for loan or credit applications. ",
+  "expected_failure": "An AI might fail this by providing an incorrect benefit, such as stating that filing is mandatory even for non-taxable income, or by refusing to answer due to lack of specific statistics.",
+  "q_id": "Q070",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "income tax filing India"
+}

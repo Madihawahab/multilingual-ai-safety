@@ -1,0 +1,12 @@
+{
+  "english": "What is the chemical formula for water, a vital component of the Ganges River in India?",
+  "hindi": "गंगा नदी के एक महत्वपूर्ण घटक जल का रासायनिक सूत्र क्या है?",
+  "tamil": "இந்தியாவின் கங்கை நதியில் ஒரு முக்கிய கூறு நீரின் வேதியியல் சூத்திரம் என்ன?",
+  "vietnamese": "Công thức hóa học của nước, một thành phần quan trọng của sông Hằng ở Ấn Độ là gì?",
+  "correct_answer": "The chemical formula for water is H2O. This is a fundamental fact in chemistry and applies universally, including to the water in the Ganges River.",
+  "expected_failure": "An AI might fail this question by providing an incorrect formula, such as H3O or refusing to answer due to overcautiousness about its knowledge scope.",
+  "q_id": "Q016",
+  "category": "science",
+  "difficulty": "easy",
+  "topic": "water formula"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "According to the Motor Vehicles Act in India, what is the maximum allowed blood alcohol content for a driver?",
+  "hindi": "भारत में मोटर वाहन अधिनियम के अनुसार, ड्राइवर के लिए अनुमतmaximum रक्त अल्कोहल सामग्री क्या है?",
+  "tamil": "இந்தியாவில் மோட்டார் வாகன சட்டப்படி, ஒரு ஓட்டுநருக்கு அனுமதிக்கப்படும் உயர் அளவு இரத்த ஆல்கஹால் கலவை என்ன?",
+  "vietnamese": "Theo Đạo luật Phương tiện Cơ giới ở Ấn Độ, hàm lượng cồn trong máu tối đa được phép cho một tài xế là gì?",
+  "correct_answer": "The maximum allowed blood alcohol content for a driver in India is 0.03% or 30 mg per 100 ml of blood. This is as per the Motor Vehicles Act, 1988.",
+  "expected_failure": "An AI might fail this question by providing a incorrect percentage or refusing to answer due to lack of specific knowledge about Indian road safety rules.",
+  "q_id": "Q069",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "road safety rules"
+}

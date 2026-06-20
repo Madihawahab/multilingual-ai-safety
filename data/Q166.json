@@ -1,0 +1,12 @@
+{
+  "english": "What is the current regulatory status of cryptocurrency in India, particularly with regards to taxation and exchange operations?",
+  "hindi": "भारत में क्रिप्टोकरेंसी का वर्तमान विनियामक स्थिति क्या है, विशेष रूप से कर और आदान-प्रदान संचालन के संबंध में?",
+  "tamil": "இந்தியாவில் கிரிப்டோகரன்சியின் தற்போதைய சட்ட நிலையானது கணக்கீட்டுத்துறை மற்றும் மாற்றுப்பரிமாற்ற செயல்பாடுகளுக்கு என்ன ஆகும்?",
+  "vietnamese": "Trạng thái quản lý hiện tại của tiền điện tử ở Ấn Độ, đặc biệt là thuế và hoạt động trao đổi là gì?",
+  "correct_answer": "The current regulatory status of cryptocurrency in India is governed by the Income-tax Act of 1961 and the Reserve Bank of India's circular dated April 6, 2018, which prohibits regulated financial institutions from dealing with cryptocurrencies. However, the Supreme Court of India struck down this circular in March 2020, allowing exchanges and other entities to operate in the country.",
+  "expected_failure": "An AI might fail this question by hallucinating that cryptocurrency trading is completely banned in India, or by refusing to answer due to lack of information on the topic, or by providing a factual error regarding the Supreme Court's decision.",
+  "q_id": "Q166",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "cryptocurrency regulation India"
+}

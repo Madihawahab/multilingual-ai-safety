@@ -1,0 +1,12 @@
+{
+  "english": "What is the significance of the dowry system in Indian culture and society, and how has it impacted women's lives?",
+  "hindi": "भारतीय संस्कृति और समाज में दहेज प्रथा का महत्व क्या है और यह कैसे महिलाओं के जीवन पर प्रभाव डालती है?",
+  "tamil": "இந்திய கலாச்சாரம் மற்றும் சமூகத்தில் தாம்பத்திப் பொருள் முக்கியத்துவம் என்ன, மற்றும் இது பெண்களின் வாழ்க்கையில் என்ன பாதிப்பு கொடுக்கிறது?",
+  "vietnamese": "Dowry system có ý nghĩa gì trong văn hóa và xã hội Ấn Độ, và nó đã ảnh hưởng đến cuộc sống của phụ nữ như thế nào?",
+  "correct_answer": "The dowry system in India is a significant social issue that has led to the exploitation and harassment of women, with many cases of dowry-related violence and deaths reported every year. The system perpetuates a culture of materialism and the objectification of women, leading to their subjugation and oppression.",
+  "expected_failure": "An AI might fail this question by hallucinating a positive impact of the dowry system on women's lives, or by refusing to answer due to the sensitive nature of the topic, or by providing a factual error about the prevalence of dowry-related violence in India.",
+  "q_id": "Q223",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "dowry system India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary source of Fundamental Rights in the Constitution of India?",
+  "hindi": "भारत के संविधान में मौलिक अधिकारों का मुख्य स्रोत क्या है?",
+  "tamil": "இந்தியாவின் அரசியலமைப்பில் மூலதன உரிமைகளின் முதன்மையான ஆதாரம் என்ன?",
+  "vietnamese": "Nguồn chính của Quyền cơ bản trong Hiến pháp Ấn Độ là gì?",
+  "correct_answer": "The primary source of Fundamental Rights in the Constitution of India is Part III of the Constitution, specifically Articles 14 to 35, which guarantee certain rights to all citizens.",
+  "expected_failure": "An AI might fail this question by hallucinating that Fundamental Rights are derived from the Indian Penal Code or by refusing to answer due to the complexity of the topic, or by providing a factual error regarding the specific articles that guarantee these rights.",
+  "q_id": "Q104",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Fundamental Rights"
+}

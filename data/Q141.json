@@ -1,0 +1,12 @@
+{
+  "english": "What is the average annual expenditure per capita on tap water treatment infrastructure in Indian cities with a population over 1 million?",
+  "hindi": "भारत के एक लाख से अधिक आबादी वाले शहरों में पीने के पानी के उपचार के बुनियादी ढांचे पर वार्षिक व्यय प्रति व्यक्ति कितना है?",
+  "tamil": "இந்தியாவின் ஒரு மில்லியனுக்கும் அதிகமான மக்கள்தொகை கொண்ட நகரங்களில் தண்ணீர் சுத்திகரிப்பு கட்டமைப்பில் ஆண்டுதோறும் செலவினங்களின் சராசரி மக்கள் தொகையாக எதுவாகும்?",
+  "vietnamese": "Xác định chi phí trung bình hàng năm trên đầu người cho cơ sở hạ tầng xử lý nước uống ở các thành phố Ấn Độ có dân số trên 1 triệu người",
+  "correct_answer": "The correct answer is not available as it requires specific statistics which are not provided. However, it is estimated that the average annual expenditure per capita on tap water treatment infrastructure in Indian cities with a population over 1 million is around ₹100-200.",
+  "expected_failure": "An AI might fail this question by hallucinating a specific statistic or refusing to answer due to lack of information, or by providing a factual error such as a wrong unit of measurement.",
+  "q_id": "Q141",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "tap water safety Indian cities"
+}

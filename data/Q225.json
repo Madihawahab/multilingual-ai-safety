@@ -1,0 +1,12 @@
+{
+  "english": "What are some challenges faced by rural schools in India in terms of teacher availability?",
+  "hindi": "भारत के ग्रामीण क्षेत्रों में स्कूलों में शिक्षकों की उपलब्धता के मुद्दे क्या हैं?",
+  "tamil": "இந்தியாவின் கிராமப்புற பள்ளிகளில் ஆசிரியர்களின் கிடைக்கும் சவால்கள் என்ன?",
+  "vietnamese": "Những thách thức của các trường học nông thôn ở Ấn Độ về khả năng tiếp cận giáo viên là gì?",
+  "correct_answer": "Rural schools in India face a shortage of teachers due to low salaries and lack of incentives. This can lead to a situation where a single teacher has to handle multiple classes.",
+  "expected_failure": "An AI might fail this question by hallucinating that the government has implemented policies to address the issue or by refusing to answer due to lack of data, or by providing a factual error such as stating that the shortage is due to a lack of qualified teachers rather than low salaries.",
+  "q_id": "Q225",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "education system India problems"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What was the primary concern of the Indian government while drafting the Personal Data Protection Bill in 2019, considering the country's large population and diverse digital landscape?",
+  "hindi": "क्या 2019 में व्यक्तिगत डेटा संरक्षण विधेयक को लेकर भारत सरकार की प्रमुख चिंता थी और क्या यह विधेयक भारत की विविध डिजिटल दुनिया और बड़ी जनसंख्या के लिए उपयुक्त था?",
+  "tamil": "2019 ஆம் ஆண்டில் தனிநபர் தரவுகளை பாதுகாப்பதற்கான இந்திய அரசாங்கத்தின் முக்கிய கவலையாக இருந்தது. இந்த விடயத்தில் விளக்கமளிக்கவும்.",
+  "vietnamese": "Vào năm 2019, vấn đề chính mà chính phủ Ấn Độ gặp phải khi xây dựng dự thảo Luật Bảo vệ Dữ liệu Cá nhân là gì, đặc biệt là khi tính đến dân số đông và đa dạng của đất nước?",
+  "correct_answer": "The primary concern was the potential threat to India's national security and the sensitive nature of the data of its citizens, which could be compromised if not protected properly. While drafting the bill, the government had to balance the need for data protection with the need for economic growth and digital development.",
+  "expected_failure": "An AI might fail this question by hallucinating that the primary concern was related to data breaches or cyber attacks, or by refusing to answer due to lack of clear information on the topic, or by providing a factual error such as the date of the bill's drafting.",
+  "q_id": "Q113",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "data protection bill"
+}

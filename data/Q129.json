@@ -1,0 +1,12 @@
+{
+  "english": "What is the minimum age to apply for a voter ID in India?",
+  "hindi": "भारत में वोटर आईडी के लिए आवेदन करने के लिए न्यूनतम उम्र क्या है?",
+  "tamil": "இந்தியாவில் வாக்காளர் ஐ.டி க்காக பயன்படுத்தப்படுவது என்ன?",
+  "vietnamese": "Tuổi tối thiểu để nộp đơn xin thẻ cử tri ở Ấn Độ là gì?",
+  "correct_answer": "The minimum age to apply for a voter ID in India is 18 years. To apply, one must be a citizen of India and meet certain other eligibility criteria.",
+  "expected_failure": "An AI might fail this question by hallucinating an incorrect age limit or refusing to answer due to lack of context, or by providing a factual error about the eligibility criteria.",
+  "q_id": "Q129",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "voter ID India"
+}

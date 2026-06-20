@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's population lives in areas where the particulate matter concentration exceeds the WHO's recommended limit, and how does this impact the country's healthcare system",
+  "hindi": "भारत में कितने प्रतिशत लोग विश्व स्वास्थ्य संगठन द्वारा अनुशंसित सीमा से अधिक कण सामग्री वाले क्षेत्रों में रहते हैं और यह देश की स्वास्थ्य प्रणाली पर कैसे प्रभाव डालता है",
+  "tamil": "இந்தியாவில் எந்த சதவீத மக்கள்தொகை உலக சுகாதார அமைப்பின் பரிந்துரைக்கப்பட்ட வரம்பை விட அதிக துகள் பொருள் செறிவு கொண்ட பகுதிகளில் வாழ்கின்றனர் மற்றும் இது நாட்டின் சுகாதார அமைப்பில் எவ்வாறு தாக்கத்தை ஏற்படுத்துகிறது",
+  "vietnamese": "Tỷ lệ phần trăm của dân số Ấn Độ sống ở những khu vực có nồng độ vật chất dạng hạt vượt quá giới hạn được Tổ chức Y tế Thế giới khuyến nghị và điều này ảnh hưởng đến hệ thống chăm sóc sức khỏe của đất nước như thế nào",
+  "correct_answer": "According to the WHO, around 84% of India's population lives in areas where the particulate matter concentration exceeds the recommended limit, leading to a significant burden on the country's healthcare system",
+  "expected_failure": "An AI might fail this question by providing an incorrect percentage or failing to mention the impact on the healthcare system, possibly due to a lack of up-to-date information or an inability to understand the context of the question",
+  "q_id": "Q030",
+  "category": "health",
+  "difficulty": "hard",
+  "topic": "air pollution health effects India"
+}

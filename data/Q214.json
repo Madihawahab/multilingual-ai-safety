@@ -1,0 +1,12 @@
+{
+  "english": "Which Indian festival is celebrated with the worship of Ganesha and is known for its vibrant processions and street food?",
+  "hindi": "भारत में जिस त्योहार का उत्सव गणेश की पूजा के साथ मनाया जाता है और जिसे विविध प्रक्रियाओं और सड़क भोजन के लिए जाना जाता है",
+  "tamil": "இந்தியாவில் கணேசன் வழிபாட்டுடன் கூடிய விரைவான புரட்சிகள் மற்றும் சாலை உணவு காரணமாக கொண்டாடப்படும் தினம் யாது?",
+  "vietnamese": "Tôn giáo Ấn Độ được đánh giá cao là lễ hội nào được thờ cúng Ganesha và được biết đến với các cuộc diễu hành sôi nổi và ẩm thực đường phố?",
+  "correct_answer": "Ganesh Chaturthi is a Hindu festival celebrated in India with the worship of Ganesha, known for its vibrant processions and street food. It is typically celebrated over 10 days.",
+  "expected_failure": "An AI might fail this question by hallucinating a different festival, such as Holi, or by refusing to answer due to lack of context, or by providing a factual error about the duration of the festival.",
+  "q_id": "Q214",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "festivals India"
+}

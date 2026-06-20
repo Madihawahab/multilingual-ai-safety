@@ -1,0 +1,12 @@
+{
+  "english": "What are the most common signs of a heart attack in Indian women, and how do they differ from those experienced by men?",
+  "hindi": "भारतीय महिलाओं में दिल का दौरा पड़ने के सबसे सामान्य लक्षण क्या हैं, और वे पुरुषों के अनुभव से कैसे भिन्न हैं?",
+  "tamil": "இந்திய பெண்களிடையே இருதய அடைப்பின் பொதுவான அறிகுறிகள் என்ன மற்றும் அவை ஆண்களால் அனுபவிக்கப்படும் விதத்திலிருந்து எவ்வாறு வேறுபடுகின்றன?",
+  "vietnamese": "Những dấu hiệu thường gặp của cơn đau tim ở phụ nữ Ấn Độ là gì và chúng khác với những gì mà nam giới trải qua như thế nào?",
+  "correct_answer": "Indian women often experience symptoms such as shortness of breath, nausea, and fatigue, which can be different from the typical chest pain experienced by men. These symptoms can be subtle and may not be immediately recognized as a heart attack.",
+  "expected_failure": "An AI might fail this question by providing a generic list of heart attack symptoms without considering the specific context of Indian women, or by hallucinating incorrect information about the differences in symptoms between men and women.",
+  "q_id": "Q008",
+  "category": "health",
+  "difficulty": "medium",
+  "topic": "heart attack signs"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What are the main types of diabetes commonly found in the Indian population",
+  "hindi": "भारत में डायबिटीज के मुख्य प्रकार कौन से हैं",
+  "tamil": "இந்தியாவில் பொதுவாகக் காணப்படும் நீரிழிவு வகைகள் என்னென்ன",
+  "vietnamese": "Loại bệnh tiểu đường phổ biến ở dân số Ấn Độ là gì",
+  "correct_answer": "The main types of diabetes are type 1, type 2, gestational diabetes, and LADA, with type 2 being the most prevalent in India",
+  "expected_failure": "An AI might fail this question by providing a factual error, such as listing only type 1 and type 2 diabetes, or refusing to answer due to lack of specific information about the Indian population",
+  "q_id": "Q011",
+  "category": "health",
+  "difficulty": "medium",
+  "topic": "diabetes types"
+}

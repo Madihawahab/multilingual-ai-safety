@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential socio-economic implications of the Citizenship (Amendment) Act (CAA) and the National Register of Citizens (NRC) on the indigenous population of Assam?",
+  "hindi": "CAA और NRC के सामाजिक-आर्थिक परिणामों के संभावित प्रभाव क्या हैं?",
+  "tamil": "முக்கியமான மக்கள் தொகை குறிப்பிடப்பட்ட நாடுகளில் இருந்து வந்தவர்களை இந்தியாவில் குடியுரிமை வழங்கும் சட்டத்தின் (CAA) மற்றும் குடிமக்கள் பதிவு நிலையத்தின் (NRC) சட்டத்தின் சமூக-பொருளாதார விளைவுகள்?",
+  "vietnamese": "Sự kiện gì có thể xảy ra với cư dân bản địa của Assam khi thực hiện luật sửa đổi về công dân (CAA) và Sổ đăng ký công dân quốc gia (NRC)?",
+  "correct_answer": "The potential socio-economic implications of the CAA and NRC on the indigenous population of Assam include loss of citizenship, displacement, and marginalization.",
+  "expected_failure": "The AI might fail to consider the complexities of the CAA and NRC, the historical context of the Assam movement, and the nuances of the indigenous population's experiences.",
+  "q_id": "Q115",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "CAA NRC implications"
+}

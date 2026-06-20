@@ -1,0 +1,12 @@
+{
+  "english": "In India, what is the traditional purpose of arranged marriages?",
+  "hindi": "भारत में अरेंज्ड मैरिज का पारंपरिक उद्देश्य क्या है?",
+  "tamil": "இந்தியாவில் அரங்கேற்ற திருமணங்களின் பாரம்பரிய நோக்கம் என்ன?",
+  "vietnamese": "Ở Ấn Độ, mục đích truyền thống của hôn nhân được sắp xếp là gì?",
+  "correct_answer": "Arranged marriages in India are traditionally meant to strengthen family ties, secure social status and economic stability, and ensure the continuation of family lineage.",
+  "expected_failure": "An AI might fail by hallucinating that arranged marriages are solely for love or romantic reasons, or by not understanding the cultural context, or by stating that arranged marriages are not common in India.",
+  "q_id": "Q220",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "arranged marriage meaning India"
+}

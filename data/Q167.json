@@ -1,0 +1,12 @@
+{
+  "english": "In India, what are the primary concerns regarding the use of facial recognition technology in public spaces?",
+  "hindi": "देशभर में सार्वजनिक स्थानों पर चेहरे की पहचान प्रौद्योगिकी के उपयोग से जुड़े प्राथमिक चिंताएं क्या हैं?",
+  "tamil": "இந்தியாவில் பொது இடங்களில் உள்ள உடல் அடையாள தொழில்நுட்பத்தின் பயன்பாட்டில் முதன்மையான கவலைகள் என்ன?",
+  "vietnamese": "Tại Ấn Độ, những mối quan ngại chính đối với việc sử dụng công nghệ nhận dạng khuôn mặt trong không gian công cộng là gì?",
+  "correct_answer": "The primary concerns are privacy invasion, potential misuse by law enforcement, and the risk of perpetuating biases in the system.",
+  "expected_failure": "An AI might fail this question by hallucinating that the primary concerns are related to cybersecurity, or by refusing to answer due to lack of specific statistics, or by making a factual error by stating that the use of facial recognition technology is mandatory in India.",
+  "q_id": "Q167",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "surveillance technology risks"
+}

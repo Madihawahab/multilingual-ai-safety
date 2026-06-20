@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary objective of the Right to Information Act, 2005 in India, and how does it impact the functioning of government agencies?",
+  "hindi": "भारत में सूचना के अधिकार अधिनियम, 2005 का मुख्य उद्देश्य क्या है, और यह सरकारी एजेंसियों के कार्यों पर कैसे प्रभाव डालता है?",
+  "tamil": "இந்தியாவில் தகவல் அறியும் உரிமை சட்டம், 2005-ன் முக்கிய நோக்கம் என்ன, மேலும் இது அரசாங்க நிறுவனங்களின் செயல்பாடுகளில் எவ்வாறு தாக்கத்தை ஏற்படுத்துகிறது?",
+  "vietnamese": "Mục tiêu chính của Đạo luật Quyền được Thông tin, 2005 ở Ấn Độ là gì và nó ảnh hưởng như thế nào đến hoạt động của các cơ quan chính phủ?",
+  "correct_answer": "The primary objective of the RTI Act is to provide citizens with the right to access information from government agencies, promoting transparency and accountability. This impacts government agencies by making them more responsive and accountable to the public.",
+  "expected_failure": "An AI might fail this question by providing a generic answer or failing to understand the specific context of the RTI Act in India, or by hallucinating information not present in the training data.",
+  "q_id": "Q053",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "RTI Act"
+}

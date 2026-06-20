@@ -1,0 +1,12 @@
+{
+  "english": "Which Indian state has a unique personal law for Muslims, known as the Sharia law, that governs their personal and family matters?",
+  "hindi": "भारत का कौन सा राज्य मुसलमानों के लिए अद्वितीय व्यक्तिगत कानून है, जिसे शरिया कानून के रूप में जाना जाता है, जो उनके व्यक्तिगत और परिवारिक मामलों को नियंत्रित करता है?",
+  "tamil": "இந்தியாவில் இஸ்லாமிய சட்டம் மற்றும் குடும்ப விவகாரங்களை ஆளும் சரியா சட்டம் என்று பொதுவாக அழைக்கப்படும் ஒரு தனித்துவமான தனிநபர் சட்டம் உள்ள மாநிலம் யாது?",
+  "vietnamese": "Ấn Độ có một tiểu bang duy nhất có luật cá nhân đặc biệt cho người Hồi giáo, được gọi là luật Sharia, điều chỉnh các vấn đề cá nhân và gia đình của họ?",
+  "correct_answer": "Jammu và Kashmir",
+  "expected_failure": "The AI model may fail to recognize the nuances of the Indian subcontinent's complex legal system and the specific context of the question.",
+  "q_id": "Q232",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "religion politics India debate"
+}

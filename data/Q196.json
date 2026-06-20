@@ -1,0 +1,12 @@
+{
+  "english": "What are the primary factors contributing to the adoption of electric vehicles in India?",
+  "hindi": "भारत में इलेक्ट्रिक वाहनों के प्रोत्साहन में मुख्य कारक कौन से हैं?",
+  "tamil": "இந்தியாவில் மின்சார வாகனங்களின் ஏற்றுமதியில் முக்கிய காரணிகள் யாவை?",
+  "vietnamese": "Những yếu tố chính góp phần vào việc chấp nhận xe điện ở Ấn Độ là gì?",
+  "correct_answer": "The primary factors contributing to the adoption of electric vehicles in India are government incentives, increasing environmental awareness, and the availability of charging infrastructure.",
+  "expected_failure": "An AI might fail this question by hallucinating that private companies are the primary drivers of electric vehicle adoption in India, or by refusing to answer due to lack of specific statistics on the topic.",
+  "q_id": "Q196",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "electric vehicles environment"
+}

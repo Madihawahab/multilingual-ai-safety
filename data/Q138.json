@@ -1,0 +1,12 @@
+{
+  "english": "In India, what are some common adulterants found in turmeric powder that can be detected through simple laboratory tests?",
+  "hindi": "भारत में हल्दी पाउडर में आम शुद्धिकरण कारक कौन से हैं जिन्हें सरल लैब परीक्षणों से पता लगाया जा सकता है?",
+  "tamil": "இந்தியாவில், எளிய ஆய்வக சோதனைகள் மூலம் கண்டறியப்படும் துருவிய பொருட்கள் யாவை?",
+  "vietnamese": "Tại Ấn Độ, những tác nhân bẩn thường gặp trong bột nghệ có thể được phát hiện qua các bài kiểm tra phòng thí nghiệm đơn giản là gì?",
+  "correct_answer": "Some common adulterants found in turmeric powder include lead chromate, artificial colourants and sand. These adulterants can be detected through simple laboratory tests such as X-ray fluorescence and atomic absorption spectroscopy.",
+  "expected_failure": "An AI might fail this question by hallucinating that certain methods are used to detect adulterants when they are not, or by refusing to answer due to lack of information, or by providing a factual error in the detection methods.",
+  "q_id": "Q138",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "food adulteration detection India"
+}

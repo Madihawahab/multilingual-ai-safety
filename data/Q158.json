@@ -1,0 +1,12 @@
+{
+  "english": "What is open source software and how is it used in India?",
+  "hindi": "भारत में खुले स्रोत सॉफ्टवेयर क्या है और इसका उपयोग कैसे किया जाता है?",
+  "tamil": "இந்தியாவில் பொதுச் செயல்திறன் மென்பொருள் என்னவென்றால்?",
+  "vietnamese": "Ở Ấn Độ, phần mềm mã nguồn mở là gì và được sử dụng như thế nào?",
+  "correct_answer": "Open source software is a type of software where the source code is publicly available and can be modified by anyone. In India, it is widely used in the IT industry and has contributed to the development of free and open-source software like Linux and LibreOffice.",
+  "expected_failure": "An AI might fail this question by hallucinating that open source software is only used in the IT industry, or by refusing to answer due to lack of knowledge about the topic, or by providing a factual error about the types of software that are open source.",
+  "q_id": "Q158",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is open source software"
+}

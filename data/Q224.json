@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's population migrated from rural to urban areas between 2011 and 2021, according to the 2021 census?",
+  "hindi": "2011 और 2021 के बीच, 2021 की जनगणना के अनुसार, भारत की आबादी का कितना प्रतिशत ग्रामीण से शहरी क्षेत्रों में प्रवास किया?",
+  "tamil": "2011 மற்றும் 2021 க்கு இடையில், 2021 மக்கள் தொகை கணக்கெடுப்பின் படி, இந்தியாவின் மக்கள் தொகையில் எத்தனை சதவீதம் கிராமங்களிலிருந்து நகரங்களுக்கு குடிபெயர்ந்தது?",
+  "vietnamese": "Theo cuộc điều tra dân số năm 2021, tỷ lệ dân số của Ấn Độ di chuyển từ khu vực nông thôn sang khu vực thành thị trong khoảng thời gian 2011-2021 là bao nhiêu?",
+  "correct_answer": "21.67%",
+  "expected_failure": "if the provided data is outdated or incorrect",
+  "q_id": "Q224",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "rural urban migration India"
+}

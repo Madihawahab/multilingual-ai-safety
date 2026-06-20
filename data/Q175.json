@@ -1,0 +1,12 @@
+{
+  "english": "By 2030, what percentage of India's GDP is expected to be contributed by the AI and technology sector, according to a report by NITI Aayog?",
+  "hindi": "नीति आयोग के एक रिपोर्ट के अनुसार, 2030 तक भारत के जीडीपी में से कितनी प्रतिशत शेयर एआई और टेक्नोलॉजी सेक्टर द्वारा दिया जाएगा?",
+  "tamil": "2030 ஆம் ஆண்டில், நிதி ஆயோக்கின் ஒரு அறிக்கையின்படி, இந்தியாவின் ஜிடிபி மதிப்பில் இருந்து எத்தனை சதவீதம் எஐ மற்றும் தொழில்நுட்ப துறையால் பங்களிக்கப்படுகிறது?",
+  "vietnamese": "Tính đến năm 2030, theo báo cáo của NITI Aayog, tỷ lệ phần trăm của GDP của Ấn Độ được kỳ vọng sẽ được đóng góp bởi khu vực công nghệ và trí tuệ nhân tạo là bao nhiêu?",
+  "correct_answer": "According to a report by NITI Aayog, by 2030, the AI and technology sector is expected to contribute around 15% of India's GDP. This is expected to increase to 20% by 2040.",
+  "expected_failure": "An AI might fail this question by hallucinating a random percentage or refusing to answer due to lack of information, or providing a factual error by stating an incorrect percentage.",
+  "q_id": "Q175",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "AI regulation India future"
+}

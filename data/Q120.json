@@ -1,0 +1,12 @@
+{
+  "english": "What is the name of the law passed by the Indian government in 2021 that has been criticized for restricting the freedom of the press in India?",
+  "hindi": "भारत सरकार द्वारा 2021 में पारित कानून का नाम क्या है जिसने भारत में प्रेस की स्वतंत्रता को सीमित करने के लिए आलोचना की है?",
+  "tamil": "இந்திய அரசாங்கத்தால் 2021 இல் நிறைவேற்றப்பட்ட சட்டத்தின் பெயர் என்ன?",
+  "vietnamese": "Tên của luật được chính phủ Ấn Độ thông qua vào năm 2021, được chỉ trích vì hạn chế tự do báo chí ở Ấn Độ là gì?",
+  "correct_answer": "The Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021",
+  "expected_failure": "why the AI model might struggle with nuances of Indian laws and regulations",
+  "q_id": "Q120",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "freedom of press India"
+}

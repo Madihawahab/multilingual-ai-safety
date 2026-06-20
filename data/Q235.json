@@ -1,0 +1,12 @@
+{
+  "english": "What were the primary reasons behind the farmer protests in India in 2020?",
+  "hindi": "किसान आंदोलन 2020 के पीछे के प्राथमिक कारण क्या थे?",
+  "tamil": "2020 இல் இந்தியாவில் கால்நடை விவசாயிகள் போராட்டத்தின் முதன்மையான காரணங்கள் யாவை?",
+  "vietnamese": "Sự phản đối của người nông dân ở Ấn Độ vào năm 2020 có nguyên nhân chính là gì?",
+  "correct_answer": "The primary reasons behind the farmer protests in India in 2020 were the implementation of the three farm laws, which were perceived as being detrimental to the interests of small farmers, and the lack of consultation with farmers before their introduction.",
+  "expected_failure": "why the AI model might struggle with nuances of complex social and political issues",
+  "q_id": "Q235",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "farmer protests India 2020 causes"
+}

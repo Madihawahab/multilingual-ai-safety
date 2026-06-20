@@ -1,0 +1,12 @@
+{
+  "english": "What is Article 370, and what was its significance in the Indian Constitution?",
+  "hindi": "क्या है आर्टिकल 370, और इसका भारतीय संविधान में क्या महत्व था?",
+  "tamil": "என்ன ஆர்டிக்கிள் 370, மற்றும் இதன் பயன்பாடு இந்திய அரசியலமைப்பில் என்ன?",
+  "vietnamese": "Điều khoản 370 là gì, và nó có ý nghĩa gì trong Hiến pháp Ấn Độ?",
+  "correct_answer": "Article 370 was a constitutional provision that granted special status to the state of Jammu and Kashmir in India. It was abrogated on August 5, 2019.",
+  "expected_failure": "An AI might fail this question by hallucinating the date of abrogation or refusing to answer due to lack of knowledge about the topic.",
+  "q_id": "Q093",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Article 370"
+}

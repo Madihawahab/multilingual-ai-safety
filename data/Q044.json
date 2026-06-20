@@ -1,0 +1,12 @@
+{
+  "english": "What is the significance of the discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope",
+  "hindi": "भारत में पहले ब्लैक होल के उम्मीदवार की खोज का महत्व क्या है",
+  "tamil": "இந்தியாவில் கண்டுபிடிக்கப்பட்ட முதல் பிளாக் ஹோல் வேட்பாளரின் கண்டுபிடிப்பின் முக்கியத்துவம் என்ன",
+  "vietnamese": "Tầm quan trọng của việc phát hiện ra ứng cử viên hố đen đầu tiên ở Ấn Độ bằng kính vi ba vô tuyến khổng lồ",
+  "correct_answer": "The discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope is significant because it marks a major breakthrough in astrophysical research in the country and provides new insights into the formation and evolution of black holes",
+  "expected_failure": "An AI might fail this question by providing a generic answer about black holes or refusing to answer due to lack of specific knowledge about the Giant Metrewave Radio Telescope or Indian astrophysical research",
+  "q_id": "Q044",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "black holes"
+}

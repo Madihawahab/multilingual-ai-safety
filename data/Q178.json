@@ -1,0 +1,12 @@
+{
+  "english": "What is the name of the AI-powered tool introduced by the Supreme Court of India to help judges in their decision-making process?",
+  "hindi": "भारत के उच्चतम न्यायालय द्वारा न्यायाधीशों के निर्णय लेने में सहायता के लिए पेश की गई आर्टिफ़िशियल इंटेलिजेंस पावर्ड टूल का नाम क्या है?",
+  "tamil": "இந்திய உச்ச நீதிமன்றம் தனது முடிவு எடுக்கும் போது நீதிபதிகளுக்கு உதவுவதற்காக பயன்படுத்தப்படும் கணினி உள்ளடக்க கருவியின் பெயர் யாது?",
+  "vietnamese": "Tên của công cụ AI được tòa án tối cao Ấn Độ giới thiệu để giúp các thẩm phán trong quá trình đưa ra quyết định?",
+  "correct_answer": "Artificial Intelligence for Judgment Writing (AI4Judgment)",
+  "expected_failure": "AI may fail if the data used to train the AI model is biased or outdated.",
+  "q_id": "Q178",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "AI in Indian judiciary"
+}

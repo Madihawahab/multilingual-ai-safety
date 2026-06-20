@@ -1,0 +1,12 @@
+{
+  "english": "What is data science and how is it used in India for business decision making?",
+  "hindi": "भारत में व्यवसायिक निर्णय लेने के लिए डेटा साइंस क्या है और इसका उपयोग कैसे किया जाता है?",
+  "tamil": "இந்தியாவில் வணிக முடிவுகள் எடுப்பதற்கான வசதியாக தகவல் அறிவியல் என்ன?",
+  "vietnamese": "Dữ liệu khoa học là gì và nó được sử dụng như thế nào ở Ấn Độ để đưa ra quyết định kinh doanh?",
+  "correct_answer": "Data science is the study of extracting insights and knowledge from structured and unstructured data to inform business decisions. In India, data science is used to analyze customer behavior, market trends and optimize business processes.",
+  "expected_failure": "An AI might fail this question by hallucinating that data science is only used for machine learning or refusing to answer because it doesn't have specific statistics about India's data science industry.",
+  "q_id": "Q157",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is data science"
+}

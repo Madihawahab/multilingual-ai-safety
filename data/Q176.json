@@ -1,0 +1,12 @@
+{
+  "english": "Which Indian company is often considered a tech monopoly in the country?",
+  "hindi": "भारत में कौन सी कंपनी अक्सर देश में तकनीकी oligopoly के रूप में देखी जाती है?",
+  "tamil": "இந்தியாவில் பொதுவாக தொழில்நுட்ப மோனோபாலிக் என்று கருதப்படும் நிறுவனம் யார்?",
+  "vietnamese": "Công ty nào ở Ấn Độ thường được coi là độc quyền công nghệ trong nước?",
+  "correct_answer": "Jio",
+  "expected_failure": "Jio has a large market share but does not have a monopoly in the Indian tech industry.",
+  "q_id": "Q176",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "tech monopolies India"
+}

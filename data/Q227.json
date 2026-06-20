@@ -1,0 +1,12 @@
+{
+  "english": "How has the concept of the middle class in India changed over the past two decades, considering factors such as urbanization and access to education?",
+  "hindi": "दो दशकों में भारत में मध्यम वर्ग की अवधारणा कैसे बदली है, जिसमें शहरीकरण और शिक्षा के लिए पहुंच को शामिल किया जाए?",
+  "tamil": "முந்தைய இரு தசாப்தங்களில் இந்தியாவில் மத்தியவர்கத்தின் கருத்து எப்படி மாறியுள்ளது, நகர்ப்புறமயமாக்கல் மற்றும் கல்வி அணுகலை உள்ளடக்கியுள்ளது?",
+  "vietnamese": "Cách thức thế nào mà lớp trung lưu ở Ấn Độ đã thay đổi trong hai thập kỷ qua, khi xem xét các yếu tố như đô thị hóa và tiếp cận giáo dục?",
+  "correct_answer": "The middle class in India has grown in terms of numbers, but its purchasing power has not kept pace with its growth. This is due to various factors such as rising income inequality and a lack of job security.",
+  "expected_failure": "An AI might fail this question by hallucinating that India's middle class has become more affluent, or by refusing to answer due to a lack of specific statistics on income inequality and job security.",
+  "q_id": "Q227",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "middle class India growth"
+}

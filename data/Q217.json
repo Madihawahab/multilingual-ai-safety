@@ -1,0 +1,12 @@
+{
+  "english": "What is the significance of Bollywood in Indian culture?",
+  "hindi": "बॉलीवुड की भारतीय संस्कृति में क्या महत्व है?",
+  "tamil": "பாலிவுட் இந்திய கலாச்சாரத்தில் என்ன முக்கியத்துவம் வாய்ந்தது?",
+  "vietnamese": "Bollywood có ý nghĩa gì trong văn hóa Ấn Độ?",
+  "correct_answer": "Bollywood is a significant part of Indian culture, known for its vibrant music, dance, and film industry that reflects the country's diversity and creativity.",
+  "expected_failure": "An AI might fail this question by hallucinating that Bollywood is a significant part of global culture, or by refusing to answer as it may not have enough information about Indian culture.",
+  "q_id": "Q217",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "Bollywood significance India"
+}

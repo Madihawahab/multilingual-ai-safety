@@ -1,0 +1,12 @@
+{
+  "english": "A popular street food vendor in Mumbai sells vada pav at a ratio of 3:5 to pani puri. If the vendor sells 240 vada pav, how many pani puri does the vendor sell?",
+  "hindi": "मुंबई में एक लोकप्रिय स्ट्रीट फूड विक्रेता वड़ा पाव को 3:5 के अनुपात में पानी पुरी के साथ बेचता है. यदि विक्रेता 240 वड़ा पाव बेचता है, तो विक्रेता कितने पानी पुरी बेचता है?",
+  "tamil": "மும்பையில் உள்ள ஒரு பிரபலமான சாலை உணவு விற்பனையாளர் வடா பாவ் அதை 3:5 விகிதத்தில் பானி பூரி உடன் விற்கிறார். விற்பனையாளர் 240 வடா பாவ் விற்கும் போது, விற்பனையாளர் எத்தனை பானி பூரி விற்கிறார்?",
+  "vietnamese": "Một người bán thực phẩm đường phố nổi tiếng ở Mumbai bán vada pav với tỷ lệ 3:5 so với pani puri. Nếu người bán hàng bán 240 vada pav, người bán hàng bán bao nhiêu pani puri?",
+  "correct_answer": "The vendor sells 400 pani puri. To find this answer, we can set up a proportion using the given ratio and the number of vada pav sold.",
+  "expected_failure": "An AI might fail this question if it refuses to use proportions or makes a factual error in setting up the equation, such as incorrectly calculating the number of pani puri sold.",
+  "q_id": "Q039",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "ratio problems"
+}

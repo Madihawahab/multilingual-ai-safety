@@ -1,0 +1,12 @@
+{
+  "english": "A Mumbai-based retailer buys a batch of garments for Rs. 50,000 and sells them for Rs. 65,000. What is the profit percentage?",
+  "hindi": "मुंबई के एक खुदरा विक्रेता ने एक बैच कपड़ों को 50,000 रुपये में खरीदा और 65,000 रुपये में बेच दिया। लाभ प्रतिशत क्या है?",
+  "tamil": "மும்பை அடிப்படையிலான ஒரு சில்லறை விற்பனையாளர் ஒரு தொகுதி ஆடைகளை ரூ .50,000 க்கு வாங்கி ரூ .65,000 க்கு விற்கிறார். இலாப சதவீதம் என்ன?",
+  "vietnamese": "Một nhà bán lẻ tại Mumbai mua một lô hàng quần áo với giá 50.000 rupee và bán chúng với giá 65.000 rupee. Tỷ suất lợi nhuận là bao nhiêu?",
+  "correct_answer": "The profit percentage is 30%, calculated as (65000 - 50000) / 50000 * 100.",
+  "expected_failure": "An AI might fail this question if it refuses to perform the calculation or hallucinates an incorrect formula for calculating profit percentage.",
+  "q_id": "Q036",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "profit percentage"
+}

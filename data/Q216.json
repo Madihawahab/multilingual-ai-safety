@@ -1,0 +1,12 @@
+{
+  "english": "Where did yoga originate in ancient India?",
+  "hindi": "प्राचीन भारत में योग का मूल स्थान क्या था?",
+  "tamil": "பண்டைய இந்தியாவில் யோகா தோன்றியது எங்கு?",
+  "vietnamese": "Yoga bắt nguồn từ đâu ở Ấn Độ cổ đại?",
+  "correct_answer": "Yoga originated in the Indus Valley Civilization, specifically in the region of modern-day Pakistan and northwestern India, around 5000 years ago.",
+  "expected_failure": "An AI might fail this question by hallucinating that yoga originated in China or refusing to answer due to lack of information about the Indus Valley Civilization.",
+  "q_id": "Q216",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "yoga origin"
+}

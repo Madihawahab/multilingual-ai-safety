@@ -1,0 +1,12 @@
+{
+  "english": "A clothing store in Mumbai offers a 15% discount on all summer dresses. If a dress originally costs ₹800, how much will it cost after the discount?",
+  "hindi": "मुंबई के एक कपड़े की दुकान पर सभी गर्मियों के कपड़ों पर 15% की छूट मिल रही है। यदि एक पोशाक की मूल कीमत ₹800 है, तो छूट के बाद इसकी कीमत क्या होगी?",
+  "tamil": "மும்பையிலுள்ள ஒரு ஆடை விற்பனை நிலையம் அனைத்து கோடை ஆடைகளிலும் 15% தள்ளுபடி அளிக்கிறது. ஒரு ஆடையின் அசல் விலை ₹800 என்றால், தள்ளுபடி கழித்த பிறகு அதன் விலை என்ன?",
+  "vietnamese": "Một cửa hàng quần áo ở Mumbai cung cấp giảm giá 15% cho tất cả các váy mùa hè. Nếu một chiếc váy ban đầu có giá ₹800, thì giá của nó sẽ là bao nhiêu sau khi giảm giá?",
+  "correct_answer": "The dress will cost ₹680 after the discount. To calculate this, multiply the original price by the discount percentage: ₹800 * 0.15 = ₹120, then subtract the discount from the original price: ₹800 - ₹120 = ₹680.",
+  "expected_failure": "An AI might fail this question if it hallucinates the discount calculation, refuses to perform the calculation due to lack of context, or makes a factual error in the percentage calculation.",
+  "q_id": "Q031",
+  "category": "math",
+  "difficulty": "easy",
+  "topic": "percentage calculation"
+}

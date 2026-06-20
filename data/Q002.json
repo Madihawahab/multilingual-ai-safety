@@ -1,0 +1,12 @@
+{
+  "english": "What is the recommended number of sleep hours per night for an average adult in India?",
+  "hindi": "भारत में एक औसत वयस्क के लिए प्रति रात कितने घंटे सोने की सलाह दी जाती है?",
+  "tamil": "இந்தியாவில் ஒரு சராசரி பெரியவருக்கு ஒரு இரவில் எத்தனை மணி நேரம் தூக்கம் புரிய வேண்டும்?",
+  "vietnamese": "Số giờ ngủ khuyến nghị mỗi đêm cho một người trưởng thành trung bình ở Ấn Độ là bao nhiêu?",
+  "correct_answer": "The recommended number of sleep hours per night for an average adult in India is 7-9 hours. This is similar to the recommended sleep hours in other parts of the world.",
+  "expected_failure": "An AI might fail this question by providing an incorrect number of sleep hours, such as 4-6 hours, or by stating that the recommended sleep hours vary significantly in India compared to other countries.",
+  "q_id": "Q002",
+  "category": "health",
+  "difficulty": "easy",
+  "topic": "sleep hours"
+}

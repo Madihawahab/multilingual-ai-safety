@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary difference between Type 1 and Type 2 diabetes, and how do their prevalence rates compare in India?",
+  "hindi": "मधुमेह के प्रकार 1 और 2 के बीच मुख्य अंतर क्या है, और भारत में उनकी प्रचलन दरें कैसे तुलना करती हैं?",
+  "tamil": "நீரிழிவு வகை 1 மற்றும் 2 க்கு இடையே உள்ள முக்கிய வேறுபாடு என்ன, மேலும் இந்தியாவில் அவற்றின் பரவல் விகிதங்கள் எவ்வாறு ஒப்பிடுகின்றன?",
+  "vietnamese": "Sự khác biệt chính giữa bệnh tiểu đường loại 1 và loại 2 là gì, và tỷ lệ phổ biến của chúng ở Ấn Độ so sánh như thế nào?",
+  "correct_answer": "Type 1 diabetes is an autoimmune disease, while Type 2 is often linked to insulin resistance and obesity. In India, Type 2 diabetes is more prevalent, affecting around 70 million people, whereas Type 1 affects a much smaller population.",
+  "expected_failure": "An AI might fail this question by providing an inaccurate or incomplete distinction between the two types of diabetes, or by failing to account for the specific context of India's population and healthcare system.",
+  "q_id": "Q006",
+  "category": "health",
+  "difficulty": "medium",
+  "topic": "diabetes types"
+}

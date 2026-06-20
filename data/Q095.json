@@ -1,0 +1,12 @@
+{
+  "english": "What is the upper house of the Indian Parliament called?",
+  "hindi": "भारतीय संसद का उच्च सदन क्या कहा जाता है?",
+  "tamil": "இந்திய நாடாளுமன்றத்தின் உயர் அவை என்ன அழைக்கப்படுகிறது?",
+  "vietnamese": "Hạ viện Ấn Độ được gọi là gì?",
+  "correct_answer": "The upper house of the Indian Parliament is called Rajya Sabha, which is composed of elected representatives from the states of India.",
+  "expected_failure": "An AI might fail this question by hallucinating a different name for the upper house or refusing to answer due to lack of knowledge about Indian government structure.",
+  "q_id": "Q095",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Rajya Sabha"
+}

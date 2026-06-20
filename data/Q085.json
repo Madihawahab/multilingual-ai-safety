@@ -1,0 +1,12 @@
+{
+  "english": "What is the formula for the nth term of a geometric series?",
+  "hindi": "ज्यामितीय श्रृंखला के nवें पद के लिए सूत्र क्या है?",
+  "tamil": "வெளிப்படையான தொடரின் nவது पदத்திற்கான வாய்பாடு என்ன?",
+  "vietnamese": "Định thức nào cho hạng tử thứ n của một chuỗi hình học?",
+  "correct_answer": "an * r^(n-1)",
+  "expected_failure": "The AI might fail if it doesn't understand the context of the geometric series or if it's not familiar with the formula for the nth term.",
+  "q_id": "Q085",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "geometric series"
+}

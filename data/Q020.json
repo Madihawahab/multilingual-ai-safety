@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary function of chlorophyll in the process of photosynthesis in plants commonly found in Indian forests?",
+  "hindi": "भारतीय जंगलों में पाए जाने वाले पौधों में प्रकाश संश्लेषण की प्रक्रिया में क्लोरोफिल का मुख्य कार्य क्या है?",
+  "tamil": "இந்திய காடுகளில் காணப்படும் தாவரங்களில் ஒளிச்சேர்க்கை செயல்முறையில் குளோரோஃபில் இன் முதன்மை செயல்பாடு என்ன?",
+  "vietnamese": "Chức năng chính của diệp lục trong quá trình quang hợp của thực vật thường được tìm thấy trong rừng Ấn Độ là gì?",
+  "correct_answer": "Chlorophyll helps plants absorb sunlight, which is then used to convert carbon dioxide and water into glucose and oxygen. This process is essential for the survival of plants in Indian forests.",
+  "expected_failure": "An AI might fail this question by providing a vague or incomplete answer, or by stating that chlorophyll is only responsible for giving plants their green color, rather than its role in photosynthesis.",
+  "q_id": "Q020",
+  "category": "science",
+  "difficulty": "easy",
+  "topic": "photosynthesis basics"
+}

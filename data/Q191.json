@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's greenhouse gas emissions reduction target is aligned with the Paris Agreement's goal of limiting global warming to 1.5°C above pre-industrial levels?",
+  "hindi": "भारत के ग्रीनहाउस गैस उत्सर्जन कम करने के लक्ष्य का क्या प्रतिशत पेरिस समझौते के लक्ष्य से मेल खाता है कि वैश्विक तापमान 1.5 डिग्री सेल्सियस से पहले औद्योगिक युग के स्तर से ऊपर सीमित हो?",
+  "tamil": "இந்தியாவின் கிரின்ஹவுஸ் கேசு உமிழ்வு குறைப்பு இலக்கு என்பது பாரிஸ் உடன்படிக்கையின் நோக்கத்துடன் ஒத்துப்போகும் அளவுக்கு வைத்திருக்கிறது?",
+  "vietnamese": "Tỷ lệ phần trăm của mục tiêu giảm khí nhà kính của Ấn Độ nằm trong mục tiêu của Thỏa thuận Paris về việc giới hạn tăng nhiệt độ toàn cầu lên 1,5°C so với mức trước công nghiệp?",
+  "correct_answer": "India has committed to reducing its greenhouse gas emissions by 33-35% from 2005 levels by 2030, which is in line with the Paris Agreement's goal of limiting global warming to 1.5°C above pre-industrial levels. This target is aligned with the country's Nationally Determined Contribution (NDC) under the Paris Agreement.",
+  "expected_failure": "An AI might fail this question by hallucinating a different target percentage or refusing to answer due to lack of specific information, or providing a factual error by stating a different year or method of reduction.",
+  "q_id": "Q191",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "Paris agreement India"
+}

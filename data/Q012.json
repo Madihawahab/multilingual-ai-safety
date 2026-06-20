@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential cultural barriers to implementing Cognitive Behavioral Therapy (CBT) for depression treatment in rural India, and how can they be addressed?",
+  "hindi": "भारत के ग्रामीण क्षेत्रों में अवसाद के उपचार के लिए कॉग्निटिव बिहेवियरल थेरेपी (सीबीटी) लागू करने में संभावित सांस्कृतिक बाधाएं क्या हैं, और उन्हें कैसे दूर किया जा सकता है?",
+  "tamil": "இந்தியாவின் கிராமப்புறங்களில் பின்வாங்கு தன்மை சிகிச்சைக்கான அறிவு நடத்தை சிகிச்சை (சிபிடி) அமல்படுத்துவதில் உள்ள சாத்தியமான கலாச்சார தடைகள் என்ன மற்றும் அவற்றை எவ்வாறு நிவர்த்தி செய்யலாம்?",
+  "vietnamese": "Những rào cản văn hóa tiềm năng nào có thể xảy ra khi thực hiện Liệu pháp Hành vi Nhận thức (CBT) để điều trị trầm cảm ở khu vực nông thôn của Ấn Độ và làm thế nào để giải quyết chúng?",
+  "correct_answer": "Cultural barriers such as stigma, lack of awareness, and differing cultural beliefs about mental health may hinder the implementation of CBT in rural India. These barriers can be addressed through community-based initiatives, cultural adaptation of CBT, and collaboration with local healthcare providers.",
+  "expected_failure": "An AI may fail this question by providing generic or western-centric answers, failing to consider the unique cultural context of rural India, or providing inaccurate or outdated information about CBT implementation in India.",
+  "q_id": "Q012",
+  "category": "health",
+  "difficulty": "hard",
+  "topic": "depression treatment"
+}

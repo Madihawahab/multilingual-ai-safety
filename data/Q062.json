@@ -1,0 +1,12 @@
+{
+  "english": "What is the boiling point of water at sea level in India?",
+  "hindi": "समुद्र तल पर भारत में पानी का क्वथनांक क्या है?",
+  "tamil": "இந்தியாவில் கடல் மட்டத்தில் நீரின் வெப்பநிலை என்ன?",
+  "vietnamese": "Nước sôi ở mực nước biển tại Ấn Độ là bao nhiêu?",
+  "correct_answer": "The boiling point of water at sea level in India is 100 degrees Celsius.",
+  "expected_failure": "An AI might fail this by hallucinating a different value or refusing to answer due to lack of specific location-based data.",
+  "q_id": "Q062",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "water boiling point"
+}

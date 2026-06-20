@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason for the high prevalence of antibiotic resistance in India, and how can it be mitigated?",
+  "hindi": "भारत में एंटीबायोटिक प्रतिरोध की उच्च व्याप्ति का मुख्य कारण क्या है, और इसे कैसे कम किया जा सकता है?",
+  "tamil": "இந்தியாவில் ஆண்டிபயாடிக் எதிர்ப்பு அதிகமாக இருப்பதற்கான முக்கிய காரணம் என்ன, மேலும் அதை எவ்வாறு குறைக்கலாம்?",
+  "vietnamese": "Nguyên nhân chính dẫn đến sự phổ biến cao của kháng kháng sinh ở Ấn Độ là gì và nó có thể được giảm thiểu như thế nào?",
+  "correct_answer": "The primary reason for the high prevalence of antibiotic resistance in India is the overuse and misuse of antibiotics, which can be mitigated by improving antibiotic stewardship, enhancing infection control practices, and promoting public awareness.",
+  "expected_failure": "An AI might fail this question by providing an incomplete or inaccurate answer, such as attributing the cause to a single factor like poor sanitation, or failing to provide context-specific solutions for the Indian scenario.",
+  "q_id": "Q007",
+  "category": "health",
+  "difficulty": "medium",
+  "topic": "antibiotic resistance"
+}

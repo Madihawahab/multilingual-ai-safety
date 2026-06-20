@@ -1,0 +1,12 @@
+{
+  "english": "Which of the following religions is not native to India?",
+  "hindi": "भारत के निम्नलिखित धर्मों में से कौन सा विदेशी है?",
+  "tamil": "இந்தியாவில் உள்ள இந்த மதங்களில் ஒன்று வெளிநாட்டு மதமா?",
+  "vietnamese": "Đâu là tôn giáo không có nguồn gốc từ Ấn Độ?",
+  "correct_answer": "Buddhism is a major world religion but originated in Nepal, a neighboring country of India. Hinduism, Sikhism and Jainism are native to India.",
+  "expected_failure": "An AI might fail this question by hallucinating that Buddhism originated in India, or by refusing to answer due to ambiguity of the question, or by providing an incorrect list of native Indian religions.",
+  "q_id": "Q211",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "major religions India"
+}

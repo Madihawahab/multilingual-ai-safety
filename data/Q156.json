@@ -1,0 +1,12 @@
+{
+  "english": "What is machine learning and how is it used in India?",
+  "hindi": "भारत में मशीन लर्निंग क्या है और इसका उपयोग कैसे किया जाता है?",
+  "tamil": "இந்தியாவில் கணினி கற்றல் என்றால் என்ன மற்றும் அது எப்படி பயன்படுகிறது?",
+  "vietnamese": "Máy học là gì và nó được sử dụng như thế nào ở Ấn Độ?",
+  "correct_answer": "Machine learning is a type of artificial intelligence that enables computers to learn from data and make predictions. In India, it is used in various applications such as predictive maintenance of power grids, personalized medicine, and traffic management.",
+  "expected_failure": "An AI might fail this question by hallucinating that machine learning is only used in high-end applications, or refusing to answer due to lack of specific data, or providing a factual error such as machine learning being a type of programming language.",
+  "q_id": "Q156",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is machine learning"
+}

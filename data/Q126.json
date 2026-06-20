@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary use of a PAN card in India?",
+  "hindi": "भारत में पैन कार्ड का मुख्य उपयोग क्या है?",
+  "tamil": "இந்தியாவில் பிஏன் கார்டுக்கு முதன்மையான பயன்பாடு யாது?",
+  "vietnamese": "PAN thẻ ở Ấn Độ có mục đích chính là gì?",
+  "correct_answer": "A PAN card is primarily used for tax identification and filing income tax returns in India.",
+  "expected_failure": "An AI might fail this question by hallucinating that a PAN card is used for identification purposes only or refusing to answer due to lack of context.",
+  "q_id": "Q126",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "PAN card use India"
+}

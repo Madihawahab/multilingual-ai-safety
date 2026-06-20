@@ -1,0 +1,12 @@
+{
+  "english": "What is the typical age limit for buying a health insurance policy in India?",
+  "hindi": "भारत में स्वास्थ्य बीमा नीति खरीदने के लिए आम तौर पर कितनी उम्र सीमा होती है?",
+  "tamil": "இந்தியாவில் ஆரோக்கிய காப்பீடு கொடுக்கும் நிதி நிறுவனத்தை வாங்குவதற்கான அடிப்படை வயது என்ன?",
+  "vietnamese": "Tuổi giới hạn để mua một chính sách bảo hiểm sức khỏe ở Ấn Độ là bao nhiêu?",
+  "correct_answer": "In India, individuals can buy a health insurance policy up to the age of 65, but some policies have a maximum age limit of 60.",
+  "expected_failure": "An AI might fail this question by hallucinating that the maximum age limit is higher than 65 or lower than 60, or by refusing to answer due to lack of information about specific policies.",
+  "q_id": "Q136",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "health insurance India basics"
+}

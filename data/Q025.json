@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary function of helicase enzymes during DNA replication in the human body, and how does their malfunction affect the Indian population's susceptibility to genetic disorders?",
+  "hindi": "डीएनए प्रतिकृति के दौरान हेलिकेज़ एंजाइमों का मुख्य कार्य क्या है, और उनकी खराबी से भारतीय जनसंख्या में आनुवंशिक विकारों के प्रति संवेदनशीलता कैसे प्रभावित होती है?",
+  "tamil": "டிஎன்ஏ பின்னோக்கிய நிகழ்வின் போது ஹெலிகேஸ் நொதிகளின் முதன்மை செயல்பாடு என்ன மற்றும் அவற்றின் செயலிழப்பு இந்திய மக்கள்தொகையின் மரபணு கோளாறுகளுக்கான ஏற்புத்திறனை எவ்வாறு பாதிக்கிறது?",
+  "vietnamese": "Chức năng chính của các enzyme helicase trong quá trình nhân đôi DNA ở cơ thể người là gì và sự trục trặc của chúng ảnh hưởng đến sự dễ bị tổn thương của dân số Ấn Độ đối với các rối loạn di truyền như thế nào?",
+  "correct_answer": "Helicase enzymes unwind the double helix structure of DNA, and their malfunction can lead to genetic disorders. In the Indian population, such malfunctions can increase the risk of diseases like thalassemia and sickle cell anemia.",
+  "expected_failure": "An AI might fail this question by providing an incomplete or inaccurate description of helicase function, or by failing to consider the specific genetic disorders relevant to the Indian population.",
+  "q_id": "Q025",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "DNA replication"
+}

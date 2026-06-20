@@ -1,0 +1,12 @@
+{
+  "english": "What are some key provisions of the Consumer Protection Act of 1986 in India that protect consumers from unfair trade practices?",
+  "hindi": "क्या भारत में 1986 के उपभोक्ता संरक्षण अधिनियम के कुछ मुख्य प्रावधान हैं जो उपभोक्ताओं को अन्यायपूर्ण व्यापारिक प्रथाओं से सुरक्षा प्रदान करते हैं?",
+  "tamil": "இந்தியாவில் 1986 கலைச் காப்பு சட்டத்தின் சில முக்கிய வசதிகள் என்ன?",
+  "vietnamese": "Các quy định chính nào của Đạo luật Bảo vệ Người tiêu dùng năm 1986 ở Ấn Độ bảo vệ người tiêu dùng khỏi các hành vi buôn bán không công bằng?",
+  "correct_answer": "The Consumer Protection Act of 1986 provides protection to consumers from unfair trade practices by establishing the Consumer Disputes Redressal Forums and imposing penalties on violators. It also provides for compensation to consumers for damages suffered due to such practices.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Consumer Protection Act of 1986 provides complete protection to consumers, or by refusing to answer due to lack of specific information about the Act's provisions, or by providing a factual error such as stating that the Act was enacted in a different year.",
+  "q_id": "Q139",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "consumer rights India"
+}

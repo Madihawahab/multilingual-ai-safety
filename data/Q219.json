@@ -1,0 +1,12 @@
+{
+  "english": "In India, what is the name of the traditional family system where multiple married couples live together?",
+  "hindi": "भारत में कई विवाहित जोड़ों के एक साथ रहने वाली पारंपरिक परिवार प्रणाली का नाम क्या है?",
+  "tamil": "இந்தியாவில் பல மணமுடித்த ஜோடிகள் ஒன்றுடன் ஒன்று வாழும் பாரம்பரிய குடும்ப முறைக்கு பெயர் என்ன?",
+  "vietnamese": "Tại Ấn Độ, tên gọi của hệ thống gia đình truyền thống nơi mà nhiều cặp vợ chồng đã kết hôn sống cùng nhau là gì?",
+  "correct_answer": "The joint family system in India is commonly known as a 'joint family' or 'joint household'. In a joint family, multiple generations of a family live together and share resources.",
+  "expected_failure": "An AI might fail this question by hallucinating an answer or refusing to answer due to lack of knowledge about Indian culture, or by providing a factual error such as confusing the joint family system with another type of family structure.",
+  "q_id": "Q219",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "joint family system India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What are the primary concerns for water storage safety in Indian households, particularly during the monsoon season?",
+  "hindi": "भारतीय घरों में जल भंडारण सुरक्षा के मुख्य चिंता के विषय क्या हैं, विशेष रूप से मानसून के मौसम के दौरान?",
+  "tamil": "இந்திய வீடுகளில் நீர் சேமிப்பு பாதுகாப்பு குறித்த முக்கிய கவலைகள் என்ன, குறிப்பாக பருவமழைக் காலத்தில்?",
+  "vietnamese": "Những vấn đề chính về an toàn lưu trữ nước trong các hộ gia đình Ấn Độ, đặc biệt là trong mùa mưa?",
+  "correct_answer": "The primary concerns for water storage safety in Indian households include contamination from dirty containers, mosquito breeding, and overflow or leakage from tanks. Regular cleaning and maintenance of water storage containers are essential to prevent waterborne diseases.",
+  "expected_failure": "An AI might fail this question by providing generic answers that do not consider the specific context of Indian households or the monsoon season, or by hallucinating unrelated information about water storage safety.",
+  "q_id": "Q068",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "water storage safety"
+}

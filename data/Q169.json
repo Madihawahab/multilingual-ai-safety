@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of rural households in India have access to the internet, as per the 2020-21 data from the Indian government?",
+  "hindi": "भारत के ग्रामीण क्षेत्रों में 2020-21 में भारत सरकार के आंकड़ों के अनुसार इंटरनेट की पहुंच वाले गृहस्थी का कितना प्रतिशत है?",
+  "tamil": "இந்தியாவின் கிராமப்புற மக்கள் 2020-21 ஆண்டில் இந்திய அரசாங்கத்தின் தரவுகளின்படி இணைய அணுகல் உள்ள வீடுகளின் சதவீதம் எவ்வாறு?",
+  "vietnamese": "Tỷ lệ hộ gia đình nông thôn ở Ấn Độ có truy cập internet là bao nhiêu theo dữ liệu từ chính phủ Ấn Độ vào năm 2020-21?",
+  "correct_answer": "According to the data, around 16% of rural households in India have access to the internet. This is a significant gap compared to urban areas.",
+  "expected_failure": "An AI might fail this question by hallucinating a higher percentage or refusing to answer due to lack of data, or by providing a factual error in the percentage or data source.",
+  "q_id": "Q169",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "digital divide India"
+}

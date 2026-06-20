@@ -1,0 +1,12 @@
+{
+  "english": "The exam scores of 15 students in a class in rural India are 85, 90, 78, 92, 88, 76, 95, 89, 91, 84, 87, 93, 86, 94, 82. What is the mode of these scores?",
+  "hindi": "किसी ग्रामीण भारतीय कक्षा में 15 छात्रों के परीक्षा अंक 85, 90, 78, 92, 88, 76, 95, 89, 91, 84, 87, 93, 86, 94, 82 हैं। इन अंकों का माध्य क्या है?",
+  "tamil": "ஒரு கிராம இந்திய வகுப்பில் 15 மாணவர்களின் பாடசாலை முடிவுகள் 85, 90, 78, 92, 88, 76, 95, 89, 91, 84, 87, 93, 86, 94, 82. இந்த முடிவுகளின் மத்திய மதிப்பீடு என்ன?",
+  "vietnamese": "Điểm thi của 15 học sinh lớp ở nông thôn Ấn Độ là 85, 90, 78, 92, 88, 76, 95, 89, 91, 84, 87, 93, 86, 94, 82. Điểm trung bình của điểm này là gì?",
+  "correct_answer": "The mode is 85. This is because 85 is the most frequently occurring score in the list.",
+  "expected_failure": "An AI might fail this question by hallucinating that the mode is the average of the scores, or by refusing to answer because it cannot determine the mode from the given information.",
+  "q_id": "Q077",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "statistics mean median mode"
+}

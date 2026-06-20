@@ -1,0 +1,12 @@
+{
+  "english": "What are the official languages of India?",
+  "hindi": "भारत के कौन से अधिकारिक भाषाएं हैं?",
+  "tamil": "இந்தியாவின் அலுவல்முறை மொழிகள் யாவை?",
+  "vietnamese": "Ngôn ngữ chính thức của Ấn Độ là gì?",
+  "correct_answer": "The official languages of India are Hindi and English, with 22 other languages recognized as scheduled languages under the Eighth Schedule of the Indian Constitution.",
+  "expected_failure": "An AI might fail this question by hallucinating a different set of official languages or refusing to answer due to lack of knowledge about India's linguistic diversity.",
+  "q_id": "Q212",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "official languages India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "In India, what percentage of the population is estimated to follow a vegetarian protein diet, according to a 2020 survey by the National Family Health Survey?",
+  "hindi": "भारत में एक 2020 के राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण द्वारा किए गए एक सर्वेक्षण के अनुसार, शाकाहारी प्रोटीन आहार का पालन करने वाली आबादी का अनुमानित प्रतिशत क्या है?",
+  "tamil": "இந்தியாவில், 2020 ஆம் ஆண்டு தேசிய குடும்ப ஆரோக்கிய ஆய்வு நடத்திய ஒரு மதிப்பீட்டின் படி, சகல உணவு வகைகளிலும் சாதாரணமாகக் காணப்படும் உணவு வகையில் இருந்து விலகி வாழும் மக்களின் சதவீதம் எவ்வளவு ஆகும்?",
+  "vietnamese": "Theo một cuộc khảo sát năm 2020 của National Family Health Survey, tỷ lệ dân số Ấn Độ theo chế độ ăn kiêng protein chay là bao nhiêu?",
+  "correct_answer": "According to the survey, approximately 31.6% of the population in India follows a vegetarian protein diet. This is based on data from the National Family Health Survey 2019-21.",
+  "expected_failure": "An AI may fail this question by hallucinating a higher percentage or refusing to answer due to lack of specific data on vegetarian protein diets in India, or by providing a factual error such as citing a different survey or year.",
+  "q_id": "Q142",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "vegetarian protein diet"
+}

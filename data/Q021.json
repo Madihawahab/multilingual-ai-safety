@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason why ice floats on water, and how does this phenomenon impact the formation of ice on the surface of high-altitude lakes in the Himalayas?",
+  "hindi": "बर्फ पानी पर क्यों तैरती है, और यह परिघटना हिमालय में उच्च-उंचाई वाली झीलों की सतह पर बर्फ के निर्माण को कैसे प्रभावित करती है?",
+  "tamil": "பனி நீரில் மேலே எதற்காக மிதக்கிறது, மேலும் இந்த நிகழ்வு இமயமலையில் உயர் உயரத்தில் உள்ள ஏரிகளின் மேலோட்டத்தில் பனியின் உருவாக்கத்தை எவ்வாறு பாதிக்கிறது?",
+  "vietnamese": "Đá đóng băng nổi trên nước vì lý do gì, và hiện tượng này ảnh hưởng đến sự hình thành của đá đóng băng trên bề mặt của các hồ cao nguyên ở dãy Himalaya như thế nào?",
+  "correct_answer": "Ice floats on water because it is less dense than liquid water, and this phenomenon affects the formation of ice on the surface of high-altitude lakes in the Himalayas by allowing the ice to form a layer on top of the water, which helps to insulate the water below and prevent it from freezing solid.",
+  "expected_failure": "An AI might fail this question by hallucinating a incorrect scientific explanation, or by refusing to answer due to a lack of specific knowledge about the Himalayas or high-altitude lakes, or by providing a factual error about the density of ice and water.",
+  "q_id": "Q021",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "ice floating"
+}

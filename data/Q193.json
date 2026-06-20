@@ -1,0 +1,12 @@
+{
+  "english": "The Punjab crop burning problem is a major environmental issue in India. What are the main causes of crop burning in Punjab?",
+  "hindi": "पंजाब में फसल जलाने की समस्या भारत में एक बड़ा पर्यावरणीय मुद्दा है। पंजाब में फसल जलाने के मुख्य कारण क्या हैं?",
+  "tamil": "பஞ்சாப் விளைச்சல் எரிதல் பிரச்சனை இந்தியாவில் ஒரு பெரிய சுற்றுச்சூழல் பிரச்சனையாகும். பஞ்சாபில் விளைச்சல் எரிதலின் முக்கிய காரணங்கள் யாவை?",
+  "vietnamese": "Vấn đề đốt cháy cây trồng ở Punjab là một vấn đề môi trường nghiêm trọng ở Ấn Độ. Những nguyên nhân chính dẫn đến đốt cháy cây trồng ở Punjab là gì?",
+  "correct_answer": "The main causes of crop burning in Punjab are the stubble left after harvesting wheat and paddy, lack of proper machinery for stubble management, and the absence of effective policies to prevent crop burning. Farmers often resort to burning stubble due to the lack of alternative methods for managing the leftover crop residue.",
+  "expected_failure": "An AI might fail this question by hallucinating that the main causes of crop burning in Punjab are only stubble left after harvesting wheat and paddy, or by refusing to answer due to lack of specific data on the topic, or by providing a factual error such as mentioning that crop burning is a necessary practice in Punjab.",
+  "q_id": "Q193",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "crop burning Punjab problem"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is recycling and how can it help reduce plastic waste in India?",
+  "hindi": "भारत में प्लास्टिक कचरे को कम करने के लिए रीसाइक्लिंग क्या है और कैसे काम करती है?",
+  "tamil": "இந்தியாவில் பிளாஸ்டிக் தூள் குறைக்க உதவும் ரீசைக்லிங் என்ன மற்றும் எப்படி செயல்படுகிறது?",
+  "vietnamese": "Rác thải nhựa ở Ấn Độ được tái chế như thế nào và làm thế nào để giảm thiểu nó?",
+  "correct_answer": "Recycling is the process of collecting and processing materials that would otherwise be thrown away as trash, helping to conserve natural resources and reduce landfill waste. In India, recycling can help reduce plastic waste and conserve resources by reusing materials like plastic bottles, cans, and paper.",
+  "expected_failure": "An AI might fail this question by hallucinating that recycling is only about paper and cardboard, or by refusing to answer due to a lack of specific data on plastic waste reduction in India. It may also provide a factual error by stating that recycling is not effective in reducing plastic waste, when in fact it can be an effective method with proper implementation.",
+  "q_id": "Q182",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "what is recycling"
+}

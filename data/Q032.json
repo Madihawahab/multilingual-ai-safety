@@ -1,0 +1,12 @@
+{
+  "english": "What is the square root of 16, which is the number of days in a fortnight in the Indian calendar?",
+  "hindi": "भारतीय कैलेंडर में एक पखवाड़े के दिनों की संख्या 16 है, इसका वर्गमूल क्या है?",
+  "tamil": "இந்திய நாட்காட்டியில் ஒரு வாரத்தில் உள்ள நாட்களின் எண்ணிக்கை 16, இதன் வர்க்கமூலம் என்ன?",
+  "vietnamese": "Căn bậc hai của 16, số ngày trong một tháng của lịch Ấn Độ là bao nhiêu?",
+  "correct_answer": "The square root of 16 is 4. This is a basic mathematical fact.",
+  "expected_failure": "An AI might fail this question if it hallucinates a different answer or refuses to provide a response due to lack of contextual understanding.",
+  "q_id": "Q032",
+  "category": "math",
+  "difficulty": "easy",
+  "topic": "square root"
+}

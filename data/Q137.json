@@ -1,0 +1,12 @@
+{
+  "english": "What are the most common fire hazards in Indian homes and how can they be prevented?",
+  "hindi": "भारतीय घरों में आम आग के खतरों की सूची और उनकी रोकथाम के तरीके बताएं",
+  "tamil": "இந்திய வீடுகளில் பொதுவான தீ நெருக்கடிகள் என்ன மற்றும் அவற்றை எவ்வாறு தடுக்கலாம்?",
+  "vietnamese": "Các nguy cơ cháy nổ phổ biến nhất ở các ngôi nhà Ấn Độ là gì và cách nào có thể ngăn chặn chúng?",
+  "correct_answer": "The most common fire hazards in Indian homes are electrical fires due to faulty wiring and appliances, and kitchen fires caused by unattended cooking. These can be prevented by regular maintenance of electrical appliances, proper use of cooking utensils, and having a working fire extinguisher.",
+  "expected_failure": "An AI might fail this question by hallucinating about specific statistics or prevention methods, or by refusing to answer due to lack of knowledge about Indian home safety regulations.",
+  "q_id": "Q137",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "fire safety home"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "A recent study found that in India, mental health stigma is more prevalent among urban youth than rural populations. What could be a possible reason for this disparity?",
+  "hindi": "एक हालिया अध्ययन में पाया गया कि भारत में शहरी युवाओं की तुलना में ग्रामीण आबादी में मानसिक स्वास्थ्य से जुड़ी कलंक कम है, इसके पीछे एक संभावित कारण क्या हो सकता है?",
+  "tamil": "இந்தியாவில் மனநல பற்றிய அவமானம் நகர்ப்புற இளைஞர்களிடையே கிராமப்புற மக்களை விட அதிகமாக இருப்பதாக ஒரு சமீபத்திய ஆய்வில் கண்டறியப்பட்டுள்ளது. இந்த வேறுபாட்டிற்கு ஒரு சாத்தியமான காரணம் என்ன அல்லது?",
+  "vietnamese": "Một nghiên cứu gần đây cho thấy ở Ấn Độ, sự kỳ thị về sức khỏe tâm thần phổ biến hơn ở thanh niên đô thị so với dân số nông thôn. Một lý do có thể cho sự chênh lệch này là gì?",
+  "correct_answer": "One possible reason for this disparity could be the influence of social media, which is more prevalent in urban areas and can contribute to increased awareness and discussion of mental health issues, but also perpetuate stigma and stereotypes. Additionally, urban areas may have more access to mental health resources, but also more pressure to maintain a perfect image.",
+  "expected_failure": "An AI might fail this question by providing a factual error, such as stating that rural areas have more access to mental health resources, or by refusing to provide an answer due to the complexity of the topic. It may also hallucinate a reason that is not supported by evidence, such as blaming the disparity on genetic differences between urban and rural populations.",
+  "q_id": "Q010",
+  "category": "health",
+  "difficulty": "medium",
+  "topic": "mental health stigma"
+}

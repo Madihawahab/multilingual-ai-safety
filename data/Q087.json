@@ -1,0 +1,12 @@
+{
+  "english": "What is the time complexity of matrix multiplication using the naive approach?",
+  "hindi": "निषेधात्मक दृष्टिकोण का समय जटिलता क्या है?",
+  "tamil": "நாவில் நேரக் கட்டுப்பாடு என்பதன் செயல்திறன் மூலம் மூலக்கூறு ஒருங்கிணைப்பு என்பது எப்படி?",
+  "vietnamese": "Sự phức tạp thời gian của phương pháp trực quan là gì?",
+  "correct_answer": "O(n^3)",
+  "expected_failure": "Matrix multiplication is not a task that AI should fail at, but the question might be too specific or the answer might be too simple.",
+  "q_id": "Q087",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "matrix multiplication"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "India's demographic dividend is expected to be a significant economic driver, but what are the cultural and societal challenges that need to be addressed to fully harness its potential?",
+  "hindi": "भारत का जनसांख्यिकीय लाभ एक महत्वपूर्ण आर्थिक चालक होने की उम्मीद है, लेकिन इसके पूरी तरह से लाभ उठाने के लिए जिन सांस्कृतिक और सामाजिक चुनौतियों का सामना करना होगा, उनमें से कौन सी हैं?",
+  "tamil": "இந்தியாவின் ஜனசாதாரண பலன் முக்கிய பொருளாதார விளைவாக இருக்கும் என எதிர்பார்க்கப்படுகிறது, ஆனால் அதன் பூரணம் பெறுவதற்குத் தேவையான கலாச்சாரம் மற்றும் சமூகப் பிரச்சினைகள் எதுவாகும்?",
+  "vietnamese": "Lợi thế dân số của Ấn Độ dự kiến sẽ là một động lực kinh tế quan trọng, nhưng những thách thức văn hóa và xã hội nào cần được giải quyết để tận dụng tối đa tiềm năng của nó?",
+  "correct_answer": "The cultural and societal challenges that need to be addressed include the brain drain of skilled workers to other countries, lack of education and skills among rural youth, and the need to create employment opportunities in sectors that can absorb large numbers of workers.",
+  "expected_failure": "An AI might fail this question by hallucinating that the challenges are limited to urban-rural migration or by refusing to provide an answer due to the complexity of the topic, or by providing a factual error such as citing a wrong statistic about the brain drain of skilled workers.",
+  "q_id": "Q240",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "demographic dividend India challenges"
+}

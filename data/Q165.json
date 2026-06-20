@@ -1,0 +1,12 @@
+{
+  "english": "What is the significance of the Net Neutrality guidelines issued by the Telecom Regulatory Authority of India (TRAI) in 2016?",
+  "hindi": "टेलीकॉम रेगुलेटरी अथॉरिटी ऑफ इंडिया (ट्राई) ने 2016 में नेट न्यूट्रलिटी के दिशानिर्देश जारी किए, इसका क्या महत्व है?",
+  "tamil": "டிஆர்ஏஐ என்பது 2016 இல் நெட் நியூட்ரலிட்டி வழிகாட்டுதல்களை வெளியிட்டது, அதன் பொருள் என்ன?",
+  "vietnamese": "Nhiệp vụ Net Neutrality do Ủy ban quản lý và điều tiết (TRAI) của Ấn Độ ban hành vào năm 2016 có ý nghĩa gì?",
+  "correct_answer": "The guidelines aimed to ensure that all internet service providers in India treat all online content equally, without any discrimination or throttling. This was a significant move to promote net neutrality in the country.",
+  "expected_failure": "An AI might fail this question by hallucinating that the TRAI guidelines were issued in 2020, or by providing a vague answer that does not accurately capture the significance of the guidelines.",
+  "q_id": "Q165",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "net neutrality India"
+}

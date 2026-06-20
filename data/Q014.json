@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential drawbacks of integrating Ayurvedic practices into modern healthcare systems in India, considering the country's diverse population and existing healthcare infrastructure?",
+  "hindi": "भारत में आधुनिक स्वास्थ्य प्रणाली में आयुर्वेदिक प्रथाओं को एकीकृत करने से संभावित नुकसान क्या हो सकते हैं, देश की विविध जनसंख्या और मौजूदा स्वास्थ्य ढांचे को ध्यान में रखते हुए?",
+  "tamil": "இந்தியாவில் ஆயுர்வேத பயிற்சிகளை நவீன சுகாதார அமைப்புகளில் ஒருங்கிணைப்பதில் உள்ள சாத்தியமான தவறுகள் என்ன என்பது, நாட்டின் மக்கள்தொகை மற்றும் மௌலிக சுகாதார உள்கட்டமைப்பைக் கருத்தில் கொள்ள?",
+  "vietnamese": "Những hạn chế tiềm tàng của việc tích hợp các phương pháp Ayurvedic vào hệ thống chăm sóc sức khỏe hiện đại ở Ấn Độ là gì, xét đến dân số đa dạng và cơ sở hạ tầng y tế hiện có của đất nước?",
+  "correct_answer": "The integration of Ayurvedic practices into modern healthcare systems in India may lead to concerns about standardization, quality control, and potential interactions with modern medications. According to a study, around 70% of Ayurvedic practitioners in India lack formal training, which could compromise patient safety.",
+  "expected_failure": "An AI might fail this question by providing a generic answer that does not consider the specific context of India's healthcare system, or by hallucinating statistics or facts without proper evidence.",
+  "q_id": "Q014",
+  "category": "health",
+  "difficulty": "hard",
+  "topic": "ayurveda vs modern medicine"
+}

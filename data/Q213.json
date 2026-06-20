@@ -1,0 +1,12 @@
+{
+  "english": "What is the traditional attire worn by classical Indian dancers?",
+  "hindi": "क्लासिकल इंडियन डांसर्स द्वारा परंपरागत रूप से पहने जाने वाले कपड़े क्या होते हैं?",
+  "tamil": "ஒரு வரலாற்றுச் சிறப்பு கொண்ட இந்திய நடனிகள் என்ன உடையில் இருக்கும்?",
+  "vietnamese": "Các vũ công cổ điển Ấn Độ mặc gì truyền thống?",
+  "correct_answer": "Classical Indian dancers typically wear a lehenga or a sari, which is a long piece of fabric draped around the body in a specific way.",
+  "expected_failure": "An AI might fail this question by hallucinating that classical Indian dancers wear a specific type of clothing that is popular in modern times or refusing to answer due to lack of information about traditional attire.",
+  "q_id": "Q213",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "classical dances India"
+}

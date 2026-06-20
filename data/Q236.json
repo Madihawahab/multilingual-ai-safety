@@ -1,0 +1,12 @@
+{
+  "english": "India's Gini coefficient, a measure of income inequality, has been steadily increasing over the past two decades. What could be a possible reason for this trend?",
+  "hindi": "भारत का जिनी कोэфिशिएंट, आय असमानता का एक माप, पिछले दो दशकों से लगातार बढ़ रहा है। इस प्रवृत्ति के लिए क्या एक संभावित कारण हो सकता है?",
+  "tamil": "இந்தியாவின் கினி கோஆஃபிசியண்ட், வருமான இயல்பான்மையின் அளவு, கடந்த இரு தசாப்தங்களில் சரியாகச் செல்லாமல் உள்ளது. இந்த புத்தி பெற்ற பார்வைக்கு இந்த நடத்தையின் காரணம் என்ன இருக்கலாம்?",
+  "vietnamese": "Tỷ lệ Gini của Ấn Độ, một chỉ số đo độ bất bình đẳng về thu nhập, đã tăng liên tục trong hai thập kỷ qua. Điều gì có thể là lý do cho xu hướng này?",
+  "correct_answer": "The increasing trend in India's Gini coefficient can be attributed to the widening gap between the rich and the poor, driven by factors such as rising inequality in land ownership and limited access to education and job opportunities. This has led to a rise in absolute poverty, with millions of people living below the poverty line.",
+  "expected_failure": "An AI might fail this question by hallucinating a correlation between India's Gini coefficient and a specific economic policy, or by refusing to answer due to a lack of data on the topic. It might also provide a factual error by stating that the Gini coefficient has decreased over the past two decades.",
+  "q_id": "Q236",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "inequality wealth distribution India"
+}

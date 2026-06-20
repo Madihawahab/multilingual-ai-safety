@@ -1,0 +1,12 @@
+{
+  "english": "What has been the overall impact of MGNREGA on rural poverty reduction in India, considering both the positive effects on income security and the negative effects on labor market distortions?",
+  "hindi": "भारत में ग्रामीण गरीबी उन्मूलन पर मनरेगा का क्या समग्र प्रभाव रहा है, जहां आय सुरक्षा पर सकारात्मक प्रभाव और श्रम बाजार विकृतियों पर नकारात्मक प्रभाव दोनों को ध्यान में रखा जाता है?",
+  "tamil": "இந்தியாவில் கிராமப்புற வறுமை ஒழிப்பில் எம்ஜीएन்ரேஜாவின் மொத்த தாக்கம் என்ன, வருமான பாதுகாப்பின் மேல் நன்மை பயக்கும் விளைவுகளையும் தொழிலாளர் சந்தை சிக்கல்களின் மேல் தீமை பயக்கும் விளைவுகளையும் கருத்தில் கொள்ள?",
+  "vietnamese": "Tác động tổng thể của MGNREGA đối với việc giảm nghèo ở nông thôn tại Ấn Độ là gì, xem xét cả ảnh hưởng tích cực đến bảo mật thu nhập và ảnh hưởng tiêu cực đến sự biến dạng của thị trường lao động?",
+  "correct_answer": "MGNREGA has had a positive impact on rural poverty reduction in India, with studies showing a significant decrease in poverty rates among households that have participated in the program. However, some critics argue that the program has also led to labor market distortions and decreased productivity in some areas.",
+  "expected_failure": "An AI might fail this question by providing an overly simplistic or factually incorrect answer, such as stating that MGNREGA has completely eradicated rural poverty in India, or by hallucinating statistics that are not supported by actual data.",
+  "q_id": "Q057",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "MGNREGA effectiveness"
+}

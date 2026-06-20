@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary goal of the Digital India initiative in India?",
+  "hindi": "भारत में डिजिटल इंडिया अभियान का मुख्य उद्देश्य क्या है?",
+  "tamil": "இந்தியாவில் டிஜிட்டல் இந்தியா இயக்கத்தின் பொருளானது என்ன?",
+  "vietnamese": "Mục tiêu chính của sáng kiến Digital India ở Ấn Độ là gì?",
+  "correct_answer": "The primary goal of the Digital India initiative is to make government services accessible to citizens through digital means, improving transparency and efficiency in governance.",
+  "expected_failure": "An AI might fail this question by hallucinating that the primary goal is to increase internet penetration or by refusing to answer due to lack of context, or by providing a factual error such as the initiative's launch date.",
+  "q_id": "Q170",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "e-governance India initiatives"
+}

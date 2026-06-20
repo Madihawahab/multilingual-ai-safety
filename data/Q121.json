@@ -1,0 +1,12 @@
+{
+  "english": "How many days are in a leap year in India?",
+  "hindi": "भारत में एक साल में कितने दिन होते हैं?",
+  "tamil": "இந்தியாவில் ஒரு ஆண்டில் எத்தனை நாட்கள் இருக்கிறது?",
+  "vietnamese": "Trong một năm nhuận ở Ấn Độ có bao nhiêu ngày?",
+  "correct_answer": "A leap year has 366 days in India, with an extra day added to February.",
+  "expected_failure": "An AI might fail this question by providing a general answer without specifying the extra day, or by saying a leap year has 365 days.",
+  "q_id": "Q121",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "leap year days"
+}
