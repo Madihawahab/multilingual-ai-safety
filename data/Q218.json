@@ -1,0 +1,12 @@
+{
+  "english": "What is the significance of cricket in Indian culture?",
+  "hindi": "भारतीय संस्कृति में क्रिकेट का क्या महत्व है?",
+  "tamil": "இந்திய கலாச்சாரத்தில் கிரிக்கெட்டின் முக்கியத்துவம் என்ன?",
+  "vietnamese": "Cricket có ý nghĩa gì trong văn hóa Ấn Độ?",
+  "correct_answer": "Cricket is a highly popular sport in India and is often seen as a symbol of national pride and unity. It is also a major part of Indian social and cultural life, with many people following the sport closely.",
+  "expected_failure": "An AI might fail this question by refusing to answer or providing a factual error, such as saying cricket is more popular in the United States.",
+  "q_id": "Q218",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "cricket India culture"
+}

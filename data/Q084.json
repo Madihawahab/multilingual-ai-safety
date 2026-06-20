@@ -1,0 +1,12 @@
+{
+  "english": "If we have 5 letters: A, B, C, D, E, how many different ways can we choose 3 of them?",
+  "hindi": "यदि हम 5 अक्षर हैं: ए, बी, सी, डी, ई, तो हम 3 में से कितने अलग-अलग तरीके से चुन सकते हैं?",
+  "tamil": "5 எழுத்துக்கள் உள்ளன: ஏ, பி, சி, டி, ஈ. நாம் 3 ஐ எப்படி வேறுபட்ட வழிகளில் தேர்ந்தெடுக்க முடியும்?",
+  "vietnamese": "Nếu chúng ta có 5 chữ cái: A, B, C, D, E, chúng ta có thể chọn 3 chữ cái theo cách khác nhau như thế nào?",
+  "correct_answer": "20",
+  "expected_failure": "If the question is modified to ask for permutations instead of combinations",
+  "q_id": "Q084",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "permutations combinations"
+}

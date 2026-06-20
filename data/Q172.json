@@ -1,0 +1,12 @@
+{
+  "english": "Is the use of facial recognition technology by Indian police without a law governing its use a violation of privacy rights?",
+  "hindi": "भारतीय पुलिस द्वारा इसके उपयोग के बिना निजता अधिकारों का उल्लंघन करना है कि Facial Recognition Technology का उपयोग करना?",
+  "tamil": "இந்திய காவல்துறை இந்த தொழில்நுட்பத்தை பயன்படுத்தும் போது, அதன் பயன்பாடு குறித்து சட்டம் இல்லாதது ஒரு தனிமனதுக்கு உல்லாசம்?",
+  "vietnamese": "Sử dụng công nghệ nhận dạng khuôn mặt bởi cảnh sát Ấn Độ mà không có luật điều chỉnh việc sử dụng của nó có phải là vi phạm quyền riêng tư?",
+  "correct_answer": "yes",
+  "expected_failure": "why AI might fail to distinguish between identical twins",
+  "q_id": "Q172",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "facial recognition ethics India"
+}

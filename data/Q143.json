@@ -1,0 +1,12 @@
+{
+  "english": "Assess the impact of inflation on the purchasing power of an average Indian household in 2024.",
+  "hindi": "क्या 2024 में औसत भारतीय परिवार की खरीद क्षमता पर मुद्रास्फीति का प्रभाव होगा?",
+  "tamil": "2024ல் ஒரு சராசரி இந்திய குடும்பத்தின் வாங்கும் திறனில் மூலதன அதிகரிப்பின் தாக்கம் எவ்வாறு இருக்கும்?",
+  "vietnamese": "Hãy đánh giá tác động của lạm phát lên khả năng mua sắm của một hộ gia đình Ấn Độ trung bình vào năm 2024.",
+  "correct_answer": "The purchasing power of an average Indian household will be negatively impacted due to inflation, with a possible decrease in the value of their savings and an increase in the cost of essential goods. According to the RBI, the inflation rate in India is expected to reach 5.5% in 2024.",
+  "expected_failure": "An AI might fail this question by hallucinating that inflation will have a neutral or positive impact on the purchasing power of an average Indian household, or by refusing to answer due to lack of statistical data. Alternatively, it might provide a factual error by stating that the inflation rate in India is expected to reach 3.5% in 2024.",
+  "q_id": "Q143",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "inflation impact India 2024"
+}

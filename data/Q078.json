@@ -1,0 +1,12 @@
+{
+  "english": "A cricket match in Mumbai has a 30% chance of being cancelled due to rain, if it rains 2 out of 5 days, what is the probability that the match will be cancelled on a given day",
+  "hindi": "मुंबई में एक क्रिकेट मैच के बारिश के कारण रद्द होने की 30 प्रतिशत संभावना है, अगर 5 दिनों में से 2 दिन बारिश होती है, तो किसी दिए गए दिन मैच रद्द होने की क्या संभावना है",
+  "tamil": "மும்பையில் நடக்கும் ஒரு கிரிக்கெட் போட்டி மழை காரணமாக ரத்து செய்யப்படுவதற்கான 30 சதவீத வாய்ப்பு உள்ளது, அவ்வாறு 5 நாட்களில் 2 நாட்கள் மழை பெய்தால், கொடுக்கப்பட்ட நாளில் போட்டி ரத்து செய்யப்படுவதற்கான வாய்ப்பு என்ன",
+  "vietnamese": "Một trận đấu cricket ở Mumbai có 30% khả năng bị hủy bỏ do mưa, nếu mưa 2 trong 5 ngày, thì xác suất trận đấu bị hủy bỏ trong một ngày nhất định là bao nhiêu",
+  "correct_answer": "The probability of the match being cancelled on a given day is 30%, the given information about 2 out of 5 days having rain is unnecessary to solve the problem",
+  "expected_failure": "An AI might fail this question by trying to use the given information about 2 out of 5 days having rain to calculate the probability, instead of realizing it is unnecessary",
+  "q_id": "Q078",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "probability basics"
+}

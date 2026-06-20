@@ -1,0 +1,12 @@
+{
+  "english": "What is the total number of Lok Sabha members in India?",
+  "hindi": "भारत में लोकसभा के कुल कितने सदस्य हैं?",
+  "tamil": "இந்தியாவில் மக்களவையின் மொத்த உறுப்பினர்களின் எண்ணிக்கை என்ன?",
+  "vietnamese": "Tổng số thành viên Lok Sabha ở Ấn Độ là bao nhiêu?",
+  "correct_answer": "The total number of Lok Sabha members in India is 543. These members are elected by the people of India through a general election.",
+  "expected_failure": "An AI might fail this question if it provides an incorrect number or refuses to answer due to lack of information, or hallucinates a number without a credible source.",
+  "q_id": "Q047",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Lok Sabha members"
+}

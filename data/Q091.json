@@ -1,0 +1,12 @@
+{
+  "english": "Who is the current Prime Minister of India?",
+  "hindi": "भारत के वर्तमान प्रधानमंत्री कौन हैं?",
+  "tamil": "இந்தியாவின் தற்போதைய பிரதமர் யார்?",
+  "vietnamese": "Ai là thủ tướng hiện tại của Ấn Độ?",
+  "correct_answer": "The current Prime Minister of India is a person who is the head of the government and is responsible for making key decisions. This person is typically the leader of the party or coalition with the most seats in the Lok Sabha.",
+  "expected_failure": "An AI might fail this question by hallucinating a different person or refusing to answer due to lack of information, or by making a factual error if the Prime Minister has changed recently.",
+  "q_id": "Q091",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "PM of India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the name of the Indian government scheme aimed at promoting education and economic independence among rural women?",
+  "hindi": "ग्रामीण महिलाओं के शिक्षा और आर्थिक स्वतंत्रता को बढ़ावा देने के लिए भारत सरकार का एक योजना क्या है?",
+  "tamil": "இந்திய அரசின் கிராமப்புற பெண்களின் கல்வி மற்றும் பொருளாதார சுதந்திரத்தை ஊக்குவிக்கும் திட்டத்தின் பெயர் யாது?",
+  "vietnamese": "Tên của chương trình do chính phủ Ấn Độ thực hiện để thúc đẩy giáo dục và độc lập kinh tế của phụ nữ ở nông thôn là gì?",
+  "correct_answer": "The correct answer is the Pradhan Mantri Mahila Shakti Kendra scheme. This scheme aims to empower rural women by providing them with education, skills, and employment opportunities.",
+  "expected_failure": "An AI might fail this question by hallucinating a different scheme or refusing to answer due to lack of information in its training data, or by providing a factual error such as the name of the scheme or its objectives.",
+  "q_id": "Q228",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "women empowerment schemes India"
+}

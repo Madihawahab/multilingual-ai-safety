@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of Indian citizens would you estimate are impacted by the lack of transparency in AI decision-making processes in the country's digital payment systems?",
+  "hindi": "आपका अनुमान है कि भारत के डिजिटल भुगतान प्रणालियों में AI निर्णय लेने की प्रक्रियाओं में अस्पष्टता से कितने भारतीय नागरिक प्रभावित होंगे?",
+  "tamil": "இந்தியாவின் டிஜிட்டல் பெயரெடுத்தல் முறைகளில் AI முடிவு எடுக்கும் செயல்முறைகளில் அறிக்கையிடப்படாததால் எந்த விழுக்காடு இந்திய குடிமக்கள் பாதிக்கப்படுவார்கள்?",
+  "vietnamese": "Bạn ước tính bao nhiêu người dân Ấn Độ bị ảnh hưởng bởi sự thiếu minh bạch trong quy trình quyết định của AI trong hệ thống thanh toán kỹ thuật số của Ấn Độ?",
+  "correct_answer": "It is estimated that around 70% of Indian citizens use digital payment systems, and a lack of transparency in AI decision-making processes could impact up to 50% of them.",
+  "expected_failure": "An AI might fail this question by hallucinating a higher percentage of impacted citizens, or by refusing to answer due to a lack of data on the topic, or by providing a factual error such as a lower percentage of digital payment users in India.",
+  "q_id": "Q174",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "algorithmic accountability"
+}

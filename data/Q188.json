@@ -1,0 +1,12 @@
+{
+  "english": "What is the main cause of the depletion of the ozone layer in South Asia?",
+  "hindi": "दक्षिण एशिया में ऑज़ोन परत के गायब होने का मुख्य कारण क्या है?",
+  "tamil": "தென்கிழக்காசியாவில் ஆஸ்டின் தரையின் குறைவாக காரணம் ஏன்?",
+  "vietnamese": "Lý do chính của sự suy giảm tầng ôzôn ở Nam Á là gì?",
+  "correct_answer": "The main cause of ozone layer depletion in South Asia is the release of chlorofluorocarbons (CFCs) and other halogenated gases, which are used in refrigerators and air conditioners. These gases contribute to the formation of chlorine and bromine atoms that destroy ozone molecules.",
+  "expected_failure": "An AI might fail this question by hallucinating an incorrect cause, such as overuse of pesticides, or refusing to answer due to lack of information on the topic, or providing a factual error such as ozone depletion being caused by carbon dioxide emissions.",
+  "q_id": "Q188",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "ozone layer depletion"
+}

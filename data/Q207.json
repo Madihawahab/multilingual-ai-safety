@@ -1,0 +1,12 @@
+{
+  "english": "Compared to solar power, what are the primary environmental benefits of nuclear energy in India, given its geographical location and existing energy infrastructure?",
+  "hindi": "भारत में पारंपरिक ऊर्जा संरचना और भौगोलिक स्थिति के संदर्भ में, सौर ऊर्जा की तुलना में परमाणु ऊर्जा के प्राथमिक पर्यावरणीय लाभ क्या हैं?",
+  "tamil": "இந்தியாவில் உள்ள பழங்கால மின் இணைப்பு கட்டமைப்பு மற்றும் புவியியல் அமைவிடத்தை வரையறுத்து, சூரிய மின்சாரத்தின் ஒப்பீட்டில், நுணுக்கமான சூழலியல் நன்மைகள் என்னவென்றால்?",
+  "vietnamese": "So sánh với năng lượng mặt trời, lợi ích môi trường chính của năng lượng hạt nhân ở Ấn Độ là gì, xét về vị trí địa lý và cơ sở hạ tầng năng lượng hiện tại?",
+  "correct_answer": "Nuclear energy in India can reduce greenhouse gas emissions by up to 70% compared to fossil fuels, and its geographical location allows for the use of existing cooling systems, reducing the need for freshwater resources.",
+  "expected_failure": "An AI might fail this question by hallucinating that nuclear energy has no environmental benefits or by refusing to answer due to concerns about nuclear safety, or by providing a factual error about the percentage of greenhouse gas emissions reduction.",
+  "q_id": "Q207",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "nuclear energy vs solar India"
+}

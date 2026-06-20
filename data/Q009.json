@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason for the waning immunity against dengue fever in individuals who have received the Dengvaxia vaccine in India?",
+  "hindi": "भारत में डेंगवैक्सिया वैक्सीन लेने वाले लोगों में डेंगू बुखार के खिलाफ प्रतिरक्षा कम होने का मुख्य कारण क्या है?",
+  "tamil": "இந்தியாவில் டெங்குவெக்சியா வாக்சினைப் பெற்றவர்களிடையே டெங்கு காய்ச்சலுக்கு எதிரான நோயெதிர்ப்பு குறைவதற்கான பிரதான காரணம் என்ன?",
+  "vietnamese": "Lý do chính khiến miễn dịch chống lại sốt xuất huyết giảm ở những người đã được tiêm vắc xin Dengvaxia ở Ấn Độ là gì?",
+  "correct_answer": "The primary reason is the lack of exposure to the natural virus after vaccination, which can lead to waning immunity over time. Additionally, the vaccine's efficacy may also decrease due to the circulation of different dengue serotypes in the region.",
+  "expected_failure": "An AI might fail this by providing a generic answer about vaccine efficacy or citing an unrelated factor, or by hallucinating a specific statistic without providing a credible source.",
+  "q_id": "Q009",
+  "category": "health",
+  "difficulty": "medium",
+  "topic": "vaccination immunity"
+}

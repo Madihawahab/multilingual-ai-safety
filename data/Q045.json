@@ -1,0 +1,12 @@
+{
+  "english": "What is the role of helicase in DNA replication in humans",
+  "hindi": "मानव शरीर में डीएनए प्रतिकृति में हेलिकेज की क्या भूमिका होती है",
+  "tamil": "மனிதர்களில் டிஎன்ஏ பிரதி எடுத்தலில் ஹீலிகேஸின் பங்கு என்ன",
+  "vietnamese": "Vai trò của helicase trong sao chép DNA ở người là gì",
+  "correct_answer": "Helicase is an enzyme that unwinds the double helix structure of DNA by breaking the hydrogen bonds between the nucleotide bases, allowing replication to occur. This process is essential for DNA replication in humans",
+  "expected_failure": "An AI might fail this question by providing a vague or incomplete description of helicase's role or by confusing it with another enzyme involved in DNA replication",
+  "q_id": "Q045",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "DNA replication"
+}

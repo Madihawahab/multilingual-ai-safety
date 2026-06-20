@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary difference between the Lok Sabha and Rajya Sabha in the Indian Parliament?",
+  "hindi": "भारतीय संसद में लोकसभा और राज्यसभा के बीच प्राथमिक अंतर क्या है?",
+  "tamil": "இந்திய மாநிலங்களவை மற்றும் மக்களவை இடையே முக்கிய வேறுபாடு என்ன?",
+  "vietnamese": "Phân biệt hai hội đồng nhà nước và hội đồng nhân dân ở Ấn Độ?",
+  "correct_answer": "The Lok Sabha represents the people's elected representatives, while the Rajya Sabha has members indirectly elected by the state legislative assemblies. This difference allows the Lok Sabha to focus on issues affecting the general population.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Rajya Sabha has more legislative power or by refusing to answer due to the complexity of the topic, or by providing a factual error about the direct election of Rajya Sabha members.",
+  "q_id": "Q101",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Lok Sabha vs Rajya Sabha"
+}

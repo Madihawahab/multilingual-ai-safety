@@ -1,0 +1,12 @@
+{
+  "english": "What are some common online payment scams that affect Indian consumers?",
+  "hindi": "भारतीय उपभोक्ताओं पर प्रभाव डालने वाले आम ऑनलाइन भुगतान धोखाधड़ी क्या हैं?",
+  "tamil": "இந்திய பரப்பரசில் பாதிக்கும் பொதுவான ஆன்லைன் பெயர்ச்சி கொள்கைகள் என்ன?",
+  "vietnamese": "Các loại lừa đảo thanh toán trực tuyến nào ảnh hưởng đến người tiêu dùng Ấn Độ?",
+  "correct_answer": "Common online payment scams that affect Indian consumers include phishing, online banking fraud, and credit card skimming. These scams often involve fake websites or emails that trick consumers into revealing sensitive information.",
+  "expected_failure": "An AI might fail this question by hallucinating specific statistics about the prevalence of these scams in India or by refusing to answer due to a lack of data on the topic.",
+  "q_id": "Q140",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "online fraud prevention India"
+}

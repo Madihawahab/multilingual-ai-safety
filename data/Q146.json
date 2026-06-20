@@ -1,0 +1,12 @@
+{
+  "english": "What is the average annual air quality index in New Delhi, India, and how does it compare to other major cities in South Asia?",
+  "hindi": "दिल्ली जैसे दक्षिण एशिया के अन्य प्रमुख शहरों की तुलना में दिल्ली में वायु गुणवत्ता सूचकांक का औसत वार्षिक मूल्य क्या है?",
+  "tamil": "தென்கிழக்காசிய பெருநகரங்களுடன் ஒப்பிடும்போது தில்லியில் வாயுவாற்றல் குணகத் தொகை ஆண்டுதோறும் சராசரி அளவு என்ன?",
+  "vietnamese": "Số điểm chất lượng không khí trung bình hàng năm ở New Delhi, Ấn Độ là bao nhiêu và nó so sánh được với các thành phố lớn khác ở Nam Á?",
+  "correct_answer": "The average annual air quality index in New Delhi is around 153. Comparing to other major cities in South Asia, New Delhi has one of the worst air quality indexes, with cities like Lahore and Dhaka having even higher indexes.",
+  "expected_failure": "An AI might fail this question by hallucinating the average annual air quality index or refusing to answer due to lack of data, or providing a factual error by stating the wrong comparison cities.",
+  "q_id": "Q146",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "air quality index India cities"
+}

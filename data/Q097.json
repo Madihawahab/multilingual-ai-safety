@@ -1,0 +1,12 @@
+{
+  "english": "What year was the Indian Constitution adopted?",
+  "hindi": "भारतीय संविधान को किस साल में अपनाया गया था?",
+  "tamil": "இந்திய மன்றத்தை ஏற்றுக்கொண்ட ஆண்டு எது?",
+  "vietnamese": "Năm nào Hiến pháp Ấn Độ được thông qua?",
+  "correct_answer": "The Indian Constitution was adopted on 26 November 1949. It came into effect on 26 January 1950.",
+  "expected_failure": "An AI might fail this question by hallucinating an incorrect adoption year or refusing to answer due to lack of context.",
+  "q_id": "Q097",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Indian constitution year"
+}

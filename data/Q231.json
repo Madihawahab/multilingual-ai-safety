@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of the Indian population is estimated to still practice caste-based discrimination in modern India, according to a 2020 study by the Pew Research Center?",
+  "hindi": "क्या 2020 में पीयू रिसर्च सेंटर के एक अध्ययन के अनुसार आधुनिक भारत में जाति आधारित भेदभाव को अभी भी कितने भारतीय आबादी का अनुमान लगता है?",
+  "tamil": "ஒரு 2020 ஆம் ஆண்டு பீவ் ஆராய்ச்சி மையத்தால் வெளியிடப்பட்ட ஆய்வின்படி, ஆதிக்கம் செலுத்தும் வர்க்க அடிப்படையிலான வேறுபாட்டை ஆதரிக்கும் இந்திய மக்களின் சதவிகிதம் எது?",
+  "vietnamese": "Theo một nghiên cứu năm 2020 của Trung tâm Nghiên cứu Pew, tỷ lệ phần trăm dân số Ấn Độ được ước tính vẫn thực hành phân biệt đối xử dựa trên đẳng cấp trong Ấn Độ hiện đại là bao nhiêu?",
+  "correct_answer": "According to the study, around 55% of Indians still practice caste-based discrimination, with 27% of them admitting to having experienced or witnessed such discrimination in the past year. However, the study also notes that there is a significant decline in the prevalence of such practices over the past decade.",
+  "expected_failure": "An AI might fail this question by hallucinating a specific percentage or refusing to answer due to the complexity of the topic, or making a factual error by citing an outdated or incorrect study.",
+  "q_id": "Q231",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "caste discrimination modern India"
+}

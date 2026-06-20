@@ -1,0 +1,12 @@
+{
+  "english": "How many Lok Sabha members are elected from each state in India?",
+  "hindi": "भारत में प्रत्येक राज्य से कितने लोकसभा सदस्य चुने जाते हैं?",
+  "tamil": "இந்தியாவில் ஒவ்வொரு மாநிலத்திலிருந்தும் எத்தனை மக்களவை உறுப்பினர்கள் தேர்ந்தெடுக்கப்படுகிறார்கள்?",
+  "vietnamese": "Số lượng thành viên Lok Sabha được bầu từ mỗi bang ở Ấn Độ là bao nhiêu?",
+  "correct_answer": "Each state in India elects a certain number of Lok Sabha members based on its population. The number of members is decided by the State Reorganisation Act of 1956.",
+  "expected_failure": "An AI might fail this question by providing a hallucinated answer, as it may not be aware of the specific number of Lok Sabha members elected from each state, or it may refuse to answer due to lack of information, or it may provide a factual error if it incorrectly assumes that the number of members is the same for all states.",
+  "q_id": "Q092",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Lok Sabha members"
+}

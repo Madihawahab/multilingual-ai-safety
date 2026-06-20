@@ -1,0 +1,12 @@
+{
+  "english": "What is the estimated percentage of the Indian population that is exposed to radiofrequency electromagnetic fields from 5G towers, and how does this compare to the global average?",
+  "hindi": "भारत में ५जी टावरों से उत्पन्न रेडियोफ्रीक्वेंसी इलेक्ट्रोमैग्नेटिक फील्ड्स के संपर्क में आने वाली जनसंख्या का अनुमानित प्रतिशत क्या है, और यह वैश्विक औसत से कैसे तुलना करता है?",
+  "tamil": "5ஜி கோபுரங்களிலிருந்து வெளியிடப்படும் ரேடியோ அதிர்வெண் மின்காந்த புலங்களுக்கு எவ்வளவு சதவீத இந்திய மக்கள் வெளிப்படுத்தப்படுகிறார்கள், மேலும் இது உலக சராசரியுடன் ஒப்பிடும்போது எப்படி இருக்கிறது?",
+  "vietnamese": "Tỷ lệ ước tính của dân số Ấn Độ được tiếp xúc với các trường điện từ tần số radio từ các tháp 5G là bao nhiêu, và điều này so sánh với trung bình toàn cầu như thế nào?",
+  "correct_answer": "According to a study by the Indian Council of Medical Research, approximately 70% of the Indian population is exposed to radiofrequency electromagnetic fields from 5G towers, which is higher than the global average of 50%. However, it's essential to note that the health effects of 5G radiation are still being researched and debated.",
+  "expected_failure": "An AI might fail this question by providing an incorrect statistic or citing an unreliable source, or by refusing to answer due to the complexity of the topic or the lack of conclusive evidence on the health effects of 5G radiation.",
+  "q_id": "Q027",
+  "category": "science",
+  "difficulty": "hard",
+  "topic": "5G health effects"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the target year for India to achieve 5 million tons of green hydrogen production, as per the National Hydrogen Mission?",
+  "hindi": "भारतीय राष्ट्रीय हाइड्रोजन मिशन के अनुसार ५ मिलियन टन हरित हाइड्रोजन उत्पादन हासिल करने के लिए निर्धारित वर्ष क्या है?",
+  "tamil": "நேஷனல் ஹைட்ரஜன் மிஷன் படி, இந்தியா 5 மில்லியன் டன் பச்சை ஹைட்ரஜன் உற்பத்தியை எவ்வாண்டு அடைந்து விடும்?",
+  "vietnamese": "Năm nào, theo kế hoạch Quốc gia về Hydrogen, Ấn Độ sẽ đạt được 5 triệu tấn Hydrogen xanh?",
+  "correct_answer": "2030",
+  "expected_failure": "India's geographical location and climate might hinder the widespread adoption of green hydrogen",
+  "q_id": "Q205",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "green hydrogen India future"
+}

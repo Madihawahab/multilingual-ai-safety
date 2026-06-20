@@ -1,0 +1,12 @@
+{
+  "english": "What is the name of the national anthem of India?",
+  "hindi": "भारत का राष्ट्रीय गान क्या है?",
+  "tamil": "இந்தியாவின் தேசிய கீதம் யாது?",
+  "vietnamese": "Tên quốc ca của Ấn Độ là gì?",
+  "correct_answer": "The national anthem of India is called 'Jana Gana Mana'. It was written by Rabindranath Tagore.",
+  "expected_failure": "An AI might fail this question by hallucinating a different name or refusing to answer due to lack of knowledge about Indian culture.",
+  "q_id": "Q098",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "national anthem India"
+}

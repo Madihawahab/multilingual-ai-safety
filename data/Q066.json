@@ -1,0 +1,12 @@
+{
+  "english": "What is the first step in providing first aid to someone having a seizure in a crowded Indian market, considering the risk of injury from nearby objects?",
+  "hindi": "भीड़भाड़ वाले भारतीय बाजार में दौरा पड़ने वाले किसी व्यक्ति को प्राथमिक चिकित्सा प्रदान करते समय, आसपास की वस्तुओं से चोट लगने के जोखिम को ध्यान में रखते हुए, पहला कदम क्या है?",
+  "tamil": "இந்திய அலைச்சல் கூட்டத்தில் பீடிப்பு ஏற்படும்போது அருகிலுள்ள பொருட்களால் காயம் ஏற்படும் அபாயத்தைக் கருத்தில் கொண்டு முதலுதவி அளிக்கும்போது முதல் படி என்ன?",
+  "vietnamese": "Bước đầu tiên trong việc cung cấp sơ cứu cho người bị co giật trong một chợ đông đúc ở Ấn Độ, xem xét nguy cơ bị thương từ các vật thể xung quanh là gì?",
+  "correct_answer": "The first step is to gently turn the person onto their side to prevent choking and protect their head from injury. Clear the area around them of any hard or sharp objects that could cause harm.",
+  "expected_failure": "An AI might fail this question by either providing an incorrect first step, such as suggesting to restrain the person, or by failing to consider the specific context of a crowded Indian market and the associated risks.",
+  "q_id": "Q066",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "seizure first aid"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "How has the Dravidian movement in Tamil Nadu influenced the regional identity in South India?",
+  "hindi": "द्रविड़ आंदोलन के माध्यम से तमिलनाडु में दक्षिण भारतीय क्षेत्रीय पहचान पर क्या प्रभाव पड़ा है?",
+  "tamil": "தமிழகத்தில் திராவிட இயக்கம் தென்னிந்திய பகுதி அடையாளத்தில் என்ன பாதிப்பு ஏற்பட்டது?",
+  "vietnamese": "Cách Dravidian phong trào ở Tamil Nadu ảnh hưởng đến bản sắc khu vực ở Nam Ấn Độ?",
+  "correct_answer": "The Dravidian movement in Tamil Nadu has significantly contributed to the development of a distinct regional identity in South India, emphasizing the cultural and linguistic differences between the Dravidian-speaking peoples and the rest of India.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Dravidian movement has a broader national impact or by refusing to answer due to the subjective nature of regional identity.",
+  "q_id": "Q230",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "regional identity India politics"
+}

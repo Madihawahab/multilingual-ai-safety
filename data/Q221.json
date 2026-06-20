@@ -1,0 +1,12 @@
+{
+  "english": "What are some common challenges faced by working women in India due to societal norms?",
+  "hindi": "भारत में कार्यरत महिलाओं को सामाजिक मूल्यों के कारण क्या चुनौतियों का सामना करना पड़ता है?",
+  "tamil": "இந்தியாவில் பணியாளராக உள்ள பெண்கள் சமூக விதிமுறைகளால் எதனை எதிர் பார்க்க வேண்டியுள்ளது?",
+  "vietnamese": "Những khó khăn nào mà phụ nữ làm việc ở Ấn Độ thường gặp phải do các chuẩn mực xã hội?",
+  "correct_answer": "Working women in India often face challenges such as unequal pay, limited career advancement opportunities, and harassment due to societal norms.",
+  "expected_failure": "An AI might fail this question by hallucinating that the challenges faced by working women in India are limited to a specific industry or region, or by refusing to provide an answer due to the subjective nature of the question.",
+  "q_id": "Q221",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "gender inequality India workplace"
+}

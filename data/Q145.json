@@ -1,0 +1,12 @@
+{
+  "english": "In India, which digital payment method is considered the most secure among UPI, wallets, and credit/debit cards, based on the Reserve Bank of India's (RBI) 2022 survey?",
+  "hindi": "भारत में आरबीआई के 2022 के सर्वेक्षण के अनुसार, यूपीआई, वॉलेट और क्रेडिट/डेबिट कार्ड्स में सबसे सुरक्षित डिजिटल भुगतान विधि कौनसी है?",
+  "tamil": "இந்தியாவில், ரிசர்வ் வங்கியின் (ஆர்பி) 2022 மதிப்பீட்டின்படி, யூ.பி.ஐ, வால்லெட் மற்றும் கிரெடிட்/டிபிட் கார்டில் அதிக செல்வாக்குள்ள நபர்கள்?",
+  "vietnamese": "Tại Ấn Độ, phương thức thanh toán kỹ thuật số được coi là an toàn nhất trong số UPI, ví tiền và thẻ tín dụng/thẻ ghi nợ là gì, dựa trên cuộc khảo sát của Ngân hàng Dự trữ Ấn Độ (RBI) năm 2022?",
+  "correct_answer": "The RBI survey found that UPI transactions are the most secure, with 95% of respondents reporting no issues, followed by wallets with 85%, and credit/debit cards with 70%. This is due to the robust security features of UPI, such as two-factor authentication and tokenization.",
+  "expected_failure": "An AI might fail this question by hallucinating that wallets are the most secure, or refusing to answer due to lack of information on RBI's survey, or providing a factual error by stating that UPI transactions are less secure than credit/debit cards.",
+  "q_id": "Q145",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "digital payment security"
+}

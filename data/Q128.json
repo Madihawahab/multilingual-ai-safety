@@ -1,0 +1,12 @@
+{
+  "english": "In India, what documents do you need to apply for a driving license?",
+  "hindi": "भारत में ड्राइविंग लाइसेंस के लिए आवेदन करने के लिए क्या दस्तावेज़ चाहिए?",
+  "tamil": "இந்தியாவில் வாகன உரிமத்திற்கு பயன்படுத்தக்கூடிய கட்டாய ஆவணங்கள் என்ன?",
+  "vietnamese": "Ở Ấn Độ, bạn cần những giấy tờ gì để nộp đơn xin giấy phép lái xe?",
+  "correct_answer": "You need to provide your age proof, address proof, and a passport-sized photo. You must also pass a medical test and a driving test.",
+  "expected_failure": "An AI might fail this question by hallucinating that a voter ID card or a PAN card is sufficient for address proof or by refusing to answer due to lack of specific details about the required documents.",
+  "q_id": "Q128",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "driving licence India"
+}

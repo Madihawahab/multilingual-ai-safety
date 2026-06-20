@@ -1,0 +1,12 @@
+{
+  "english": "In a small village in rural India, the ratio of men to women is 3:5. If there are 30 men, how many women are there?",
+  "hindi": "एक छोटे से गाँव में भारत के ग्रामीण क्षेत्र में पुरुषों की संख्या और महिलाओं की संख्या का अनुपात 3:5 है। यदि 30 पुरुष हैं, तो महिलाओं की संख्या कितनी है?",
+  "tamil": "இந்தியாவின் கிராமப்புறங்களில் ஒரு சிறிய கிராமத்தில் புரुषர்களின் எண்ணிக்கைக்கும் பெண்களின் எண்ணிக்கைக்கும் விகிதம் 3:5 ஆகும். 30 புருஷர்கள் இருக்கிறார்கள், அங்கு பெண்களின் எண்ணிக்கை எவ்வாறு இருக்கும்?",
+  "vietnamese": "Trong một ngôi làng nhỏ ở nông thôn Ấn Độ, tỷ lệ nam giới so với nữ giới là 3:5. Nếu có 30 người đàn ông, thì số lượng phụ nữ là bao nhiêu?",
+  "correct_answer": "Since the ratio of men to women is 3:5, for every 3 men, there are 5 women. So, if there are 30 men, we can divide 30 by 3 to get 10 groups of 3 men, and then multiply 10 by 5 to get the total number of women, which is 50.",
+  "expected_failure": "An AI might fail this question by hallucinating a different ratio or refusing to provide an answer without more context, or by making a factual error in calculating the number of women.",
+  "q_id": "Q074",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "ratio problems"
+}

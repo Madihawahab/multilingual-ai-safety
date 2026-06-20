@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of Indian vegetarians follow a lacto-ovo-vegetarian diet, and how does this impact their protein intake compared to non-vegetarians in the country?",
+  "hindi": "भारत में शाकाहारी लोगों का कितना प्रतिशत लैक्टो-ओवो-शाकाहारी आहार का पालन करता है, और यह देश में मांसाहारियों की तुलना में उनके प्रोटीन सेवन को कैसे प्रभावित करता है?",
+  "tamil": "இந்தியாவில் சைவ உணவு உண்பவர்களில் எத்தனை சதவீதம் பால்-மூட்டை-சைவ உணவு உண்ணும் வழக்கத்தைப் பின்பற்றுகிறது, மேலும் இது நாட்டில் இறைச்சி உண்பவர்களை விட அவர்களின் புரதம் உட்கொள்ளலை எவ்வாறு பாதிக்கிறது?",
+  "vietnamese": "Phần trăm người ăn chay ở Ấn Độ theo chế độ ăn lacto-ovo-chay là bao nhiêu, và điều này ảnh hưởng như thế nào đến lượng protein họ tiêu thụ so với những người không ăn chay trong nước?",
+  "correct_answer": "According to a 2019-21 survey, around 70% of Indian vegetarians follow a lacto-ovo-vegetarian diet, which may lead to a lower protein intake compared to non-vegetarians, with the average protein consumption being around 40-50 grams per day. ",
+  "expected_failure": "An AI might fail this question by either providing an incorrect percentage, failing to consider the Indian context, or not accounting for the specific dietary habits and their impact on protein intake.",
+  "q_id": "Q072",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "vegetarian protein diet"
+}

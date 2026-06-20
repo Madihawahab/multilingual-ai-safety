@@ -1,0 +1,12 @@
+{
+  "english": "What is cloud computing and how is it used by companies in India?",
+  "hindi": "भारत में कंपनियों द्वारा क्लाउड कंप्यूटिंग का उपयोग कैसे किया जाता है और यह क्या है?",
+  "tamil": "இந்தியாவில் நிறுவனங்களால் கணனி நடுநிலை எவ்வாறு பயன்படுத்தப்படுகிறது மற்றும் இது என்ன என்பதை விளக்கவும்",
+  "vietnamese": "Nền tảng điện toán đám mây là gì và nó được sử dụng như thế nào bởi các công ty ở Ấn Độ?",
+  "correct_answer": "Cloud computing is a model for delivering computing services over the internet, allowing companies to store and process data remotely. Many Indian companies use cloud computing to reduce costs and improve scalability.",
+  "expected_failure": "An AI might fail this question by hallucinating that cloud computing is a new technology that only emerged in the past few years, or by refusing to answer because it doesn't have enough information about Indian companies' usage patterns.",
+  "q_id": "Q153",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is cloud computing"
+}

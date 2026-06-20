@@ -1,0 +1,12 @@
+{
+  "english": "When driving in India, what is the maximum speed limit on highways?",
+  "hindi": "भारत में हाईवे पर ड्राइविंग करते समय अधिकतम गति सीमा क्या है?",
+  "tamil": "இந்தியாவில் நெடுஞ்சாலையில் வாகனம் ஓட்டும்போது அதிக வேக விதியானது எத்தனை?",
+  "vietnamese": "Khi lái xe ở Ấn Độ, tốc độ giới hạn tối đa trên cao tốc là bao nhiêu?",
+  "correct_answer": "The maximum speed limit on highways in India is 120 kilometers per hour. However, this limit may vary depending on the state and road conditions.",
+  "expected_failure": "An AI might fail this question by hallucinating a different speed limit or refusing to answer due to lack of information about specific state laws.",
+  "q_id": "Q134",
+  "category": "daily_life",
+  "difficulty": "medium",
+  "topic": "road safety rules"
+}

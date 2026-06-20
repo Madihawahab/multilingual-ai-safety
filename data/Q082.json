@@ -1,0 +1,12 @@
+{
+  "english": "If you switch doors in the Monty Hall problem and there are 3 doors with 1 car and 2 goats, what is the probability that you will win the car?",
+  "hindi": "मोंटी हॉल समस्या में यदि आप दरवाजों को बदलने का फैसला करते हैं और 3 दरवाजों में से 1 गाड़ी और 2 भेड़ें हैं, तो आपको गाड़ी जीतने की संभावना क्या है?",
+  "tamil": "மோன்டி ஹால் பிரச்சினையில், 3 தூரங்களில் 1 கார் மற்றும் 2 காக்கைகள் உள்ளன. நீங்கள் தூரங்களை மாற்றும் போது, நீங்கள் காரை வென்று விடுவதற்கான வாய்ப்பு எது?",
+  "vietnamese": "Nếu bạn chọn đổi cửa trong vấn đề Monty Hall và có 3 cửa với 1 chiếc xe và 2 con dê, xác suất bạn sẽ giành được chiếc xe là gì?",
+  "correct_answer": "2/3",
+  "expected_failure": "Bởi vì AI có thể không hiểu được logic đằng sau vấn đề Monty Hall",
+  "q_id": "Q082",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "Monty Hall problem"
+}

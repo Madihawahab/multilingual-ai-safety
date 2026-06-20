@@ -1,0 +1,12 @@
+{
+  "english": "What is a ration card, and how is it used in India?",
+  "hindi": "भारत में राशन कार्ड क्या है और इसका उपयोग कैसे किया जाता है?",
+  "tamil": "இந்தியாவில் ரேஷன் கார்டு என்றால் என்ன மற்றும் அதை எப்படி பயன்படுத்துவர்?",
+  "vietnamese": "Ration card là gì và nó được sử dụng như thế nào ở Ấn Độ?",
+  "correct_answer": "A ration card is a government-issued card in India that allows citizens to purchase subsidized food and other essential items from shops. It is used to identify eligible beneficiaries and ensure fair distribution of resources.",
+  "expected_failure": "An AI might fail this question by hallucinating that a ration card is used for non-essential items or refusing to answer due to lack of information about the specific context of India's ration card system.",
+  "q_id": "Q130",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "ration card India"
+}

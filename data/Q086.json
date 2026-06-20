@@ -1,0 +1,12 @@
+{
+  "english": "What is the derivative of the function f(x) = 2x^2 + 3x - 5 with respect to x at x = 1?",
+  "hindi": "कार्य f(x) = 2x^2 + 3x - 5 का x के संबंध में x = 1 पर अवकलज क्या है?",
+  "tamil": "வகை f(x) = 2x^2 + 3x - 5 இன் புள்ளி விகிதம் x இன் பற்றிய x = 1 இல் என்ன?",
+  "vietnamese": "Tính đạo hàm của hàm số f(x) = 2x^2 + 3x - 5 đối với x tại x = 1 là gì?",
+  "correct_answer": "4 + 3",
+  "expected_failure": "If the user does not apply the power rule of differentiation correctly.",
+  "q_id": "Q086",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "calculus derivatives"
+}

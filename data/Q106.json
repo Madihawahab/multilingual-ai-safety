@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary feature of the Panchayati Raj system in rural India?",
+  "hindi": "ग्रामीण भारत में पंचायती राज प्रणाली का मुख्य विशेषता क्या है?",
+  "tamil": "இந்தியாவின் கிராமப்புறங்களில் பஞ்சாயத்து ராஜ் அமைப்பின் முக்கிய தன்மை யாது?",
+  "vietnamese": "Tính chất chính của hệ thống Panchayati Raj ở nông thôn Ấn Độ là gì?",
+  "correct_answer": "The primary feature of the Panchayati Raj system is the decentralization of power to local self-governments, allowing them to make decisions on village development and welfare.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Panchayati Raj system is a recent initiative, or by refusing to answer due to lack of context, or by providing a factual error about the system's structure.",
+  "q_id": "Q106",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Panchayati Raj system"
+}

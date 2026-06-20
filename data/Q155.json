@@ -1,0 +1,12 @@
+{
+  "english": "What is blockchain technology used for in India?",
+  "hindi": "भारत में ब्लॉकचेन प्रौद्योगिकी का उपयोग क्या है?",
+  "tamil": "இந்தியாவில் பிளாக்ச்செயின் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது?",
+  "vietnamese": "Công nghệ blockchain được sử dụng ở Ấn Độ?",
+  "correct_answer": "Blockchain technology is used in India for secure and transparent transactions, such as digital payments and supply chain management.",
+  "expected_failure": "An AI might fail this question by hallucinating that blockchain is used for cryptocurrency trading only, or refusing to answer due to lack of context.",
+  "q_id": "Q155",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is blockchain"
+}

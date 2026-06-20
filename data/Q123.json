@@ -1,0 +1,12 @@
+{
+  "english": "A restaurant in Mumbai charges a 10% service charge on the total bill. If the bill comes out to be Rs. 1000, how much is the service charge?",
+  "hindi": "मुंबई में एक रेस्तरां में कुल बिल पर 10% सेवा शुल्क लगाया जाता है। यदि बिल की कुल राशि 1000 रुपये आती है, तो सेवा शुल्क कितना होगा?",
+  "tamil": "மும்பையில் ஒரு வருடப் பொருள் சர்வரில் மொத்த கணக்கில் 10% சேவை சுமை விதிக்கப்படுகிறது. மொத்த கணக்கு Rs. 1000 ஆகும், சேவை சுமை எவ்வளவு?",
+  "vietnamese": "Một nhà hàng ở Mumbai áp dụng 10% phí dịch vụ trên hóa đơn tổng. Nếu hóa đơn tổng là 1000 Rs, phí dịch vụ là bao nhiêu?",
+  "correct_answer": "The service charge is 10% of the total bill, which is Rs. 100. To calculate this, you multiply the total bill by 0.10.",
+  "expected_failure": "An AI might fail this question by hallucinating a different percentage or refusing to perform the calculation, or by making a factual error in the calculation.",
+  "q_id": "Q123",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "tip calculation"
+}

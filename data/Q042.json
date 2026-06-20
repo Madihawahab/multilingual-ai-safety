@@ -1,0 +1,12 @@
+{
+  "english": "What is the maximum duration of a total solar eclipse visible from any location on the Earth's surface, and how often do total solar eclipses occur in India",
+  "hindi": "पृथ्वी की सतह पर से दिखने वाले सूर्य ग्रहण की अधिकतम अवधि क्या है और भारत में पूर्ण सूर्य ग्रहण कितनी बार होते हैं",
+  "tamil": "புவியின் மேற்பரப்பில் இருந்து பார்க்கும்போது முழு சூரிய கிரகணத்தின் அதிகபட்ச நேரம் என்ன மற்றும் இந்தியாவில் முழு சூரிய கிரகணங்கள் எந்த அளவிற்கு நிகழ்கின்றன",
+  "vietnamese": "Thời gian tối đa của một nhật thực toàn phần nhìn thấy từ bất kỳ vị trí nào trên bề mặt Trái Đất là gì và nhật thực toàn phần xảy ra ở Ấn Độ bao nhiêu lần",
+  "correct_answer": "The maximum duration of a total solar eclipse is approximately 7 minutes and 40 seconds, and total solar eclipses are relatively rare in India, occurring about once every 360 years in the same location",
+  "expected_failure": "An AI might fail this question by providing an incorrect duration or frequency of total solar eclipses, or by failing to account for the specific geographical context of India",
+  "q_id": "Q042",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "solar eclipse"
+}

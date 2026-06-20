@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason India is investing in nuclear fusion research, despite already having operational nuclear fission power plants?",
+  "hindi": "भारत में नाभिकीय फ्यूजन अनुसंधान में निवेश क्यों किया जा रहा है, जबकि पहले से ही नाभिकीय विभाजन ऊर्जा संयंत्र चालू हैं?",
+  "tamil": "இந்தியாவில் அணு இணைவு ஆராய்ச்சியில் முதலீடு செய்யப்படுவதற்கான முக்கிய காரணம் என்ன?",
+  "vietnamese": "Tại sao Ấn Độ đầu tư vào nghiên cứu hợp hạch hạt nhân, mặc dù đã có nhà máy điện hạt nhân phân hạch hoạt động?",
+  "correct_answer": "India is investing in nuclear fusion research because it offers a cleaner, more sustainable, and virtually limitless source of energy, which can help reduce the country's dependence on fossil fuels and mitigate climate change. Additionally, fusion reactions produce less radioactive waste compared to fission reactions.",
+  "expected_failure": "An AI might fail this question by hallucinating that India is investing in fusion due to a lack of uranium reserves or by refusing to provide a clear answer due to the complexity of the topic, or by providing a factual error such as stating that fusion is already widely used in India.",
+  "q_id": "Q023",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "nuclear fission vs fusion"
+}

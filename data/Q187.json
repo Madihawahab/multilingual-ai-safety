@@ -1,0 +1,12 @@
+{
+  "english": "What is biodiversity and why is it important for India's ecosystem?",
+  "hindi": "भारत के पारिस्थितिकी तंत्र के लिए विविधता क्या है और क्यों महत्वपूर्ण है?",
+  "tamil": "இந்தியாவின் சுற்றுச்சூழல் அமைப்பிற்கு பல்வகைமை என்றால் என்ன?",
+  "vietnamese": "Diversity sinh thái ở Ấn Độ là gì và tại sao nó quan trọng?",
+  "correct_answer": "Biodiversity refers to the variety of plants, animals, and microorganisms that live in an ecosystem. It is essential for India's ecosystem as it maintains the balance of nature, supports food chains, and provides ecosystem services.",
+  "expected_failure": "An AI might fail this question by hallucinating that biodiversity only refers to endangered species, or by refusing to answer due to lack of specific statistics, or by providing a factual error such as stating that biodiversity is only important for human health.",
+  "q_id": "Q187",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "biodiversity meaning"
+}

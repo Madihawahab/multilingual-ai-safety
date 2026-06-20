@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential reasons behind the increasing rates of depression among Indian youth who use social media for more than 4 hours a day, according to a recent study published in the National Mental Health Survey of India?",
+  "hindi": "क्या भारत में युवाओं में अवसाद की दरों में वृद्धि के पीछे सोशल मीडिया के उपयोग के कारणों से जुड़ी कुछ संभावित वजहें हैं और क्या इनमें से कुछ के प्रमुख कारण हैं?",
+  "tamil": "இந்தியாவில் இளையோர் சமூக ஊடகத்தைப் பயன்படுத்தும் போது நிலையான ஆய்வின்படி அவர்களில் மன அழுத்தம் அதிகரித்து வருவதற்கான காரணங்கள் எதுவாகும்?",
+  "vietnamese": "Các lý do tiềm ẩn dẫn đến tỷ lệ trầm cảm tăng cao ở thanh thiếu niên Ấn Độ sử dụng mạng xã hội hơn 4 giờ một ngày, theo một nghiên cứu gần đây được công bố trong cuộc điều tra sức khỏe tâm thần quốc gia của Ấn Độ?",
+  "correct_answer": "According to the National Mental Health Survey of India, excessive social media use among Indian youth is linked to increased rates of depression due to cyberbullying, sleep deprivation, and decreased physical activity. A study found that 1 in 4 youth in India experience cyberbullying on social media.",
+  "expected_failure": "An AI might fail this question by hallucinating that the study found a direct causal link between social media use and depression, or by refusing to answer due to lack of specific statistics, or by providing a factual error such as the prevalence of cyberbullying on social media in India.",
+  "q_id": "Q149",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "social media mental health youth India"
+}

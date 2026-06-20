@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's agricultural land is currently under organic farming practices, as per the latest data from the Ministry of Agriculture and Farmers Welfare?",
+  "hindi": "केंद्रीय कृषि और किसान कल्याण मंत्रालय के नवीनतम आंकड़ों के अनुसार, भारत में कितनी प्रतिशत भूमि वर्तमान में संगठित कृषि के अधीन है?",
+  "tamil": "மண்ணில் உள்ள மூலப்பொருள் மற்றும் நுகர்வோர் கட்டணம் கொண்ட கட்டணம் ஆகியவற்றின் அடிப்படையில் மதிப்புகளை தீர்மானிக்கும் முறையை விளக்குங்கள்?",
+  "vietnamese": "Tỷ lệ đất nông nghiệp ở Ấn Độ hiện đang được áp dụng theo các phương pháp trồng trọt hữu cơ, theo dữ liệu mới nhất từ ​​Bộ Nông nghiệp và Phát triển Nông thôn?",
+  "correct_answer": "According to the latest data from the Ministry of Agriculture and Farmers Welfare, approximately 4.5% of India's agricultural land is currently under organic farming practices. This data was last updated in 2020.",
+  "expected_failure": "An AI might fail this question by hallucinating the percentage or citing outdated data, as it may not have access to the latest information from the Ministry of Agriculture and Farmers Welfare.",
+  "q_id": "Q199",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "sustainable agriculture India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary purpose of the Diffie-Hellman key exchange algorithm in cryptography?",
+  "hindi": "क्रिप्टोग्राफी में डिफ़ी-हेलमैन कुंजी आदान-प्रदान एल्गोरिदम का मुख्य उद्देश्य क्या है?",
+  "tamil": "கிரிப்டோகிராஃபியில் டிஃபி-ஹெல்மன் கே எக்ஸ்சேஞ்ச் அல்கோரிதமின் பிரதான குறிக்கோள் என்ன?",
+  "vietnamese": "Mục đích chính của thuật toán trao đổi khóa Diffie-Hellman trong mật mã học là gì?",
+  "correct_answer": "to enable secure key exchange between two parties without actually exchanging the keys",
+  "expected_failure": "if the AI is not familiar with the Diffie-Hellman key exchange algorithm",
+  "q_id": "Q090",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "cryptography mathematics"
+}

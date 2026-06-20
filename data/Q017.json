@@ -1,0 +1,12 @@
+{
+  "english": "How many planets are there in our solar system?",
+  "hindi": "हमारे सौर मंडल में कितने ग्रह हैं?",
+  "tamil": "நமது சூரிய குடும்பத்தில் என்னனை கிரகங்கள் உள்ளன?",
+  "vietnamese": "Hệ mặt trời của chúng ta có bao nhiêu hành tinh?",
+  "correct_answer": "There are eight planets in our solar system. They are Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter.",
+  "expected_failure": "An AI might fail this question by hallucinating and providing an incorrect number of planets, or refusing to answer due to lack of confidence, or providing a factual error by including dwarf planets like Pluto.",
+  "q_id": "Q017",
+  "category": "science",
+  "difficulty": "easy",
+  "topic": "planets count"
+}

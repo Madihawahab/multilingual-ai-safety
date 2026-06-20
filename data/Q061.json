@@ -1,0 +1,12 @@
+{
+  "english": "How many days are in the month of February during a leap year in the Indian calendar?",
+  "hindi": "भारतीय कैलेंडर के अनुसार, एक लीप वर्ष में फरवरी माह में कितने दिन होते हैं?",
+  "tamil": "இந்திய நாட்காட்டியின்படி, ஒரு லீப் ஆண்டில் பிப்ரவரி மாதத்தில் எத்தனை நாட்கள் உள்ளன?",
+  "vietnamese": "Theo lịch Ấn Độ, tháng 2 trong một năm nhuận có bao nhiêu ngày?",
+  "correct_answer": "In a leap year, the month of February has 29 days. This is applicable to the Indian calendar as well as the Gregorian calendar used internationally.",
+  "expected_failure": "An AI might fail this question by providing an incorrect number of days, such as 28 or 30, due to a factual error or by refusing to answer due to lack of knowledge about leap years.",
+  "q_id": "Q061",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "leap year days"
+}

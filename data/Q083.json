@@ -1,0 +1,12 @@
+{
+  "english": "What is the formula for Bayes' theorem?",
+  "hindi": "बेज़़ थ्योरम के लिए सूत्र क्या है?",
+  "tamil": "பேயஸ் தேற்றத்திற்கான வாய்ப்பாடு என்ன?",
+  "vietnamese": "Phương trình của định lý Bayes là gì?",
+  "correct_answer": "P(A|B) = (P(B|A) * P(A)) / P(B)",
+  "expected_failure": "if the input data is not relevant to Bayes' theorem",
+  "q_id": "Q083",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "Bayes theorem"
+}

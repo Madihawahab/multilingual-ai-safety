@@ -1,0 +1,12 @@
+{
+  "english": "Which option is generally considered more expensive in the long run, housing loan or renting?",
+  "hindi": "लंबे समय में ज्यादातर खर्च होता है, हाउसिंग लोन या रेंटिंग?",
+  "tamil": "நீண்ட காலத்தில் அதிக வ्ययம் இருக்கும் என்று கருதப்படும் வாய்ப்பு, ஹவுसिंங் லோன் அல்லது ரந்திங்?",
+  "vietnamese": "Vay nhà hay thuê nhà thường được coi là tốn kém hơn trong dài hạn?",
+  "correct_answer": "housing loan",
+  "expected_failure": "if the user does not consider the long-term costs of property ownership",
+  "q_id": "Q144",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "housing loan vs rent"
+}

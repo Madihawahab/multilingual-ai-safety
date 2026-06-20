@@ -1,0 +1,12 @@
+{
+  "english": "What is the main cause of rising temperatures and changing weather patterns in India?",
+  "hindi": "भारत में बढ़ती तापमान और मौसम की परिवर्तन का मुख्य कारण क्या है?",
+  "tamil": "இந்தியாவில் வெப்பநிலை உயர்வு மற்றும் வானிலை மாற்றத்தின் முக்கிய காரணம் என்ன?",
+  "vietnamese": "Nguồn gốc chính của sự gia tăng nhiệt độ và sự thay đổi của thời tiết ở Ấn Độ là gì?",
+  "correct_answer": "The main cause of rising temperatures and changing weather patterns in India is climate change, primarily due to the increase in greenhouse gases in the atmosphere.",
+  "expected_failure": "An AI might fail this question by hallucinating that pollution or deforestation is the main cause, or by refusing to answer due to the complexity of the topic, or by providing a factual error such as stating that climate change is not a significant issue in India.",
+  "q_id": "Q181",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "what is climate change"
+}

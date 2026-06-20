@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary concern of the reservation policy debate in India?",
+  "hindi": "भारत में आरक्षण नीति विवाद का मुख्य चिंता क्या है?",
+  "tamil": "இந்தியாவில் ஒதுக்கீட்டு நிதியம் பற்றிய விவாதத்தின் முக்கிய கவலை எது?",
+  "vietnamese": "Nhu cầu chính của cuộc tranh luận về chính sách dự phòng ở Ấn Độ là gì?",
+  "correct_answer": "Social equality and representation of historically marginalized communities",
+  "expected_failure": "why the AI model may struggle with nuances of cultural and social context",
+  "q_id": "Q119",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "reservation policy debate India"
+}

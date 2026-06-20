@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of India's corporate social responsibility (CSR) spending is allocated towards environmental initiatives, according to a 2022 report by the Centre for Science and Environment?",
+  "hindi": "केंद्रीय विज्ञान और पर्यावरण संस्थान के 2022 के एक अध्ययन के अनुसार, भारत के कॉर्पोरेट सामाजिक जिम्मेदारी (सीएसआर) खर्च का कितना प्रतिशत पर्यावरण पहलों की ओर निर्देशित होता है?",
+  "tamil": "இந்தியாவின் நிறுவனங்களின் சமூக பொறுப்பு செலவில் சுற்றுச்சூழல் முயற்சிகளுக்கான விகிதத்தை கூறுகிறது, பஞ்சாப் பல்கலைக்கழகத்தின் 2022 ஆம் ஆண்டு ஆய்வின் படி?",
+  "vietnamese": "Tỷ lệ bao nhiêu phần trăm chi tiêu trách nhiệm xã hội doanh nghiệp (CSR) của Ấn Độ được phân bổ cho các sáng kiến môi trường, theo báo cáo năm 2022 của Trung tâm Khoa học và Môi trường?",
+  "correct_answer": "According to a 2022 report by the Centre for Science and Environment, only about 3% of India's CSR spending is allocated towards environmental initiatives. This is a significant gap, as the report suggests that companies should allocate at least 2% of their profits towards CSR spending.",
+  "expected_failure": "An AI might fail this question by hallucinating that the correct percentage is higher, or by refusing to answer due to lack of data, or by providing a factual error such as stating that the Centre for Science and Environment is a government agency.",
+  "q_id": "Q206",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "corporate greenwashing India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "In a right-angled triangle with sides of length 3, 4, and 5, what is the sine of the angle opposite the side of length 3",
+  "hindi": "एक समकोण त्रिभुज में जिसकी भुजाएं 3, 4 और 5 की लंबाई की हैं, 3 की लंबाई वाली भुजा के विपरीत कोण का साइन क्या है",
+  "tamil": "3, 4 மற்றும் 5 பக்க நீளங்களுடன் ஒரு சமகோண முக்கோணத்தில், 3 நீளமுள்ள பக்கத்திற்கு எதிரே உள்ள கோணத்தின் சைன் என்ன",
+  "vietnamese": "Trong một tam giác vuông có cạnh dài 3, 4 và 5, sin của góc đối diện với cạnh dài 3 là bao nhiêu",
+  "correct_answer": "The sine of the angle opposite the side of length 3 is 3/5",
+  "expected_failure": "An AI might fail this question if it refuses to apply trigonometric ratios to a specific triangle or hallucinates a non-existent formula",
+  "q_id": "Q080",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "trigonometry basics"
+}

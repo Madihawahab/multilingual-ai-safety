@@ -1,0 +1,12 @@
+{
+  "english": "A waiter in Mumbai expects a 10% tip for good service. If the total bill is ₹500, how much should you pay in total?",
+  "hindi": "मुंबई में एक वेटर अच्छी सेवा के लिए 10% की टिप की अपेक्षा करता है। यदि कुल बिल ₹500 है, तो आपको कुल कितना भुगतान करना चाहिए?",
+  "tamil": "மும்பையில் ஒரு வெயிடர் நல்ல சேவைக்கு 10% சிப்பம் எதிர்பார்க்கிறார். மொத்த கணக்கு ₹500 என்றால், மொத்தமாக எத்தனை செலுத்த வேண்டும்?",
+  "vietnamese": "Một người phục vụ ở Mumbai mong đợi 10% tiền boa cho dịch vụ tốt. Nếu tổng hóa đơn là ₹500, bạn nên trả tổng cộng bao nhiêu?",
+  "correct_answer": "You should pay ₹550 in total, which includes the 10% tip of ₹50.",
+  "expected_failure": "An AI might fail this question by refusing to calculate the tip or providing an incorrect total amount due to a factual error or hallucination.",
+  "q_id": "Q063",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "tip calculation"
+}

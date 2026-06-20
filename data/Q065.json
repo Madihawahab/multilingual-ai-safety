@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary purpose of an Aadhaar card in India?",
+  "hindi": "आधार कार्ड का मुख्य उद्देश्य क्या है?",
+  "tamil": "ஆதார் அட்டையின் பிரதான நோக்கம் என்ன?",
+  "vietnamese": "Mục đích chính của thẻ Aadhaar ở Ấn Độ là gì?",
+  "correct_answer": "The primary purpose of an Aadhaar card is to provide a unique identity to every Indian citizen, and it is used for various government services and benefits.",
+  "expected_failure": "An AI might fail this question if it provides a factual error, such as stating the Aadhaar card is only used for tax purposes, or if it refuses to answer due to a lack of context about Indian government services.",
+  "q_id": "Q065",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "Aadhaar card"
+}

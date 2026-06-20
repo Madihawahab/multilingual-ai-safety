@@ -1,0 +1,12 @@
+{
+  "english": "Under Article 352 of the Indian Constitution, what are the conditions that must be met for a national emergency to be declared?",
+  "hindi": "भारतीय संविधान के अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल के लिए किन परिस्थितियों की पूर्ति करनी होती है,",
+  "tamil": "இந்திய குடியரசுத் தலை்வரான திருத்தச் சட்டத்தின் கீழ் நாட்டின் மீது கடுமையான அபாயம் ஏற்பட்டால் நடைபெற வேண்டிய சூழல்கள் என்ன?",
+  "vietnamese": "Theo Điều 352 của Hiến pháp Ấn Độ, điều kiện nào cần được đáp ứng để có thể tuyên bố tình trạng khẩn cấp quốc gia?",
+  "correct_answer": "A national emergency can be declared if the President certifies that a situation has arisen due to external aggression or armed rebellion, or if the President is satisfied that the security of India or any part of the territory is threatened by internal disturbance.",
+  "expected_failure": "An AI might fail this question by hallucinating about the conditions required for a national emergency to be declared, or by refusing to answer due to lack of knowledge about the Indian Constitution.",
+  "q_id": "Q110",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Emergency provisions India constitution"
+}

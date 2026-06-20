@@ -1,0 +1,12 @@
+{
+  "english": "What are the major factors contributing to water scarcity in India?",
+  "hindi": "भारत में पानी की कमी के प्रमुख कारण क्या हैं?",
+  "tamil": "இந்தியாவில் நீர் குறைபாட்டின் முக்கியக் காரணிகள் யாவை?",
+  "vietnamese": "Những yếu tố chính nào gây ra tình trạng thiếu nước ở Ấn Độ?",
+  "correct_answer": "Over-extraction of groundwater, climate change, and rapid urbanization are major factors contributing to water scarcity in India. This is due to a combination of these factors and the country's large population.",
+  "expected_failure": "An AI might fail this question by hallucinating that water scarcity is primarily caused by industrial activities or refusing to answer due to lack of specific data on groundwater extraction rates.",
+  "q_id": "Q194",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "water scarcity India"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason for promoting handwashing with soap in India, especially during the COVID-19 pandemic?",
+  "hindi": "भारत में कोविड-19 महामारी के दौरान साबुन से हाथ धोने को बढ़ावा देने का मुख्य कारण क्या है?",
+  "tamil": "இந்தியாவில் கோவிட்-19 பரவுகையின் போது, சோப்புடன் கைகழுவுதலை ஊக்குவிப்பதற்கான முக்கிய காரணம் என்ன?",
+  "vietnamese": "Lý do chính để thúc đẩy rửa tay bằng xà phòng ở Ấn Độ, đặc biệt là trong đại dịch COVID-19 là gì?",
+  "correct_answer": "The primary reason is to prevent the spread of infectious diseases, such as COVID-19, by reducing the transmission of viruses and bacteria through contaminated hands.",
+  "expected_failure": "An AI might fail this question by providing an incorrect reason, such as promoting handwashing for solely aesthetic or cultural purposes, or by failing to recognize the importance of handwashing in preventing the spread of diseases.",
+  "q_id": "Q004",
+  "category": "health",
+  "difficulty": "easy",
+  "topic": "handwashing"
+}

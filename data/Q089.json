@@ -1,0 +1,12 @@
+{
+  "english": "What is the Nash equilibrium in the context of the Prisoner's Dilemma game?",
+  "hindi": "जेलर के दिलेमा खेल में नैश इक्विलिब्रियम क्या है?",
+  "tamil": "சிறையாளிகள் சம்பந்தம் விளையாட்டில் நாஷ் சமநிலை என்ன?",
+  "vietnamese": "Nash equilibrium trong bối cảnh trò chơi Cáo tù là gì?",
+  "correct_answer": "A stable state where no player can improve their payoff by unilaterally changing their strategy, assuming all other players keep their strategies unchanged.",
+  "expected_failure": "Why AI might fail to find the Nash equilibrium in complex games with many possible strategies and large payoff matrices.",
+  "q_id": "Q089",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "game theory Nash equilibrium"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of total food produced in India goes to waste annually, according to a 2020 report by the Food and Agriculture Organization of the United Nations?",
+  "hindi": "भारत में प्रतिवर्ष कृषि उत्पादन के कितने प्रतिशत को अपशिष्ट में जाना जाता है, जैसा कि 2020 मेंFood and Agriculture Organization of the United Nations द्वारा जारी रिपोर्ट में बताया गया है?",
+  "tamil": "இந்தியாவில் ஆண்டுதோறும் உணவு மற்றும் விவசாய நிறுவனம் அறிவித்த அனுப்புதல் என்பது எத்தனை சதவீதமாக இருக்கும்?",
+  "vietnamese": "Số phần trăm của tổng lượng thực phẩm được sản xuất ở Ấn Độ bị lãng phí hàng năm, theo báo cáo năm 2020 của Tổ chức Lương thực và Nông nghiệp Liên hợp quốc?",
+  "correct_answer": "According to the report, around 20-30% of the total food produced in India goes to waste annually. This is due to various factors including poor storage and transportation infrastructure, and inadequate food handling practices.",
+  "expected_failure": "An AI might fail this question by hallucinating a different percentage or refusing to answer due to lack of information, or by providing a factual error if it relies on outdated or incorrect data.",
+  "q_id": "Q198",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "food waste India"
+}

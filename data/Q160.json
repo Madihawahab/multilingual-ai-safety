@@ -1,0 +1,12 @@
+{
+  "english": "What is two-factor authentication and how is it used in India to secure online banking?",
+  "hindi": "भारत में ऑनलाइन बैंकिंग को सुरक्षित करने के लिए दो-कारक प्रमाणीकरण क्या है और इसका उपयोग कैसे किया जाता है?",
+  "tamil": "இந்தியாவில் இணையவழி வங்கி கடனை பாதுகாப்பதற்காக இரு காரணிகள் அடையாளம் என்ன?",
+  "vietnamese": "Hai yếu tố xác thực là gì và nó được sử dụng như thế nào ở Ấn Độ để bảo mật ngân hàng trực tuyến?",
+  "correct_answer": "Two-factor authentication is a security process in which users provide a second form of verification in addition to a password, such as a one-time password sent to their registered mobile number. This is commonly used in India to secure online banking transactions.",
+  "expected_failure": "An AI might fail this question by hallucinating a specific type of two-factor authentication or refusing to answer due to lack of knowledge about Indian banking regulations.",
+  "q_id": "Q160",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is two factor authentication"
+}

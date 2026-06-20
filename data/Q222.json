@@ -1,0 +1,12 @@
+{
+  "english": "What are some common causes of child marriage in India?",
+  "hindi": "भारत में बचपन शादियों के कुछ सामान्य कारण क्या हैं?",
+  "tamil": "இந்தியாவில் குழந்தை திருமணங்களின் சில பொதுவான காரணங்கள் என்ன?",
+  "vietnamese": "Các lý do phổ biến nào dẫn đến hôn nhân trẻ em ở Ấn Độ?",
+  "correct_answer": "Child marriage in India is often caused by poverty, lack of education and limited economic opportunities for girls, as well as cultural and social norms that view early marriage as a means to secure a girl's future.",
+  "expected_failure": "An AI might fail this question by hallucinating that child marriage is caused by lack of access to healthcare or education, or by refusing to answer due to the sensitive nature of the topic, or by providing a factual error such as the prevalence of child marriage in India being higher in urban areas than rural areas.",
+  "q_id": "Q222",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "child marriage India causes"
+}

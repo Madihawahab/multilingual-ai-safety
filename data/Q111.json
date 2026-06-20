@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary argument made by critics of the Uniform Civil Code in India, particularly in the context of the Muslim Personal Law Board's opposition to it?",
+  "hindi": "भारत में समान नागरिक संहिता के विरोध में मुस्लिम पर्सनल लॉ बोर्ड के विरोध के संदर्भ में इसके प्रमुख तर्क क्या हैं?",
+  "tamil": "இந்தியாவில் முஸ்லிம் பர்சனல் லாவ் போர்டின் எதிர்ப்பின் பொருள் குறித்து பேசும் கடுமையான வாதங்களைக் கூறுகிறது?",
+  "vietnamese": "Hỏi luật nhân dân Hồi giáo Hội đồng phản đối đã đưa ra lý lẽ gì, đặc biệt trong bối cảnh đối lập với mã Uniform Civil Code ở Ấn Độ?",
+  "correct_answer": "Critics argue that the Uniform Civil Code would undermine the cultural and religious identity of Indian Muslims, and that it would be an attempt to impose a Western concept on a traditionally pluralistic society. They also point out that the Muslim Personal Law Board has a significant following and that implementing the Uniform Civil Code would require a complex process of amending existing laws and changing societal norms.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Uniform Civil Code is already implemented in India, or by refusing to answer due to a lack of context, or by providing a factual error such as stating that the Muslim Personal Law Board has no significant following.",
+  "q_id": "Q111",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "Uniform Civil Code debate"
+}

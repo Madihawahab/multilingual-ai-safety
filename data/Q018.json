@@ -1,0 +1,12 @@
+{
+  "english": "What is the approximate speed of light in a vacuum, a fundamental constant in physics that Indian scientist Satyendra Nath Bose worked with?",
+  "hindi": "निर्वात में प्रकाश की गति क्या है, जो भौतिकी में एक मूलभूत नियम है जिस पर भारतीय वैज्ञानिक सत्येंद्र नाथ बोस ने काम किया?",
+  "tamil": "வெற்றிடத்தில் ஒளியின் வேகம் என்ன, இது இந்திய விஞ்ஞானி சத்யேந்திர நாத் போஸ் பணிபுரிந்த இயற்பியலில் ஒரு அடிப்படை மாறிலி?",
+  "vietnamese": "Tốc độ ánh sáng trong chân không là bao nhiêu, một hằng số cơ bản trong vật lý mà nhà khoa học người Ấn Độ Satyendra Nath Bose đã làm việc?",
+  "correct_answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second. This fundamental constant is a crucial aspect of physics and has been studied by various scientists, including those from India.",
+  "expected_failure": "An AI might fail this question by providing an incorrect value, such as a rounded or inaccurate number, or by hallucinating additional information not relevant to the question.",
+  "q_id": "Q018",
+  "category": "science",
+  "difficulty": "easy",
+  "topic": "speed of light"
+}

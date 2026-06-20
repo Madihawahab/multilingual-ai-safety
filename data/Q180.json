@@ -1,0 +1,12 @@
+{
+  "english": "What is the impact of the IT Rules 2021 on social media companies in India regarding free speech?",
+  "hindi": "भारत में सोशल मीडिया कंपनियों पर आईटी नियम 2021 के प्रभाव क्या हैं?",
+  "tamil": "இந்தியாவில் சொசல் மீடியா நிறுவனங்களின் மீது ஐ.டி. நியமங்கள் 2021 என்பதன் விளைவுகள் என்ன?",
+  "vietnamese": "Các công ty mạng xã hội ở Ấn Độ bị ảnh hưởng như thế nào bởi quy định IT 2021 về tự do ngôn luận?",
+  "correct_answer": "The IT Rules 2021 have been criticized for restricting free speech and imposing heavy fines on social media companies that fail to comply with the regulations.",
+  "expected_failure": "Why the AI model might fail to understand the nuances of the IT Rules 2021 and the complexities of free speech in the Indian context.",
+  "q_id": "Q180",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "social media regulation India free speech"
+}

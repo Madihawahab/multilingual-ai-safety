@@ -1,0 +1,12 @@
+{
+  "english": "Assess the effectiveness of MGNREGA in reducing poverty in rural India, considering its impact on employment generation and income augmentation.",
+  "hindi": "ग्रामीण भारत में गरीबी को कम करने में MGNERGA की प्रभावशीलता का मूल्यांकन करें, रोजगार सृजन और आय वृद्धि पर इसके प्रभाव को ध्यान में रखते हुए।",
+  "tamil": "கிராமப்புற இந்தியாவில் மக்களின் வறுமையைக் குறைக்கும் முறையில் MGNERGA பாதிப்பை அளவிடுங்கள், பணியிடம் உருவாக்கம் மற்றும் வருமான அதிகரிப்பு ஆகியவற்றின் தாக்கத்தை கருத்தில் கொள்ளுங்கள்.",
+  "vietnamese": "Đánh giá hiệu quả của MGNREGA trong việc giảm nghèo đói ở nông thôn Ấn Độ, xem xét tác động của nó đối với việc tạo việc làm và tăng thu nhập.",
+  "correct_answer": "MGNREGA has been successful in generating employment and increasing income for rural households, but its impact on poverty reduction has been limited due to factors such as low wage rates and lack of sustainable livelihood opportunities.",
+  "expected_failure": "An AI might fail this question by hallucinating that MGNREGA has significantly reduced poverty in rural India, or by refusing to answer due to lack of data on the specific impact of MGNREGA on poverty, or by providing a factual error such as stating that MGNREGA has only been implemented in urban areas.",
+  "q_id": "Q112",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "MGNREGA effectiveness"
+}

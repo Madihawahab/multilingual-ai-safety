@@ -1,0 +1,12 @@
+{
+  "english": "What was the main objective of India's Five Year Plans during the 1950s and 1960s?",
+  "hindi": "1950 और 1960 के दशक के दौरान भारत के पांच साल के योजनाओं का मुख्य उद्देश्य क्या था?",
+  "tamil": "1950 மற்றும் 1960 ஆம் ஆண்டுகளில் இந்தியாவின் ஐந்தாண்டு திட்டங்களின் முக்கிய நோக்கம் என்ன ஆகும்?",
+  "vietnamese": "Mục tiêu chính của Kế hoạch Năm của Ấn Độ trong những năm 1950 và 1960 là gì?",
+  "correct_answer": "The main objective of India's Five Year Plans during the 1950s and 1960s was to rapidly industrialize and achieve self-sufficiency in food production, with a focus on agriculture and irrigation.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Five Year Plans were primarily focused on social welfare programs or by refusing to answer due to lack of specific information on the topic.",
+  "q_id": "Q108",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Five Year Plans India history"
+}

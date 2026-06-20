@@ -1,0 +1,12 @@
+{
+  "english": "What is the definition of a prime number in mathematics",
+  "hindi": "गणित में एक अभाज्य संख्या की परिभाषा क्या है",
+  "tamil": "எண் கோட்பாட்டில் ஒரு பகா எண்ணின் வரையறை என்ன",
+  "vietnamese": "Định nghĩa của số nguyên tố trong toán học là gì",
+  "correct_answer": "A prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself",
+  "expected_failure": "An AI might fail this question if it provides a factual error or refuses to answer due to lack of understanding of mathematical definitions",
+  "q_id": "Q067",
+  "category": "math",
+  "difficulty": "easy",
+  "topic": "prime numbers definition"
+}

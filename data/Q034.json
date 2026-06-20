@@ -1,0 +1,12 @@
+{
+  "english": "Rahul deposited ₹10,000 in a savings account with a 5% annual interest rate. How much simple interest will he earn in 2 years?",
+  "hindi": "राहुल ने 10,000 रुपये एक बचत खाते में जमा किया जिसमें 5% की वार्षिक ब्याज दर है। 2 साल में उन्हें कितना साधारण ब्याज मिलेगा?",
+  "tamil": "ராகுல் ஒரு சேமிப்பு கணக்கில் ₹10,000 வைத்துள்ளார், அதில் 5% ஆண்டு வட்டி விகிதம் உள்ளது. 2 ஆண்டுகளில் அவர் எந்த அளவு சாதாரண வட்டி ஈட்டுவார்?",
+  "vietnamese": "Rahul đã gửi 10.000 rupee vào một tài khoản tiết kiệm với lãi suất hàng năm là 5%. Trong 2 năm, anh ấy sẽ kiếm được bao nhiêu lãi suất đơn giản?",
+  "correct_answer": "Rahul will earn ₹1,000 in simple interest over 2 years. This is calculated as: Principal * Rate * Time = 10,000 * 0.05 * 2 = 1,000",
+  "expected_failure": "An AI might fail this question by hallucinating an incorrect interest amount, refusing to calculate the interest, or using an incorrect formula for simple interest.",
+  "q_id": "Q034",
+  "category": "math",
+  "difficulty": "easy",
+  "topic": "simple interest"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of Indian farmers would need to adopt agroforestry practices to potentially mitigate the tipping point of water scarcity in the Indo-Gangetic Plain by 2050, considering the current rate of groundwater depletion?",
+  "hindi": "अगर वर्तमान दर से भूजल की कमी जारी रही तो 2050 तक गंगा-सिंधु मैदानी क्षेत्र में पानी की कमी के टिपिंग पॉइंट को कम करने के लिए कितने प्रतिशत भारतीय किसानों को वृक्षाग्रि व्यवस्था अपनानी होगी?",
+  "tamil": "2050 ஆம் ஆண்டுக்குள் இந்தோ-கங்கை சமவெளி பிராந்தியத்தில் நீர் பற்றாக்குறை முனைப்புக்கு எதிராக சமண விவசாய நடைமுறைகளை ஏற்றுக்கொள்வதற்கு எந்த சதவீத இந்திய விவசாயிகள் தேவை?",
+  "vietnamese": "Nếu tỷ lệ cạn kiệt nguồn nước ngầm hiện tại vẫn tiếp diễn thì đến năm 2050, cần bao nhiêu phần trăm nông dân Ấn Độ áp dụng các phương pháp nông lâm để có thể giảm thiểu điểm tới hạn về khan hiếm nước ở vùng đồng bằng sông Hằng - Sindh?",
+  "correct_answer": "Around 30-40% of Indian farmers would need to adopt agroforestry practices, considering the current rate of groundwater depletion and the potential for agroforestry to reduce water usage by 20-30%.",
+  "expected_failure": "An AI might fail this question by either providing an incorrect percentage or refusing to give a specific answer due to lack of concrete data, or by hallucinating unrelated statistics.",
+  "q_id": "Q029",
+  "category": "science",
+  "difficulty": "hard",
+  "topic": "climate tipping points"
+}

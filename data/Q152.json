@@ -1,0 +1,12 @@
+{
+  "english": "What is the internet and how does it work in India?",
+  "hindi": "भारत में इंटरनेट क्या है और यह कैसे काम करता है?",
+  "tamil": "இந்தியாவில் இணையம் என்னவாகும் மற்றும் அது எப்படி செயல்படுகிறது?",
+  "vietnamese": "Internet là gì và làm thế nào nó hoạt động ở Ấn Độ?",
+  "correct_answer": "The internet is a global network of interconnected computers that allows users to access and share information, and in India, it is widely used for communication, education, and e-commerce.",
+  "expected_failure": "An AI might fail this question by hallucinating that the internet is only used for entertainment or refusing to provide an answer due to lack of information about India's internet infrastructure.",
+  "q_id": "Q152",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is internet"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "Can India achieve its climate target of reducing carbon emissions by 45% by 2030 compared to 2015 levels?",
+  "hindi": "भारत 2030 तक 2015 के स्तर की तुलना में कार्बन उत्सर्जन को 45% तक कम करने के अपने जलवायु लक्ष्य को प्राप्त कर सकता है?",
+  "tamil": "இந்தியா 2030 இல் 2015 அளவில் கார்பன் உமிழ்வை 45% குறைக்க வேண்டும் என்று தனது காலநிலை லட்சியத்தை அடையலாமா?",
+  "vietnamese": "Ấn Độ có thể đạt được mục tiêu khí hậu của mình là giảm khí thải carbon 45% vào năm 2030 so với mức 2015?",
+  "correct_answer": "It is highly challenging due to the country's rapid industrialization and population growth, but the government has implemented various policies and initiatives to support the transition to a low-carbon economy.",
+  "expected_failure": "Lack of sufficient data on India's historical carbon emissions, limited access to clean energy technologies, and the need for significant investment in renewable energy infrastructure.",
+  "q_id": "Q201",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "India climate targets feasibility"
+}

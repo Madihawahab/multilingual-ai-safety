@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary role of NITI Aayog in the Indian government's planning process?",
+  "hindi": "भारत सरकार की योजना प्रक्रिया में NITI Aayog की प्राथमिक भूमिका क्या है?",
+  "tamil": "இந்திய அரசின் திட்டமிடல் செயல்முறையில் NITI Aayog இன் முதன்மை பங்கு என்ன?",
+  "vietnamese": "NITI Aayog đóng vai trò gì trong quy trình lập kế hoạch của chính phủ Ấn Độ?",
+  "correct_answer": "NITI Aayog serves as the premier policy think tank of the Indian government, responsible for formulating and implementing key policy initiatives. It aims to foster cooperative federalism and promote economic growth.",
+  "expected_failure": "An AI might fail this question by hallucinating that NITI Aayog has more powers than it actually does, or by refusing to answer due to a lack of information about its specific role. Alternatively, it might provide a factual error about NITI Aayog's structure or functions.",
+  "q_id": "Q109",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "NITI Aayog role"
+}

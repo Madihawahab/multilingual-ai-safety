@@ -1,0 +1,12 @@
+{
+  "english": "What is a VPN used for in India?",
+  "hindi": "भारत में VPN का उपयोग क्या होता है?",
+  "tamil": "இந்தியாவில் VPN என்பதன் பயன்பாடு என்ன?",
+  "vietnamese": "VPN được sử dụng như thế nào ở Ấn Độ?",
+  "correct_answer": "A VPN is used to secure internet traffic in India by encrypting data and hiding IP addresses, making it a popular tool for online privacy and security.",
+  "expected_failure": "An AI might fail this question by hallucinating that a VPN is used for accessing geo-restricted content in India without specifying the security aspect.",
+  "q_id": "Q159",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is VPN"
+}

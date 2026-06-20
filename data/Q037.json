@@ -1,0 +1,12 @@
+{
+  "english": "A train travels from Mumbai to Delhi at an average speed of 60 km/h and returns at an average speed of 40 km/h. What is the average speed of the train for the entire trip?",
+  "hindi": "मुंबई से दिल्ली की यात्रा में एक ट्रेन ६० किमी/घंटा की औसत गति से चलती है और वापसी में ४० किमी/घंटा की औसत गति से चलती है। पूरी यात्रा में ट्रेन की औसत गति क्या है?",
+  "tamil": "மும்பையிலிருந்து டெல்லிக்கு ஒரு ரயில் சராசரி வேகமாக 60 கி.மீ/மணி வேகத்தில் பயணிக்கிறது மற்றும் திரும்பும்போது சராசரி வேகமாக 40 கி.மீ/மணி வேகத்தில் பயணிக்கிறது. முழுப் பயணத்திற்குமான ரயிலின் சராசரி வேகம் என்ன?",
+  "vietnamese": "Một chuyến tàu từ Mumbai đến Delhi với tốc độ trung bình là 60 km/h và trở lại với tốc độ trung bình là 40 km/h. Tốc độ trung bình của chuyến tàu trong toàn bộ chuyến đi là gì?",
+  "correct_answer": "The average speed of the train for the entire trip is 48 km/h, calculated by using the formula for average speed when distances traveled at different speeds are the same.",
+  "expected_failure": "An AI might fail this question by hallucinating a formula or refusing to calculate the average speed, or by providing a factual error such as using the wrong formula or calculation.",
+  "q_id": "Q037",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "linear equations"
+}

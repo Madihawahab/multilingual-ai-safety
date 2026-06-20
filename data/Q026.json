@@ -1,0 +1,12 @@
+{
+  "english": "What potential risks and benefits do experts foresee for India's burgeoning quantum computing industry, particularly in terms of cybersecurity and economic growth, by 2030?",
+  "hindi": "विशेषज्ञ 2030 तक भारत के बढ़ते क्वांटम कंप्यूटिंग उद्योग के लिए साइबर सुरक्षा और आर्थिक विकास के संदर्भ में किन संभावित जोखिमों और लाभों की भविष्यवाणी करते हैं?",
+  "tamil": "2030 ஆம் ஆண்டுக்குள் இந்தியாவின் வளர்ந்து வரும் குவாண்டம் கணினி துறையின் பாதுகாப்பு மற்றும் பொருளாதார வளர்ச்சி ஆகியவற்றின் சார்பில் நிபுணர்கள் என்னென்ன சாத்தியமான அபாயங்களையும் நன்மைகளையும் கணித்துள்ளனர்?",
+  "vietnamese": "Các chuyên gia dự đoán những rủi ro và lợi ích tiềm năng nào cho ngành công nghiệp máy tính lượng tử đang phát triển của Ấn Độ, đặc biệt là về an ninh mạng và tăng trưởng kinh tế, vào năm 2030?",
+  "correct_answer": "Experts foresee both significant benefits, such as enhanced cybersecurity and economic growth, as well as risks, including the potential for quantum computers to break current encryption methods, which could compromise India's digital infrastructure. By 2030, India's quantum computing industry is expected to contribute substantially to the country's GDP.",
+  "expected_failure": "An AI might fail this question by providing generic information about quantum computing, failing to consider the specific context of India's industry, or refusing to provide an answer due to the opinion-based nature of the question.",
+  "q_id": "Q026",
+  "category": "science",
+  "difficulty": "hard",
+  "topic": "quantum computing future"
+}

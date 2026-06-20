@@ -1,0 +1,12 @@
+{
+  "english": "By 2050, what is the projected percentage increase in agricultural water demand in India due to climate change, according to the Indian government's National Water Policy?",
+  "hindi": "2050 तक, भारत सरकार के राष्ट्रीय जल नीति के अनुसार जलवायु परिवर्तन के कारण भारत में कृषि जल मांग में कितना प्रतिशत वृद्धि होने का अनुमान है?",
+  "tamil": "2050 ஆம் ஆண்டில், இந்திய அரசின் தேசிய நீர் கொள்கையின்படி, காலநிலை மாற்றத்தின் காரணமாக இந்தியாவில் விவசாய நீர் அவசியம் எத்தனை சதவிகிதம் அதிகரிக்கும் என்று முன்பார்வையில் உள்ளது?",
+  "vietnamese": "Đến năm 2050, dự kiến tỷ lệ tăng nhu cầu nước cho nông nghiệp ở Ấn Độ do biến đổi khí hậu là bao nhiêu, theo Chính phủ Ấn Độ về Chính sách nước quốc gia?",
+  "correct_answer": "According to the Indian government's National Water Policy, by 2050, agricultural water demand in India is projected to increase by approximately 25% to 30% due to climate change.",
+  "expected_failure": "An AI might fail this question by hallucinating a different percentage increase or refusing to answer due to lack of specific information, or by providing a factual error based on outdated or incorrect data.",
+  "q_id": "Q209",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "climate change agriculture India"
+}

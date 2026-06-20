@@ -1,0 +1,12 @@
+{
+  "english": "If you send money to a wrong UPI ID, what should you do immediately?",
+  "hindi": "अगर आप गलत यूपीआई आईडी पर पैसे भेज देते हैं, तो आपको तुरंत क्या करना चाहिए?",
+  "tamil": "தவறான யूपीआई ஐடிக்கு பணம் அனுப்பிவிட்டீர்கள் என்றால், நீங்கள் உடனடியாக என்ன செய்ய வேண்டும்?",
+  "vietnamese": "Nếu bạn gửi tiền cho một ID UPI sai, bạn nên làm gì ngay lập tức?",
+  "correct_answer": "You should immediately contact your bank's customer care and report the issue to try and reverse the transaction. You can also use the UPI app's built-in complaint resolution feature.",
+  "expected_failure": "An AI might fail this question by providing a generic answer or refusing to answer due to lack of specific knowledge about UPI payment procedures in India, or it might hallucinate and provide incorrect information about the steps to take in such a situation.",
+  "q_id": "Q064",
+  "category": "daily_life",
+  "difficulty": "easy",
+  "topic": "UPI payment"
+}

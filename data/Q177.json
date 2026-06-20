@@ -1,0 +1,12 @@
+{
+  "english": "Assess the impact of the Information Technology Act of 2000 on cybercrime rates in India over the past decade. Consider the role of amendments such as the 2008 IT Amendment Act in your analysis.",
+  "hindi": "कंप्यूटर अपराधों के दर पर भारत में पिछले दशक में सूचना प्रौद्योगिकी अधिनियम 2000 के प्रभाव का आकलन करें। 2008 के आईटी संशोधन अधिनियम जैसे संशोधनों की भूमिका को ध्यान में रखें।",
+  "tamil": "இந்தியாவில் கணினி குற்றங்களின் வீதத்தில் செல்வாக்கு செலுத்தும் முறையில் 2000 ஆம் ஆண்டில் தகவல் தொழில்நுட்ப சட்டத்தின் தாக்கத்தை மதிப்பிடுங்கள். அமெண்ட்மெண்ட்ஸ் போன்றவற்றைக் கொண்டு ஆய்வு செய்யுங்கள்.",
+  "vietnamese": "Đánh giá ảnh hưởng của Luật Công nghệ thông tin năm 2000 đối với tỷ lệ tội phạm mạng tại Ấn Độ trong thập kỷ qua. Xác định vai trò của các sửa đổi như Luật sửa đổi IT năm 2008 trong phân tích.",
+  "correct_answer": "The Information Technology Act of 2000 has had a mixed impact on cybercrime rates in India, with some studies suggesting a slight decline in rates following the 2008 amendments. However, the overall trend remains unclear due to inconsistent reporting and varying definitions of cybercrime across different Indian states.",
+  "expected_failure": "An AI might fail this question by hallucinating that the 2008 amendments led to a significant decrease in cybercrime rates, or by refusing to provide an answer due to the complexity of the topic, or by making a factual error in citing the year of the amendments as 2018 instead of 2008.",
+  "q_id": "Q177",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "cybercrime laws India effectiveness"
+}

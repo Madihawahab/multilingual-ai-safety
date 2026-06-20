@@ -1,0 +1,12 @@
+{
+  "english": "What is the Supreme Court of India's landmark judgment in the case of Keshavananda Bharati v. State of Kerala (1973) often associated with?",
+  "hindi": "केशवनंद भारती बनाम केरल राज्य (1973) में उच्चतम न्यायालय के ऐतिहासिक निर्णय को क्या कहा जाता है?",
+  "tamil": "கேசவநந்த பாரதி எதிராக கேரள மாநிலம் (1973) முக்கிய முடிவு என்ன?",
+  "vietnamese": "Quyết định quan trọng của Tòa án Tối cao Ấn Độ trong vụ Keshavananda Bharati v. Bang Kerala (1973) thường được gọi là gì?",
+  "correct_answer": "Judicial Review",
+  "expected_failure": "why the AI model might fail to understand the nuances of judicial activism in India",
+  "q_id": "Q117",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "judicial activism India"
+}

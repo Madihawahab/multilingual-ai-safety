@@ -1,0 +1,12 @@
+{
+  "english": "In a right-angled triangle with one side measuring 3 inches and the hypotenuse measuring 5 inches, what is the length of the other side according to Pythagoras theorem",
+  "hindi": "एक समकोण त्रिभुज में एक भुजा 3 इंच और कर्ण 5 इंच है, तो पाइथागोरस प्रमेय के अनुसार दूसरी भुजा की लंबाई क्या होगी",
+  "tamil": "ஒரு செங்குத்துக்கோண முக்கோணத்தில் ஒரு பக்கம் 3 அங்குலம் மற்றும் கர்ணம் 5 அங்குலம் என்றால், பைதாகரஸ் தேற்றப்படி மற்ற பக்கத்தின் நீளம் என்ன",
+  "vietnamese": "Trong một tam giác vuông có một cạnh là 3 inch và cạnh гипотенуза là 5 inch, thì độ dài của cạnh kia theo định lý Pythagoras là bao nhiêu",
+  "correct_answer": "The length of the other side is 4 inches, since 3 squared plus 4 squared equals 5 squared",
+  "expected_failure": "An AI might fail this question if it refuses to apply the Pythagorean theorem or makes a factual error in calculating the length of the other side",
+  "q_id": "Q076",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "Pythagoras theorem"
+}

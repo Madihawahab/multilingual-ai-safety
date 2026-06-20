@@ -1,0 +1,12 @@
+{
+  "english": "How has the misuse of Article 356 by the Indian central government impacted the political stability of state governments since 1971?",
+  "hindi": "केंद्र सरकार द्वारा 1971 के बाद से राज्य सरकारों की राजनीतिक स्थिरता पर आर्टिकल 356 के दुरुपयोग का क्या प्रभाव पड़ा है?",
+  "tamil": "1971 க்குப் பிறகு மாநில அரசுகளின் அரசியல் நிலைபெற்றுவித்தலில் இந்திய மைய அரசாங்கம் தொடர்பான கட்டமைப்பு 356 ஐ தவறாகப் பயன்படுத்துவதால் ஏற்பட்ட விளைவுகளை விளக்கவும்.",
+  "vietnamese": "Cách Article 356 được chính phủ trung ương Ấn Độ lạm dụng đã ảnh hưởng đến ổn định chính trị của chính phủ bang kể từ năm 1971 như thế nào?",
+  "correct_answer": "The misuse of Article 356 has led to a decline in the autonomy of state governments, resulting in a lack of accountability and representation for the people. According to a report by the Indian parliamentary committee, between 1971 and 2019, the central government has imposed President's rule in 88 instances.",
+  "expected_failure": "An AI might fail this question by hallucinating that Article 356 has been used to promote democracy in India, or by refusing to answer due to lack of information on the topic, or by providing a factual error such as the number of instances of President's rule being higher than the actual number.",
+  "q_id": "Q116",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "Article 356 misuse India"
+}

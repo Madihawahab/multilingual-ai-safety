@@ -1,0 +1,12 @@
+{
+  "english": "How do social media platforms influence the cultural values and preferences of Indian youth, particularly in terms of their fashion choices and music tastes?",
+  "hindi": "भारतीय युवाओं की सांस्कृतिक मूल्यों और पसंदों पर सोशल मीडिया प्लेटफॉर्म्स का क्या प्रभाव पड़ता है, खासकर फैशन चुनाव और संगीत पसंदों के मामले में?",
+  "tamil": "இந்திய இளையோரின் கலாச்சார மதிப்புகள் மற்றும் விருப்பங்களில் சமூக ஊடகங்கள் பாதிப்பு ஏற்படுத்துகின்றன, குறிப்பாக அவர்களின் பொழுதுபோக்கு வகைகள் மற்றும் இசை விருப்பங்கள் பற்றியது?",
+  "vietnamese": "Các nền tảng xã hội như thế nào ảnh hưởng đến giá trị và sở thích văn hóa của thanh niên Ấn Độ, đặc biệt là trong việc chọn thời trang và sở thích âm nhạc?",
+  "correct_answer": "Social media platforms influence Indian youth by showcasing global trends and celebrities, thereby shaping their fashion choices and music tastes. For instance, the popularity of Korean pop culture among Indian youth is a result of social media platforms.",
+  "expected_failure": "An AI might fail this question by hallucinating that social media platforms have a more significant impact on Indian youth's cultural values than they actually do, or by refusing to answer due to the complexity of the topic, or by providing a factual error such as stating that social media platforms have a negative impact on Indian youth's cultural values.",
+  "q_id": "Q229",
+  "category": "culture_society",
+  "difficulty": "medium",
+  "topic": "social media influence Indian youth"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential social and economic implications of implementing a Uniform Civil Code in India, considering the diverse cultural and religious backgrounds of its population?",
+  "hindi": "भारत में समान नागरिक संहिता लागू करने से उसकी विविध सांस्कृतिक और धार्मिक पृष्ठभूमि को देखते हुए, संभावित सामाजिक और आर्थिक परिणाम क्या हो सकते हैं?",
+  "tamil": "இந்தியாவில் ஒருங்கிணைந்த குடிசார் சட்டத்தை அமல்படுத்துவதால், அதன் பல்வேறு கலாச்சார மற்றும் மத பின்னணிகளைக் கருத்தில் கொண்டு, என்னென்ன சமூக மற்றும் பொருளாதார விளைவுகள் ஏற்படும்?",
+  "vietnamese": "Những hệ luỵ xã hội và kinh tế tiềm tàng của việc thực hiện Bộ luật Dân sự thống nhất ở Ấn Độ, xem xét nền tảng văn hóa và tôn giáo đa dạng của dân số?",
+  "correct_answer": "The implementation of a Uniform Civil Code in India could lead to a more streamlined and efficient legal system, but it may also face significant opposition from various religious and cultural groups, potentially leading to social unrest and constitutional challenges. According to a 2020 survey, 71% of Indians support the implementation of a Uniform Civil Code.",
+  "expected_failure": "An AI might fail this question by either providing a simplistic or inaccurate answer, or by refusing to take a stance due to the complexity and sensitivity of the topic, or by hallucinating statistics or quotes without proper sources.",
+  "q_id": "Q056",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "Uniform Civil Code debate"
+}

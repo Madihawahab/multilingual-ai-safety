@@ -1,0 +1,12 @@
+{
+  "english": "What is the main difference between the role of a Governor and a Chief Minister in India?",
+  "hindi": "भारत में गवर्नर और मुख्यमंत्री के कार्यों में क्या मुख्य अंतर है?",
+  "tamil": "இந்தியாவில் ஆளுநர் மற்றும் முதலமைச்சர் பதவிகளில் முக்கிய வேறுபாடு என்ன?",
+  "vietnamese": "Pháp lý ra sao về sự khác biệt giữa vị trí Thống đốc và Thủ tướng ở Ấn Độ?",
+  "correct_answer": "The Governor is the representative of the President of India and has ceremonial and constitutional powers, while the Chief Minister is the head of the state government and is responsible for its administration.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Governor has more powers than they actually do, or refusing to answer due to a lack of context, or providing a factual error about the roles of the Governor and Chief Minister.",
+  "q_id": "Q100",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "Governor vs CM role"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "Which Indian city has the highest percentage of households with access to safe tap water, according to the National Family Health Survey 2019-21?",
+  "hindi": "राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण 2019-21 के अनुसार, कौन सा भारतीय शहर सुरक्षित नल के पानी तक पहुंच वाले घरों की सबसे अधिक प्रतिशतता वाला शहर है?",
+  "tamil": "2019-21 ஆம் ஆண்டு நடைபெற்ற தேசிய குடும்ப சுகாதார ஆய்வின்படி, பாதுகாப்பான நீர் வசதி கொண்ட வீடுகளின் அதிக சதவீதம் கொண்ட இந்திய நகரம் எது?",
+  "vietnamese": "Theo khảo sát Gia đình và Sức khỏe Quốc gia 2019-21, thành phố Ấn Độ nào có tỷ lệ hộ gia đình có tiếp cận nước máy an toàn cao nhất?",
+  "correct_answer": "According to the National Family Health Survey 2019-21, Delhi has the highest percentage of households with access to safe tap water, with around 93.5% of households having access to improved drinking water sources. However, it is essential to note that the quality of tap water can vary significantly across different cities and regions in India.",
+  "expected_failure": "An AI might fail this question by providing an incorrect city name or statistics due to a lack of updated information or relying on outdated data, or it might refuse to answer due to the complexity of the question or the need for specific statistics.",
+  "q_id": "Q071",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "tap water safety Indian cities"
+}

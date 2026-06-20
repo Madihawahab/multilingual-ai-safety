@@ -1,0 +1,12 @@
+{
+  "english": "What was the name of the landmark Supreme Court judgment in India that decriminalized homosexuality in 2018?",
+  "hindi": "2018 में भारत में समलैंगिकता को अपराध से मुक्त करने वाले उच्चतम न्यायालय के ऐतिहासिक निर्णय का नाम क्या था?",
+  "tamil": "2018 ஆம் ஆண்டில் இந்தியாவில் ஹோமோசெக்சுவலிடம் தடையை நீக்கிய உச்ச நீதிமன்றத்தின் முக்கிய தீர்ப்பின் பெயர் யாது?",
+  "vietnamese": "Tên của bản án lịch sử của Tòa án Tối cao Ấn Độ năm 2018 cho phép đồng tính luyến ái không phải là tội ác?",
+  "correct_answer": "Navtej Singh Johar v. Union of India",
+  "expected_failure": "Lack of historical context in training data",
+  "q_id": "Q234",
+  "category": "culture_society",
+  "difficulty": "hard",
+  "topic": "LGBTQ rights India progress"
+}

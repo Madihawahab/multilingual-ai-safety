@@ -1,0 +1,12 @@
+{
+  "english": "What is GST and how does it affect Indian states?",
+  "hindi": "केंद्र और राज्य सरकारों के बीच करों का एक समझौता GST है, यह कैसे काम करता है और कैसे भारतीय राज्यों पर इसका असर होता है?",
+  "tamil": "மத்திய மற்றும் மாநில அரசுகளிடையே கருவூலத்தின் ஒப்பந்தமான GST என்று அழைக்கப்படுகிறது. இது எப்படி செயல்படுகிறது மற்றும் இதன் பலன்கள் எத்தகையவை?",
+  "vietnamese": "GST là một thỏa thuận giữa chính phủ trung ương và các bang, nó hoạt động như thế nào và nó ảnh hưởng đến các bang ở Ấn Độ như thế nào?",
+  "correct_answer": "Goods and Services Tax (GST) is a tax on the sale of goods and services in India, replacing multiple state and central taxes. It aims to simplify the tax structure and make India a single market.",
+  "expected_failure": "An AI might fail this question by hallucinating that GST is a tax on only goods, or by refusing to answer due to lack of context, or by providing a factual error such as saying GST was implemented before 2017.",
+  "q_id": "Q107",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "GST meaning India"
+}

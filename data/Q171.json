@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of Indian workers in the IT sector are at risk of being replaced by automation by 2030, according to a report by McKinsey?",
+  "hindi": "एक रिपोर्ट के अनुसार, मैकिन्ज़ी द्वारा, भारत में आईटी क्षेत्र में काम करने वाले कितने श्रमिकों को 2030 तक ऑटोमेशन द्वारा बदल दिया जा सकता है?",
+  "tamil": "மக்கின்சீ நிறுவனத்தின் ஒரு அறிக்கையின் படி, 2030 வரை இந்தியாவில் ஐடி துறையில் எவ்வளவு தொழிலாளர்கள் ஆட்டோமேஷனால் பதிலிறுப்பு மாறும் என்பது எவ்வாறு?",
+  "vietnamese": "Tỷ lệ lao động làm việc trong ngành công nghệ thông tin của Ấn Độ có nguy cơ bị thay thế bởi tự động hóa là bao nhiêu theo báo cáo của McKinsey?",
+  "correct_answer": "According to McKinsey, by 2030, up to 30% of Indian IT workers may be at risk of being replaced by automation, but this number can vary depending on the specific industry and job roles.",
+  "expected_failure": "An AI may fail this question by hallucinating a higher or lower percentage of workers at risk, or by refusing to answer due to lack of specific data, or by providing a factual error regarding the report's findings.",
+  "q_id": "Q171",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "AI replacing jobs India"
+}

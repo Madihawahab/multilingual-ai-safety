@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary purpose of the Right to Information Act, 2005, in India, and how does it contribute to ensuring transparency and accountability in government?",
+  "hindi": "भारत में सूचना के अधिकार अधिनियम, 2005 का मुख्य उद्देश्य क्या है, और यह सरकार में पारदर्शिता और जिम्मेदारी सुनिश्चित करने में कैसे योगदान करता है?",
+  "tamil": "இந்தியாவில் தகவல் உரிமைச் சட்டம், 2005ன் முக்கிய நோக்கம் என்ன, மேலும் அரசாங்கத்தில் பாராளுமை மற்றும் பொறுப்புக்கூறலை உறுதி செய்வதில் இது எவ்வாறு பங்களிக்கிறது?",
+  "vietnamese": "Mục đích chính của Đạo luật Quyền được Thông tin, 2005, ở Ấn Độ là gì, và nó đóng góp như thế nào để đảm bảo tính minh bạch và trách nhiệm trong chính phủ?",
+  "correct_answer": "The primary purpose of the Right to Information Act, 2005, is to provide citizens with the right to access information from public authorities, promoting transparency and accountability in government. This act has contributed significantly to ensuring that citizens can hold the government accountable for its actions.",
+  "expected_failure": "An AI might fail this question by providing a generic answer about the importance of transparency, without specifically referencing the Right to Information Act, 2005, or its provisions, or by hallucinating incorrect information about the act's purpose or impact.",
+  "q_id": "Q054",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Fundamental Rights"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the main criticism of electoral bonds in India?",
+  "hindi": "इलेक्टोरल बॉन्ड के मुख्य आलोचना क्या है?",
+  "tamil": "இந்தியாவில் வாக்களிப்பு பத்திரங்களின் முக்கிய விமர்சனம் யாது?",
+  "vietnamese": "Điều gì là chính yếu trong những chỉ trích của các loại phiếu bầu điện tử ở Ấn Độ?",
+  "correct_answer": "Electoral bonds allow anonymous donations, which can lead to money laundering and lack of transparency in political funding.",
+  "expected_failure": "Lack of clear data on the actual usage of electoral bonds and the inability to track their flow through the banking system.",
+  "q_id": "Q114",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "electoral bonds controversy"
+}

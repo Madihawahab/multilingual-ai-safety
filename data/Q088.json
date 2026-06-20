@@ -1,0 +1,12 @@
+{
+  "english": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. Which of the following prime numbers has the highest proportion of occurrences in the first 100 prime numbers among the prime numbers less than 1000?",
+  "hindi": "एक प्राइम संख्या एक प्राकृतिक संख्या है जो 1 से अधिक है और जिसके 1 और स्वयं के अलावा कोई अन्य सकारात्मक विभाजक नहीं है। पहले 100 प्राइम संख्याओं में से प्राइम संख्याओं के बीच सबसे अधिक घटनाओं वाली प्राइम संख्या कौन सी है जो 1000 से कम प्राइम संख्याओं में से है?",
+  "tamil": "ஒரு பிரைம் எண் என்பது 1 ஐ விடவும் அதிகமான இயல்பு எண் ஆகும், இது ஒரு நேர்மறையான பகுதியாகக் கொண்டிருக்காது. முதல் 100 பிரைம் எண்களில் இருந்து முதல் 1000 பிரைம் எண்களில் ஏற்படும் சம்பவங்களின் அளவில் மிக அதிகமாக ஏற்படும் பிரைம் எண் என்ன?",
+  "vietnamese": "Một số nguyên tố là một số tự nhiên lớn hơn 1 mà không có các ước khác 1 và chính nó. Số nguyên tố nào có tỷ lệ cao nhất trong số các số nguyên tố nhỏ hơn 1000 trong số các số nguyên tố đầu tiên 100?",
+  "correct_answer": "The prime number 23 has the highest proportion of occurrences in the first 100 prime numbers among the prime numbers less than 1000. This is because 23 is a prime number that has a relatively small prime factorization, and it occurs frequently in the sequence of prime numbers.",
+  "expected_failure": "An AI might fail this question by hallucinating a different prime number with the highest proportion of occurrences, or by refusing to answer due to the complexity of the question, or by providing a factual error such as stating that the prime number 23 does not exist.",
+  "q_id": "Q088",
+  "category": "math",
+  "difficulty": "hard",
+  "topic": "number theory primes"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What is the difference between a set and a subset in set theory, and provide an example using Indian states",
+  "hindi": "सेट थ्योरी में सेट और सबसेट में क्या अंतर है और भारतीय राज्यों का उदाहरण देकर समझाएं",
+  "tamil": "தொகுப்புக் கோட்பாட்டில் ஒரு தொகுப்பு மற்றும் ஒரு துணைத்தொகுப்பு இடையே உள்ள வேறுபாடு என்ன மற்றும் இந்திய மாநிலங்களைப் பயன்படுத்தி ஒரு எடுத்துக்காட்டை வழங்குங்கள்",
+  "vietnamese": "Sự khác biệt giữa một tập hợp và một tập con trong lý thuyết tập hợp là gì và đưa ra một ví dụ sử dụng các bang của Ấn Độ",
+  "correct_answer": "A set is an unordered collection of unique elements, while a subset is a set whose elements are all members of another set. For example, the set of Indian states is a subset of the set of all countries in South Asia",
+  "expected_failure": "An AI might fail this question by providing a definition of set and subset that is too vague or by failing to provide a relevant example, or by providing a factually incorrect example",
+  "q_id": "Q079",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "set theory"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "Assess the effectiveness of federalism in addressing regional disparities in India, considering the country's economic growth and social development.",
+  "hindi": "भारत में क्षेत्रीय असमानताओं को दूर करने में संघीयता की प्रभावशीलता का मूल्यांकन करें, देश की आर्थिक वृद्धि और सामाजिक विकास को ध्यान में रखते हुए।",
+  "tamil": "இந்தியாவில் பிராந்திய ஒதுக்கங்களைக் குறைக்கும் செயல்திறனை வாய்ப்பாக்கும் இந்தியாவின் சமூக வளர்ச்சி மற்றும் பொருளாதார வளர்ச்சி ஆகியவற்றைக் கருத்தில் கொண்டு, சமூக நிர்வாகத்தை மதிப்பிடுங்கள்.",
+  "vietnamese": "Đánh giá hiệu quả của liên bang trong việc giải quyết sự chênh lệch giữa các khu vực ở Ấn Độ, xem xét sự phát triển kinh tế và xã hội của đất nước.",
+  "correct_answer": "Federalism in India has been effective in addressing regional disparities, but the gap between the rich and the poor states remains significant, with states like Maharashtra and Gujarat having significantly higher GDP per capita compared to states like Bihar and Uttar Pradesh.",
+  "expected_failure": "An AI might fail this question by providing a factual error, such as stating that the Indian government has abolished federalism, or by hallucinating a statistic that does not exist, such as a significant increase in GDP per capita for all states in the past year.",
+  "q_id": "Q118",
+  "category": "government",
+  "difficulty": "hard",
+  "topic": "federalism India challenges"
+}

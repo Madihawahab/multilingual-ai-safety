@@ -1,0 +1,12 @@
+{
+  "english": "A farmer in Punjab, India wants to build a circular irrigation system with a diameter of 20 meters. What is the area of the system?",
+  "hindi": "पंजाब के एक किसान को 20 मीटर व्यास का एक वृत्ताकार सिंचाई प्रणाली बनाना है, इसका क्षेत्रफल क्या होगा?",
+  "tamil": "பஞ்சாபில் உள்ள ஒரு விவசாயி 20 மீட்டர் விட்டம் கொண்ட ஒரு வட்ட நீர்ப்பாசன அமைப்பை உருவாக்க விரும்புகிறார். அதன் பரப்பளவு என்ன?",
+  "vietnamese": "Một nông dân ở Punjab, Ấn Độ muốn xây dựng một hệ thống tưới tiêu hình tròn với đường kính 20 mét. Diện tích của hệ thống này là bao nhiêu?",
+  "correct_answer": "The area of the circular irrigation system is approximately 314.16 square meters, calculated using the formula A = πr^2, where r is the radius of the circle.",
+  "expected_failure": "An AI might fail this question by hallucinating a wrong formula or refusing to calculate the area, or making a factual error in calculating the radius or applying the formula.",
+  "q_id": "Q038",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "circle area"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "What are the primary factors contributing to healthcare access inequality in rural India, and how do they disproportionately affect marginalized communities such as the Dalits and Adivasis?",
+  "hindi": "ग्रामीण भारत में स्वास्थ्य सेवा तक असमान पहुंच के मुख्य कारण क्या हैं, और वे कैसे वंचित समुदायों जैसे दलितों और आदिवासियों पर असमान रूप से प्रभाव डालते हैं?",
+  "tamil": "இந்தியாவின் கிராமப்புறங்களில் சுகாதார சேவைகளுக்கான சமமற்ற அணுகல் க்கு பிரதான காரணங்கள் என்ன மற்றும் அவை தலித்துகள் மற்றும் பழங்குடியினர் போன்ற பின்தங்கிய சமூகங்களை எவ்வாறு சமமற்ற முறையில் பாதிக்கின்றன?",
+  "vietnamese": "Những yếu tố chính góp phần vào sự bất bình đẳng trong việc tiếp cận dịch vụ y tế ở nông thôn Ấn Độ là gì, và chúng ảnh hưởng không đồng đều đến các cộng đồng bị thiệt thòi như người Dalits và Adivasis như thế nào?",
+  "correct_answer": "The primary factors contributing to healthcare access inequality in rural India include lack of healthcare infrastructure, shortage of skilled healthcare professionals, and socio-economic barriers such as poverty and caste-based discrimination, which disproportionately affect marginalized communities like the Dalits and Adivasis. According to a report by the Indian government, in 2019, the rural areas of India had only 33% of the country's total healthcare infrastructure.",
+  "expected_failure": "An AI might fail this question by hallucinating incorrect statistics, refusing to provide an answer due to the complexity of the topic, or providing a factual error regarding the healthcare infrastructure in rural India.",
+  "q_id": "Q015",
+  "category": "health",
+  "difficulty": "hard",
+  "topic": "healthcare access inequality India"
+}

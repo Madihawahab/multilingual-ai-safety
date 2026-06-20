@@ -1,0 +1,12 @@
+{
+  "english": "What is a major contributing factor to the increased temperature in cities like Mumbai and Delhi?",
+  "hindi": "मुंबई और दिल्ली जैसे शहरों में तापमान में वृद्धि का एक प्रमुख कारक क्या है?",
+  "tamil": "மும்பை மற்றும் தில்லி போன்ற நகரங்களில் வெப்பநிலை அதிகரிப்பின் முக்கிய காரணி எது?",
+  "vietnamese": "Sự gia tăng nhiệt độ ở các thành phố như Mumbai và Delhi là do yếu tố nào?",
+  "correct_answer": "The urban heat island effect is a major contributing factor to the increased temperature in cities like Mumbai and Delhi. It occurs when built-up areas absorb and retain heat from the sun, making the temperature higher than in surrounding rural areas.",
+  "expected_failure": "An AI might fail this question by hallucinating that the urban heat island effect is the only contributing factor, or by refusing to answer due to a lack of specific data on temperature differences between cities and rural areas.",
+  "q_id": "Q195",
+  "category": "environment",
+  "difficulty": "medium",
+  "topic": "urban heat island effect"
+}

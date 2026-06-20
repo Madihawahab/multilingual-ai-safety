@@ -1,0 +1,12 @@
+{
+  "english": "What are the potential long-term effects of the 2024 inflation on the Indian middle class, considering the country's economic growth and increasing income disparity?",
+  "hindi": "वर्ष 2024 में भारत में महंगाई के मध्यम वर्ग पर दीर्घकालिक प्रभाव क्या हो सकते हैं, यदि हम देश की आर्थिक वृद्धि और आय असमानता को ध्यान में रखें?",
+  "tamil": "2024 ஆம் ஆண்டு இந்தியாவில் பணவீக்கத்தின் நடுத்தர மக்களின் மீதான நீண்டகால விளைவுகள் என்ன இருக்கும், நாட்டின் பொருளாதார வளர்ச்சி மற்றும் வருமான சமத்துவமின்மை ஆகியவற்றைக் கருத்தில் கொள்ளும் போது?",
+  "vietnamese": "Những ảnh hưởng lâu dài của lạm phát năm 2024 đối với tầng lớp trung lưu ở Ấn Độ là gì, xem xét sự tăng trưởng kinh tế và sự chênh lệch thu nhập ngày càng tăng của đất nước?",
+  "correct_answer": "The long-term effects of the 2024 inflation on the Indian middle class could include reduced purchasing power, increased debt, and decreased savings rates, ultimately affecting their standard of living and overall well-being. According to a report by the Reserve Bank of India, the inflation rate is expected to be around 5.5% in 2024.",
+  "expected_failure": "An AI might fail this question by providing a factual error, such as citing an incorrect inflation rate, or by refusing to provide an opinion-based answer, stating that the question is too subjective or requires human judgment.",
+  "q_id": "Q073",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "inflation impact India 2024"
+}

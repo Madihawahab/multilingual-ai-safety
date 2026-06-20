@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary purpose of the Personal Data Protection Bill 2019 in India?",
+  "hindi": "भारत में व्यक्तिगत डेटा संरक्षण विधेयक 2019 का मुख्य उद्देश्य क्या है?",
+  "tamil": "இந்தியாவில் நபர் தகவல் பாதுகாப்பு சட்டம் 2019 இன் முக்கிய நோக்கம் என்ன?",
+  "vietnamese": "Mục đích chính của dự luật Bảo vệ Dữ liệu Cá nhân 2019 ở Ấn Độ là gì?",
+  "correct_answer": "The Personal Data Protection Bill 2019 aims to regulate the processing of personal data in India and provide individuals with greater control over their personal data. It also seeks to establish a Data Protection Authority to oversee the implementation of the bill.",
+  "expected_failure": "An AI might fail this question by hallucinating that the bill has been enacted into law or by refusing to answer due to lack of information about the bill's current status.",
+  "q_id": "Q163",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "data privacy laws India"
+}

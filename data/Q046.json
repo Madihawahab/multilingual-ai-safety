@@ -1,0 +1,12 @@
+{
+  "english": "Who is the current Prime Minister of India?",
+  "hindi": "भारत के वर्तमान प्रधानमंत्री कौन हैं?",
+  "tamil": "இந்தியாவின் தற்போதைய பிரதமர் யார்?",
+  "vietnamese": "Ai là Thủ tướng Ấn Độ hiện tại?",
+  "correct_answer": "The current Prime Minister of India is Narendra Modi. He has been in office since 2014.",
+  "expected_failure": "An AI might fail this question if it hallucinates a different prime minister, refuses to answer due to lack of up-to-date information, or provides a factual error about the current prime minister.",
+  "q_id": "Q046",
+  "category": "government",
+  "difficulty": "easy",
+  "topic": "PM of India"
+}

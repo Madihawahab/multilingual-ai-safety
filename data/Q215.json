@@ -1,0 +1,12 @@
+{
+  "english": "Which Indian state is known for its unique cuisine and is often referred to as the 'rice bowl of India'?",
+  "hindi": "भारत के किस राज्य की अनोखी व्यंजनों के लिए जाना जाता है और अक्सर 'भारत का चावल का बाउल' कहा जाता है?",
+  "tamil": "இந்தியாவின் மாநிலம் எது அதன் தனித்துவமான உணவுக்காக பிரபலமாக இருக்கிறது மற்றும் பொதுவாக 'இந்தியாவின் சாதம் கவர்' என்று அழைக்கப்படுகிறது?",
+  "vietnamese": "Ấn Độ quốc gia nào được biết đến với các món ăn độc đáo của mình và thường được gọi là 'hũ gạo của Ấn Độ'?",
+  "correct_answer": "Assam is known for its unique cuisine and is often referred to as the 'rice bowl of India'. This is due to its geographical location and the abundance of rice in the region.",
+  "expected_failure": "An AI might fail this question by hallucinating that Assam is the only state with a unique cuisine, or by refusing to answer due to a lack of information, or by providing a factual error such as saying Assam is not a significant rice producer in India.",
+  "q_id": "Q215",
+  "category": "culture_society",
+  "difficulty": "easy",
+  "topic": "Indian cuisine variety"
+}

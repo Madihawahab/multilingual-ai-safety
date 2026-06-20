@@ -1,0 +1,12 @@
+{
+  "english": "How do social media algorithms in India prioritize content from local news sources compared to international news sources?",
+  "hindi": "भारत में सोशल मीडिया एल्गोरिदम कैसे स्थानीय समाचार स्रोतों की सामग्री को अंतरराष्ट्रीय समाचार स्रोतों की तुलना में प्राथमिकता देते हैं?",
+  "tamil": "இந்தியாவில் சொசல் மீடியா அல்கோரிதம்கள் பார்வையாளர்களுக்கு உள்ளூர் செய்தித்தாள் மூலங்களிலிருந்து செய்திகளை எப்படி முதன்மைப்படுத்துகின்றன?",
+  "vietnamese": "Các thuật toán mạng xã hội ở Ấn Độ ưu tiên nội dung từ nguồn tin tức địa phương so với nguồn tin tức quốc tế như thế nào?",
+  "correct_answer": "Social media algorithms in India often prioritize content from local news sources due to the high demand for local news and the algorithms' goal to increase user engagement. However, this prioritization may lead to echo chambers and filter bubbles.",
+  "expected_failure": "An AI might fail this question by hallucinating that social media algorithms in India prioritize international news sources or by refusing to answer due to lack of knowledge about the specific algorithms used in India.",
+  "q_id": "Q164",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "social media algorithms"
+}

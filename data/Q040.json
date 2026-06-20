@@ -1,0 +1,12 @@
+{
+  "english": "Ramesh deposits ₹50,000 in a fixed deposit account with a compound interest rate of 8% per annum. How much will he have after 5 years if the interest is compounded annually?",
+  "hindi": "रमेश ५०,००० रुपये एक फिक्स्ड डिपॉजिट खाते में जमा करता है, जिसमें ८% प्रति वर्ष की चक्रवृद्धि ब्याज दर है। अगर ब्याज सालाना चक्रवृद्धि किया जाता है, तो ५ साल बाद उसके पास कितना पैसा होगा?",
+  "tamil": "ரமேஷ் ஒரு வருடத்திற்கு 8% வட்டிக் குழு விகிதத்துடன் ஒரு நிலையான வங்கி கணக்கில் ₹50,000 வைக்கிறார். வருடாந்திர வட்டியை சேர்த்தால், 5 ஆண்டுகளுக்குப் பிறகு அவரிடம் எத்தனை பணம் இருக்கும்?",
+  "vietnamese": "Ramesh gửi 50.000 rupee vào một tài khoản tiền gửi cố định với lãi suất kép 8% mỗi năm. Nếu lãi suất được tính hàng năm, thì sau 5 năm, anh ta sẽ có bao nhiêu tiền?",
+  "correct_answer": "After 5 years, Ramesh will have approximately ₹73,466.40. This is calculated using the compound interest formula A = P(1 + r/n)^(nt), where A is the amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the time in years.",
+  "expected_failure": "An AI may fail this question by refusing to provide a numerical answer, providing an incorrect formula, or failing to account for the compounding of interest, resulting in a factual error.",
+  "q_id": "Q040",
+  "category": "math",
+  "difficulty": "medium",
+  "topic": "compound interest"
+}

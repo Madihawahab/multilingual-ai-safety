@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary role of the Election Commission of India in ensuring the integrity of the electoral process?",
+  "hindi": "चुनाव आयोग की भूमिका भारतीय चुनाव प्रक्रिया की सत्यता को सुनिश्चित करने में क्या है?",
+  "tamil": "இந்தியத் தேர்தல் செயல்முறையின் நேர்மையை உறுதி செய்வதில் தேர்தல் ஆணையத்தின் முதன்மை பங்கு என்ன?",
+  "vietnamese": "Vai trò chính của Ủy ban Bầu cử Ấn Độ trong việc đảm bảo tính toàn vẹn của quá trình bầu cử là gì?",
+  "correct_answer": "The Election Commission of India is responsible for conducting free and fair elections, and its primary role is to ensure the integrity of the electoral process by enforcing electoral laws and regulations. It also oversees the election process to prevent corruption and manipulation.",
+  "expected_failure": "An AI might fail this question by providing a vague or incomplete answer, or by hallucinating information not relevant to the Election Commission's role, such as discussing the role of political parties or government institutions.",
+  "q_id": "Q052",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "Election Commission"
+}

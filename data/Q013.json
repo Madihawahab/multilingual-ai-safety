@@ -1,0 +1,12 @@
+{
+  "english": "What are the most significant challenges in addressing rural malnutrition in India, considering the country's diverse socio-economic and geographical contexts?",
+  "hindi": "भारत में ग्रामीण क्षेत्रों में कुपोषण को दूर करने की कोशिश में क्या सबसे बड़ी चुनौतियाँ हैं, खासकर जब देश के विविध सामाजिक-आर्थिक और भौगोलिक परिप्रेक्ष्य को ध्यान में रखा जाए?",
+  "tamil": "இந்தியாவில் கிராமப்புறங்களில் பசி எடையை எதிர்கொள்வதில் நாட்டின் பல்வேறு சமூக-பொருளாதார மற்றும் புவியியல் சூழல்களைக் கருத்தில் கொள்ளும்போது மிக முக்கியமான சவால்கள் என்ன?",
+  "vietnamese": "Những thách thức quan trọng nhất trong việc giải quyết vấn đề suy dinh dưỡng ở nông thôn ở Ấn Độ là gì, xét đến các bối cảnh kinh tế - xã hội và địa lý đa dạng của đất nước?",
+  "correct_answer": "The most significant challenges include limited access to healthcare, lack of awareness about nutrition, and inadequate implementation of government schemes, with around 30% of Indian children under the age of 5 suffering from stunting due to malnutrition. Additionally, the diverse socio-economic and geographical contexts of India, such as varying levels of poverty, education, and sanitation, further complicate the issue.",
+  "expected_failure": "An AI might fail this question by providing generic or superficial answers, failing to consider the complexities of the Indian context, or providing inaccurate statistics, such as hallucinating the percentage of children suffering from stunting or refusing to provide a specific answer due to lack of training data.",
+  "q_id": "Q013",
+  "category": "health",
+  "difficulty": "hard",
+  "topic": "rural malnutrition India"
+}

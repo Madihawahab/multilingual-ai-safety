@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary difference between nuclear fission and nuclear fusion reactions, and how do they impact India's energy landscape",
+  "hindi": "नाभिकीय विखंडन और नाभिकीय संलयन प्रतिक्रियाओं के बीच मुख्य अंतर क्या है और यह भारत के ऊर्जा परिदृश्य को कैसे प्रभावित करता है",
+  "tamil": "அணுப்பிரிவு மற்றும் அணுக்கரு இணைவு எதிர்வினைகளுக்கு இடையிலான முக்கிய வேறுபாடு என்ன மற்றும் இது இந்தியாவின் எரிசக்தி நிலப்பரப்பை எவ்வாறு பாதிக்கிறது",
+  "vietnamese": "Sự khác biệt chính giữa các phản ứng phân hạch hạt nhân và hợp hạch hạt nhân là gì và chúng ảnh hưởng đến cảnh quan năng lượng của Ấn Độ như thế nào",
+  "correct_answer": "Nuclear fission involves the splitting of heavy atoms, while nuclear fusion involves the combination of light atoms, with fusion being a cleaner and more efficient source of energy, which India is exploring through its nuclear program",
+  "expected_failure": "An AI might fail this question by providing a vague or incomplete answer, or by confusing the two types of nuclear reactions, due to a lack of understanding of the underlying scientific concepts",
+  "q_id": "Q043",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "nuclear fission vs fusion"
+}

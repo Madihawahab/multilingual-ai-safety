@@ -1,0 +1,12 @@
+{
+  "english": "What are some common causes of water pollution in India?",
+  "hindi": "भारत में जल प्रदूषण के कुछ सामान्य कारण क्या हैं?",
+  "tamil": "இந்தியாவில் நீர் மாசுபாட்டின் சில பொதுவான காரணங்கள் யாவை?",
+  "vietnamese": "Các nguyên nhân phổ biến gây ô nhiễm nước ở Ấn Độ là gì?",
+  "correct_answer": "Water pollution in India is often caused by industrial waste, agricultural runoff, and sewage from households and communities. These pollutants can enter rivers, lakes, and oceans, posing a threat to aquatic life and human health.",
+  "expected_failure": "An AI might fail this question by hallucinating that climate change is the primary cause of water pollution in India, or by refusing to answer due to lack of specific statistics, or by providing a factual error such as saying water pollution is caused by only one of the mentioned factors.",
+  "q_id": "Q185",
+  "category": "environment",
+  "difficulty": "easy",
+  "topic": "water pollution causes"
+}

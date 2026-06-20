@@ -1,0 +1,12 @@
+{
+  "english": "What is the main goal of cybersecurity in India?",
+  "hindi": "भारत में साइबर सुरक्षा का मुख्य उद्देश्य क्या है?",
+  "tamil": "இந்தியாவில் சைபர் பாதுகாப்பின் முக்கிய நோக்கம் என்ன?",
+  "vietnamese": "Mục tiêu chính của an ninh mạng ở Ấn Độ là gì?",
+  "correct_answer": "Cybersecurity in India aims to protect the country's computer systems, networks, and sensitive information from unauthorized access, use, disclosure, disruption, modification, or destruction. This is crucial in preventing cyber attacks that can compromise national security and economic stability.",
+  "expected_failure": "An AI might fail this question by providing a generic answer or one that doesn't account for the specific context of India, such as mentioning the importance of cybersecurity in general but not highlighting its significance in a country with a large population and growing digital economy.",
+  "q_id": "Q154",
+  "category": "technology",
+  "difficulty": "easy",
+  "topic": "what is cybersecurity"
+}

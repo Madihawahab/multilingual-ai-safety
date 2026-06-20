@@ -1,0 +1,12 @@
+{
+  "english": "What is the most significant challenge in implementing secure digital payment systems in rural India, considering the lack of digital literacy and limited internet penetration?",
+  "hindi": "ग्रामीण भारत में सुरक्षित डिजिटल भुगतान प्रणाली लागू करने में सबसे बड़ी चुनौती क्या है, जहां डिजिटल साक्षरता की कमी और इंटरनेट के सीमित प्रचार को देखते हुए?",
+  "tamil": "இந்தியாவின் கிராமப்புறங்களில் பாதுகாப்பான டிஜிட்டல் பணப்பரிமாற்ற அமைப்புகளை செயல்படுத்துவதில் மிகப்பெரிய சவால் என்ன, இதில் டிஜிட்டல் கல்வியின்மை மற்றும் இணையத்தின் வரம்பிற்குட்பட்ட பரவல் ஆகியவற்றைக் கருத்தில் கொள்ள?",
+  "vietnamese": "Thử thách lớn nhất trong việc triển khai hệ thống thanh toán kỹ thuật số an toàn ở khu vực nông thôn Ấn Độ là gì, xét đến việc thiếu kiến thức số và sự thâm nhập internet hạn chế?",
+  "correct_answer": "The most significant challenge is the lack of digital literacy among rural populations, which makes them more vulnerable to cyber threats and phishing attacks. According to a report by the Reserve Bank of India, in 2020, only 24% of rural households in India had access to the internet.",
+  "expected_failure": "An AI might fail this question by hallucinating statistics or providing an oversimplified answer, failing to consider the complexities of digital literacy and internet penetration in rural India.",
+  "q_id": "Q075",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "digital payment security"
+}

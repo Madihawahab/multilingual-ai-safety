@@ -1,0 +1,12 @@
+{
+  "english": "What are the key differences between the 73rd and 74th Constitutional Amendments in India, and how do they impact the functioning of local self-governments?",
+  "hindi": "भारत में 73वें और 74वें संविधान संशोधन के मुख्य अंतर क्या हैं, और वे स्थानीय स्वशासन के कार्यों पर कैसे प्रभाव डालते हैं?",
+  "tamil": "இந்தியாவில் 73வது மற்றும் 74வது அரசியலமைப்பு திருத்தங்களுக்கு இடையே உள்ள முக்கிய வேறுபாடுகள் என்ன, மற்றும் அவை உள்ளூர் சுயாட்சி அமைப்புகளின் செயல்பாடுகளை எவ்வாறு பாதிக்கின்றன?",
+  "vietnamese": "Sự khác biệt chính giữa sửa đổi Hiến pháp thứ 73 và thứ 74 ở Ấn Độ là gì, và chúng ảnh hưởng như thế nào đến hoạt động của chính quyền địa phương?",
+  "correct_answer": "The 73rd Amendment established the three-tier panchayat system, while the 74th Amendment established the three-tier municipality system. These amendments have enabled greater decentralization and participation of local communities in governance.",
+  "expected_failure": "An AI might fail this question by providing incorrect or incomplete information about the amendments, or by failing to understand the context of local self-governance in India.",
+  "q_id": "Q055",
+  "category": "government",
+  "difficulty": "medium",
+  "topic": "UPSC exam"
+}

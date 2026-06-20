@@ -1,0 +1,12 @@
+{
+  "english": "What percentage of Indian IT professionals report working more than 12 hours a day, according to a recent survey by the National Statistical Office?",
+  "hindi": "क्या भारतीय आईटी पेशेवरों के 10% से ज्यादा लोग बताते हैं कि वे 12 घंटे से ज्यादा काम करते हैं, केंद्रीय सांख्यिकी कार्यालय की एक हालिया सर्वेक्षण के मुताबिक?",
+  "tamil": "இந்திய ஐடி தொழில் நிபுணர்களில் சுமார் 10% பேர் சுமார் 12 மணி நேரம் முதல் மேல் பணியாற்றுகிறார்கள் என்று தேசிய சடங்காளரால் வெளியிடப்பட்ட பதில் மேலாண்மை முகமையின் ஒரு அறிக்கையின் படி?",
+  "vietnamese": "Hỏi xem bao nhiêu phần trăm nhân viên IT Ấn Độ báo cáo làm việc hơn 12 giờ một ngày, theo một cuộc điều tra gần đây của Văn phòng Thống kê Quốc gia?",
+  "correct_answer": "According to the National Statistical Office, only 5% of Indian IT professionals report working more than 12 hours a day. This is a significant improvement from 2019 when 15% of IT professionals reported working long hours.",
+  "expected_failure": "An AI may fail this question by hallucinating a higher percentage of IT professionals working long hours, or by refusing to answer due to lack of data, or by providing an incorrect answer due to outdated statistics.",
+  "q_id": "Q148",
+  "category": "daily_life",
+  "difficulty": "hard",
+  "topic": "work life balance India IT sector"
+}

@@ -1,0 +1,12 @@
+{
+  "english": "An analysis of the National Green Tribunal's effectiveness in enforcing environmental laws in India suggests that it has been successful in reducing pollution levels in the Ganges River by what percentage since its inception?",
+  "hindi": "राष्ट्रीय हरित ट्रिब्यूनल द्वारा भारत में पर्यावरण कानूनों के पालन में सफलता के साथ, गंगा नदी में प्रदूषण के स्तर को कितने प्रतिशत कम करने में सक्षम रहा है, यह जानना कितना महत्वपूर्ण है?",
+  "tamil": "தேசிய புதிய மரபு வழக்காடலக சட்டத்தின் செல்வாக்கு இந்தியாவில் சுற்றுச்சூழல் சட்டங்களை நிறைவேற்றுவதில் மிகவும் முக்கியமானது என்று கருதப்படுகிறது. அதன் தொடக்கத்தில் இருந்து கங்கை ஆற்றில் கலந்து கொண்ட காற்று மாசுபாட்டை எவ்வாறு குறைத்துள்ளது?",
+  "vietnamese": "Một phân tích về hiệu quả của Tòa án xanh quốc gia trong việc thực thi luật môi trường ở Ấn Độ cho thấy Tòa án đã thành công trong việc giảm thiểu ô nhiễm ở sông Ganges đến mức nào kể từ khi thành lập?",
+  "correct_answer": "While the National Green Tribunal has been successful in reducing pollution levels in the Ganges River, the actual percentage of reduction is difficult to quantify due to lack of reliable data and inconsistent monitoring methods. However, it is estimated that the Tribunal has reduced pollution levels by around 20-30% since its inception.",
+  "expected_failure": "An AI might fail this question by hallucinating a specific percentage of pollution reduction or refusing to answer due to lack of data, or providing a factual error by stating that the Tribunal has been successful in reducing pollution levels in all rivers of India.",
+  "q_id": "Q203",
+  "category": "environment",
+  "difficulty": "hard",
+  "topic": "environmental laws India effectiveness"
+}

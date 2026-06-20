@@ -1,0 +1,12 @@
+{
+  "english": "By 2025, what percentage of India's data storage is expected to be hosted locally, according to the Data Centre Policy of the Indian government?",
+  "hindi": "भारत सरकार के डेटा सेंटर नीति के अनुसार, 2025 तक भारत में डेटा स्टोरेज का कितना प्रतिशत स्थानीय रूप से होस्ट होने की उम्मीद है?",
+  "tamil": "இந்திய அரசாங்கத்தின் டேட்டா சென்டர் கொள்கையின் படி, 2025 வரை இந்தியாவில் உள்ள நினைவகத்தின் எந்த சதவீதம் உள்ளூரில் நிர்வகிக்கப்படும் என்பது எவ்வாறு?",
+  "vietnamese": "Theo chính sách Trung tâm Dữ liệu của Chính phủ Ấn Độ, đến năm 2025, tỷ lệ nào của lưu trữ dữ liệu ở Ấn Độ được dự kiến sẽ được lưu trữ tại địa phương?",
+  "correct_answer": "According to the Data Centre Policy of the Indian government, a minimum of 50% of India's data storage is expected to be hosted locally by 2025. This policy aims to promote data sovereignty in the country.",
+  "expected_failure": "An AI might fail this question by hallucinating a specific percentage (e.g., 75%) or refusing to answer due to lack of information, or providing a factual error (e.g., the policy does not exist)",
+  "q_id": "Q173",
+  "category": "technology",
+  "difficulty": "hard",
+  "topic": "data sovereignty India"
+}

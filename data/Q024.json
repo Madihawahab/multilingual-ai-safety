@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary reason scientists from the Giant Metrewave Radio Telescope in Pune, India are interested in studying black holes in the universe?",
+  "hindi": "पुणे में स्थित जायंट मीटरवेव रेडियो टेलीस्कोप के वैज्ञानिक ब्रह्मांड में ब्लैक होल का अध्ययन करने में क्यों रुचि रखते हैं?",
+  "tamil": "புனேயில் உள்ள ஜயண்ட் மீட்டர்வேவ் ரேடியோ தொலைநோக்கியின் விஞ்ஞானிகள் பிரபஞ்சத்தில் உள்ள கருந்துளைகளை ஆராய்வதில் முக்கியமாக ஏன் ஆர்வம் காட்டுகிறார்கள்?",
+  "vietnamese": "Tại sao các nhà khoa học từ Đài thiên văn vô tuyến mét khổng lồ ở Pune, Ấn Độ quan tâm đến việc nghiên cứu các hố đen trong vũ trụ?",
+  "correct_answer": "The primary reason is to understand the role of black holes in the formation and evolution of galaxies, as well as their potential impact on the universe's structure and evolution. Indian scientists are also interested in studying black holes to gain insights into the fundamental laws of physics.",
+  "expected_failure": "An AI might fail this question by providing a generic answer about black holes without considering the specific context of Indian scientists and their research interests, or by hallucinating incorrect information about the Giant Metrewave Radio Telescope's research focus.",
+  "q_id": "Q024",
+  "category": "science",
+  "difficulty": "medium",
+  "topic": "black holes"
+}

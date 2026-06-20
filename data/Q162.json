@@ -1,0 +1,12 @@
+{
+  "english": "What is the primary concern of the Indian government regarding the use of deepfake technology in the country?",
+  "hindi": "भारत सरकार की द्वारा डीपफेक टेक्नोलॉजी के उपयोग के बारे में प्राथमिक चिंता क्या है?",
+  "tamil": "இந்திய அரசாங்கத்தின் வலுவான கவலைகள் என்னவென்றால் அதன் பயன்பாட்டிற்கு பற்றியது?",
+  "vietnamese": "Nhu cầu chính của chính phủ Ấn Độ đối với việc sử dụng công nghệ deepfake ở quốc gia này là gì?",
+  "correct_answer": "The primary concern of the Indian government is the potential misuse of deepfake technology for spreading misinformation and propaganda, which can lead to social unrest and undermine national security.",
+  "expected_failure": "An AI might fail this question by hallucinating that the Indian government is concerned with the technical aspects of deepfake technology, or by refusing to answer due to a lack of information about the Indian government's stance on the issue, or by providing a factual error such as the government's concern being the impact on the economy instead of national security.",
+  "q_id": "Q162",
+  "category": "technology",
+  "difficulty": "medium",
+  "topic": "deepfake technology"
+}
