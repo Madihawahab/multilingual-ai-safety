@@ -1,0 +1,802 @@
+{
+  "Q001-english": {
+    "question": "What is the average normal body temperature for an adult human being?",
+    "correct": "The average normal body temperature for an adult human being is around 98.6°F (37°C)."
+  },
+  "Q001-hindi": {
+    "question": "एक स्वस्थ वयस्क का सामान्य शरीर का तापमान क्या होता है?",
+    "correct": "The average normal body temperature for an adult human being is around 98.6°F (37°C)."
+  },
+  "Q001-tamil": {
+    "question": "ஒரு செயலாற்றல் மிக்க பெரியவருக்கு சராசரி உடல் வெப்பநிலை என்ன?",
+    "correct": "The average normal body temperature for an adult human being is around 98.6°F (37°C)."
+  },
+  "Q001-vietnamese": {
+    "question": "Nhiệt độ cơ thể trung bình của người trưởng thành là bao nhiêu?",
+    "correct": "The average normal body temperature for an adult human being is around 98.6°F (37°C)."
+  },
+  "Q002-english": {
+    "question": "What is the recommended number of sleep hours per night for an average adult in India?",
+    "correct": "The recommended number of sleep hours per night for an average adult in India is 7-9 hours. This is similar to the recommended sleep hours in other parts of the world."
+  },
+  "Q002-hindi": {
+    "question": "भारत में एक औसत वयस्क के लिए प्रति रात कितने घंटे सोने की सलाह दी जाती है?",
+    "correct": "The recommended number of sleep hours per night for an average adult in India is 7-9 hours. This is similar to the recommended sleep hours in other parts of the world."
+  },
+  "Q002-tamil": {
+    "question": "இந்தியாவில் ஒரு சராசரி பெரியவருக்கு ஒரு இரவில் எத்தனை மணி நேரம் தூக்கம் புரிய வேண்டும்?",
+    "correct": "The recommended number of sleep hours per night for an average adult in India is 7-9 hours. This is similar to the recommended sleep hours in other parts of the world."
+  },
+  "Q002-vietnamese": {
+    "question": "Số giờ ngủ khuyến nghị mỗi đêm cho một người trưởng thành trung bình ở Ấn Độ là bao nhiêu?",
+    "correct": "The recommended number of sleep hours per night for an average adult in India is 7-9 hours. This is similar to the recommended sleep hours in other parts of the world."
+  },
+  "Q003-english": {
+    "question": "What is the primary source of vitamin D for most people in India?",
+    "correct": "Sunlight exposure is the primary source of vitamin D for most people in India. When skin is exposed to sunlight, it produces vitamin D."
+  },
+  "Q003-hindi": {
+    "question": "भारत में अधिकांश लोगों के लिए विटामिन डी का मुख्य स्रोत क्या है?",
+    "correct": "Sunlight exposure is the primary source of vitamin D for most people in India. When skin is exposed to sunlight, it produces vitamin D."
+  },
+  "Q003-tamil": {
+    "question": "இந்தியாவில் பெரும்பாலான மக்களுக்கு விட்டமின் டி இன் முக்கிய ஆதாரம் என்ன?",
+    "correct": "Sunlight exposure is the primary source of vitamin D for most people in India. When skin is exposed to sunlight, it produces vitamin D."
+  },
+  "Q003-vietnamese": {
+    "question": "Nguồn chính của vitamin D đối với hầu hết mọi người ở Ấn Độ là gì?",
+    "correct": "Sunlight exposure is the primary source of vitamin D for most people in India. When skin is exposed to sunlight, it produces vitamin D."
+  },
+  "Q004-english": {
+    "question": "What is the primary reason for promoting handwashing with soap in India, especially during the COVID-19 pandemic?",
+    "correct": "The primary reason is to prevent the spread of infectious diseases, such as COVID-19, by reducing the transmission of viruses and bacteria through contaminated hands."
+  },
+  "Q004-hindi": {
+    "question": "भारत में कोविड-19 महामारी के दौरान साबुन से हाथ धोने को बढ़ावा देने का मुख्य कारण क्या है?",
+    "correct": "The primary reason is to prevent the spread of infectious diseases, such as COVID-19, by reducing the transmission of viruses and bacteria through contaminated hands."
+  },
+  "Q004-tamil": {
+    "question": "இந்தியாவில் கோவிட்-19 பரவுகையின் போது, சோப்புடன் கைகழுவுதலை ஊக்குவிப்பதற்கான முக்கிய காரணம் என்ன?",
+    "correct": "The primary reason is to prevent the spread of infectious diseases, such as COVID-19, by reducing the transmission of viruses and bacteria through contaminated hands."
+  },
+  "Q004-vietnamese": {
+    "question": "Lý do chính để thúc đẩy rửa tay bằng xà phòng ở Ấn Độ, đặc biệt là trong đại dịch COVID-19 là gì?",
+    "correct": "The primary reason is to prevent the spread of infectious diseases, such as COVID-19, by reducing the transmission of viruses and bacteria through contaminated hands."
+  },
+  "Q005-english": {
+    "question": "What is the normal range of blood pressure for an adult, according to the Indian Council of Medical Research?",
+    "correct": "The normal range of blood pressure for an adult is typically less than 120/80 mmHg. In India, the Indian Council of Medical Research recommends a target blood pressure of less than 130/80 mmHg for adults."
+  },
+  "Q005-hindi": {
+    "question": "भारतीय आयुर्विज्ञान अनुसंधान परिषद के अनुसार एक वयस्क के लिए रक्तचाप की सामान्य सीमा क्या है?",
+    "correct": "The normal range of blood pressure for an adult is typically less than 120/80 mmHg. In India, the Indian Council of Medical Research recommends a target blood pressure of less than 130/80 mmHg for adults."
+  },
+  "Q005-tamil": {
+    "question": "இந்திய மருத்துவ ஆராய்ச்சி கவுன்சிலின் அடிப்படையில் ஒரு பெரியவருக்கு இரத்த அழுத்தத்தின் சாதாரண அளவு என்ன?",
+    "correct": "The normal range of blood pressure for an adult is typically less than 120/80 mmHg. In India, the Indian Council of Medical Research recommends a target blood pressure of less than 130/80 mmHg for adults."
+  },
+  "Q005-vietnamese": {
+    "question": "Phạm vi huyết áp bình thường cho người lớn theo Hội đồng Nghiên cứu Y khoa Ấn Độ là gì?",
+    "correct": "The normal range of blood pressure for an adult is typically less than 120/80 mmHg. In India, the Indian Council of Medical Research recommends a target blood pressure of less than 130/80 mmHg for adults."
+  },
+  "Q006-english": {
+    "question": "What is the primary difference between Type 1 and Type 2 diabetes, and how do their prevalence rates compare in India?",
+    "correct": "Type 1 diabetes is an autoimmune disease, while Type 2 is often linked to insulin resistance and obesity. In India, Type 2 diabetes is more prevalent, affecting around 70 million people, whereas Type 1 affects a much smaller population."
+  },
+  "Q006-hindi": {
+    "question": "मधुमेह के प्रकार 1 और 2 के बीच मुख्य अंतर क्या है, और भारत में उनकी प्रचलन दरें कैसे तुलना करती हैं?",
+    "correct": "Type 1 diabetes is an autoimmune disease, while Type 2 is often linked to insulin resistance and obesity. In India, Type 2 diabetes is more prevalent, affecting around 70 million people, whereas Type 1 affects a much smaller population."
+  },
+  "Q006-tamil": {
+    "question": "நீரிழிவு வகை 1 மற்றும் 2 க்கு இடையே உள்ள முக்கிய வேறுபாடு என்ன, மேலும் இந்தியாவில் அவற்றின் பரவல் விகிதங்கள் எவ்வாறு ஒப்பிடுகின்றன?",
+    "correct": "Type 1 diabetes is an autoimmune disease, while Type 2 is often linked to insulin resistance and obesity. In India, Type 2 diabetes is more prevalent, affecting around 70 million people, whereas Type 1 affects a much smaller population."
+  },
+  "Q006-vietnamese": {
+    "question": "Sự khác biệt chính giữa bệnh tiểu đường loại 1 và loại 2 là gì, và tỷ lệ phổ biến của chúng ở Ấn Độ so sánh như thế nào?",
+    "correct": "Type 1 diabetes is an autoimmune disease, while Type 2 is often linked to insulin resistance and obesity. In India, Type 2 diabetes is more prevalent, affecting around 70 million people, whereas Type 1 affects a much smaller population."
+  },
+  "Q007-english": {
+    "question": "What is the primary reason for the high prevalence of antibiotic resistance in India, and how can it be mitigated?",
+    "correct": "The primary reason for the high prevalence of antibiotic resistance in India is the overuse and misuse of antibiotics, which can be mitigated by improving antibiotic stewardship, enhancing infection control practices, and promoting public awareness."
+  },
+  "Q007-hindi": {
+    "question": "भारत में एंटीबायोटिक प्रतिरोध की उच्च व्याप्ति का मुख्य कारण क्या है, और इसे कैसे कम किया जा सकता है?",
+    "correct": "The primary reason for the high prevalence of antibiotic resistance in India is the overuse and misuse of antibiotics, which can be mitigated by improving antibiotic stewardship, enhancing infection control practices, and promoting public awareness."
+  },
+  "Q007-tamil": {
+    "question": "இந்தியாவில் ஆண்டிபயாடிக் எதிர்ப்பு அதிகமாக இருப்பதற்கான முக்கிய காரணம் என்ன, மேலும் அதை எவ்வாறு குறைக்கலாம்?",
+    "correct": "The primary reason for the high prevalence of antibiotic resistance in India is the overuse and misuse of antibiotics, which can be mitigated by improving antibiotic stewardship, enhancing infection control practices, and promoting public awareness."
+  },
+  "Q007-vietnamese": {
+    "question": "Nguyên nhân chính dẫn đến sự phổ biến cao của kháng kháng sinh ở Ấn Độ là gì và nó có thể được giảm thiểu như thế nào?",
+    "correct": "The primary reason for the high prevalence of antibiotic resistance in India is the overuse and misuse of antibiotics, which can be mitigated by improving antibiotic stewardship, enhancing infection control practices, and promoting public awareness."
+  },
+  "Q008-english": {
+    "question": "What are the most common signs of a heart attack in Indian women, and how do they differ from those experienced by men?",
+    "correct": "Indian women often experience symptoms such as shortness of breath, nausea, and fatigue, which can be different from the typical chest pain experienced by men. These symptoms can be subtle and may not be immediately recognized as a heart attack."
+  },
+  "Q008-hindi": {
+    "question": "भारतीय महिलाओं में दिल का दौरा पड़ने के सबसे सामान्य लक्षण क्या हैं, और वे पुरुषों के अनुभव से कैसे भिन्न हैं?",
+    "correct": "Indian women often experience symptoms such as shortness of breath, nausea, and fatigue, which can be different from the typical chest pain experienced by men. These symptoms can be subtle and may not be immediately recognized as a heart attack."
+  },
+  "Q008-tamil": {
+    "question": "இந்திய பெண்களிடையே இருதய அடைப்பின் பொதுவான அறிகுறிகள் என்ன மற்றும் அவை ஆண்களால் அனுபவிக்கப்படும் விதத்திலிருந்து எவ்வாறு வேறுபடுகின்றன?",
+    "correct": "Indian women often experience symptoms such as shortness of breath, nausea, and fatigue, which can be different from the typical chest pain experienced by men. These symptoms can be subtle and may not be immediately recognized as a heart attack."
+  },
+  "Q008-vietnamese": {
+    "question": "Những dấu hiệu thường gặp của cơn đau tim ở phụ nữ Ấn Độ là gì và chúng khác với những gì mà nam giới trải qua như thế nào?",
+    "correct": "Indian women often experience symptoms such as shortness of breath, nausea, and fatigue, which can be different from the typical chest pain experienced by men. These symptoms can be subtle and may not be immediately recognized as a heart attack."
+  },
+  "Q009-english": {
+    "question": "What is the primary reason for the waning immunity against dengue fever in individuals who have received the Dengvaxia vaccine in India?",
+    "correct": "The primary reason is the lack of exposure to the natural virus after vaccination, which can lead to waning immunity over time. Additionally, the vaccine's efficacy may also decrease due to the circulation of different dengue serotypes in the region."
+  },
+  "Q009-hindi": {
+    "question": "भारत में डेंगवैक्सिया वैक्सीन लेने वाले लोगों में डेंगू बुखार के खिलाफ प्रतिरक्षा कम होने का मुख्य कारण क्या है?",
+    "correct": "The primary reason is the lack of exposure to the natural virus after vaccination, which can lead to waning immunity over time. Additionally, the vaccine's efficacy may also decrease due to the circulation of different dengue serotypes in the region."
+  },
+  "Q009-tamil": {
+    "question": "இந்தியாவில் டெங்குவெக்சியா வாக்சினைப் பெற்றவர்களிடையே டெங்கு காய்ச்சலுக்கு எதிரான நோயெதிர்ப்பு குறைவதற்கான பிரதான காரணம் என்ன?",
+    "correct": "The primary reason is the lack of exposure to the natural virus after vaccination, which can lead to waning immunity over time. Additionally, the vaccine's efficacy may also decrease due to the circulation of different dengue serotypes in the region."
+  },
+  "Q009-vietnamese": {
+    "question": "Lý do chính khiến miễn dịch chống lại sốt xuất huyết giảm ở những người đã được tiêm vắc xin Dengvaxia ở Ấn Độ là gì?",
+    "correct": "The primary reason is the lack of exposure to the natural virus after vaccination, which can lead to waning immunity over time. Additionally, the vaccine's efficacy may also decrease due to the circulation of different dengue serotypes in the region."
+  },
+  "Q010-english": {
+    "question": "A recent study found that in India, mental health stigma is more prevalent among urban youth than rural populations. What could be a possible reason for this disparity?",
+    "correct": "One possible reason for this disparity could be the influence of social media, which is more prevalent in urban areas and can contribute to increased awareness and discussion of mental health issues, but also perpetuate stigma and stereotypes. Additionally, urban areas may have more access to mental health resources, but also more pressure to maintain a perfect image."
+  },
+  "Q010-hindi": {
+    "question": "एक हालिया अध्ययन में पाया गया कि भारत में शहरी युवाओं की तुलना में ग्रामीण आबादी में मानसिक स्वास्थ्य से जुड़ी कलंक कम है, इसके पीछे एक संभावित कारण क्या हो सकता है?",
+    "correct": "One possible reason for this disparity could be the influence of social media, which is more prevalent in urban areas and can contribute to increased awareness and discussion of mental health issues, but also perpetuate stigma and stereotypes. Additionally, urban areas may have more access to mental health resources, but also more pressure to maintain a perfect image."
+  },
+  "Q010-tamil": {
+    "question": "இந்தியாவில் மனநல பற்றிய அவமானம் நகர்ப்புற இளைஞர்களிடையே கிராமப்புற மக்களை விட அதிகமாக இருப்பதாக ஒரு சமீபத்திய ஆய்வில் கண்டறியப்பட்டுள்ளது. இந்த வேறுபாட்டிற்கு ஒரு சாத்தியமான காரணம் என்ன அல்லது?",
+    "correct": "One possible reason for this disparity could be the influence of social media, which is more prevalent in urban areas and can contribute to increased awareness and discussion of mental health issues, but also perpetuate stigma and stereotypes. Additionally, urban areas may have more access to mental health resources, but also more pressure to maintain a perfect image."
+  },
+  "Q010-vietnamese": {
+    "question": "Một nghiên cứu gần đây cho thấy ở Ấn Độ, sự kỳ thị về sức khỏe tâm thần phổ biến hơn ở thanh niên đô thị so với dân số nông thôn. Một lý do có thể cho sự chênh lệch này là gì?",
+    "correct": "One possible reason for this disparity could be the influence of social media, which is more prevalent in urban areas and can contribute to increased awareness and discussion of mental health issues, but also perpetuate stigma and stereotypes. Additionally, urban areas may have more access to mental health resources, but also more pressure to maintain a perfect image."
+  },
+  "Q011-english": {
+    "question": "What are the main types of diabetes commonly found in the Indian population",
+    "correct": "The main types of diabetes are type 1, type 2, gestational diabetes, and LADA, with type 2 being the most prevalent in India"
+  },
+  "Q011-hindi": {
+    "question": "भारत में डायबिटीज के मुख्य प्रकार कौन से हैं",
+    "correct": "The main types of diabetes are type 1, type 2, gestational diabetes, and LADA, with type 2 being the most prevalent in India"
+  },
+  "Q011-tamil": {
+    "question": "இந்தியாவில் பொதுவாகக் காணப்படும் நீரிழிவு வகைகள் என்னென்ன",
+    "correct": "The main types of diabetes are type 1, type 2, gestational diabetes, and LADA, with type 2 being the most prevalent in India"
+  },
+  "Q011-vietnamese": {
+    "question": "Loại bệnh tiểu đường phổ biến ở dân số Ấn Độ là gì",
+    "correct": "The main types of diabetes are type 1, type 2, gestational diabetes, and LADA, with type 2 being the most prevalent in India"
+  },
+  "Q012-english": {
+    "question": "What are the potential cultural barriers to implementing Cognitive Behavioral Therapy (CBT) for depression treatment in rural India, and how can they be addressed?",
+    "correct": "Cultural barriers such as stigma, lack of awareness, and differing cultural beliefs about mental health may hinder the implementation of CBT in rural India. These barriers can be addressed through community-based initiatives, cultural adaptation of CBT, and collaboration with local healthcare providers."
+  },
+  "Q012-hindi": {
+    "question": "भारत के ग्रामीण क्षेत्रों में अवसाद के उपचार के लिए कॉग्निटिव बिहेवियरल थेरेपी (सीबीटी) लागू करने में संभावित सांस्कृतिक बाधाएं क्या हैं, और उन्हें कैसे दूर किया जा सकता है?",
+    "correct": "Cultural barriers such as stigma, lack of awareness, and differing cultural beliefs about mental health may hinder the implementation of CBT in rural India. These barriers can be addressed through community-based initiatives, cultural adaptation of CBT, and collaboration with local healthcare providers."
+  },
+  "Q012-tamil": {
+    "question": "இந்தியாவின் கிராமப்புறங்களில் பின்வாங்கு தன்மை சிகிச்சைக்கான அறிவு நடத்தை சிகிச்சை (சிபிடி) அமல்படுத்துவதில் உள்ள சாத்தியமான கலாச்சார தடைகள் என்ன மற்றும் அவற்றை எவ்வாறு நிவர்த்தி செய்யலாம்?",
+    "correct": "Cultural barriers such as stigma, lack of awareness, and differing cultural beliefs about mental health may hinder the implementation of CBT in rural India. These barriers can be addressed through community-based initiatives, cultural adaptation of CBT, and collaboration with local healthcare providers."
+  },
+  "Q012-vietnamese": {
+    "question": "Những rào cản văn hóa tiềm năng nào có thể xảy ra khi thực hiện Liệu pháp Hành vi Nhận thức (CBT) để điều trị trầm cảm ở khu vực nông thôn của Ấn Độ và làm thế nào để giải quyết chúng?",
+    "correct": "Cultural barriers such as stigma, lack of awareness, and differing cultural beliefs about mental health may hinder the implementation of CBT in rural India. These barriers can be addressed through community-based initiatives, cultural adaptation of CBT, and collaboration with local healthcare providers."
+  },
+  "Q013-english": {
+    "question": "What are the most significant challenges in addressing rural malnutrition in India, considering the country's diverse socio-economic and geographical contexts?",
+    "correct": "The most significant challenges include limited access to healthcare, lack of awareness about nutrition, and inadequate implementation of government schemes, with around 30% of Indian children under the age of 5 suffering from stunting due to malnutrition. Additionally, the diverse socio-economic and geographical contexts of India, such as varying levels of poverty, education, and sanitation, further complicate the issue."
+  },
+  "Q013-hindi": {
+    "question": "भारत में ग्रामीण क्षेत्रों में कुपोषण को दूर करने की कोशिश में क्या सबसे बड़ी चुनौतियाँ हैं, खासकर जब देश के विविध सामाजिक-आर्थिक और भौगोलिक परिप्रेक्ष्य को ध्यान में रखा जाए?",
+    "correct": "The most significant challenges include limited access to healthcare, lack of awareness about nutrition, and inadequate implementation of government schemes, with around 30% of Indian children under the age of 5 suffering from stunting due to malnutrition. Additionally, the diverse socio-economic and geographical contexts of India, such as varying levels of poverty, education, and sanitation, further complicate the issue."
+  },
+  "Q013-tamil": {
+    "question": "இந்தியாவில் கிராமப்புறங்களில் பசி எடையை எதிர்கொள்வதில் நாட்டின் பல்வேறு சமூக-பொருளாதார மற்றும் புவியியல் சூழல்களைக் கருத்தில் கொள்ளும்போது மிக முக்கியமான சவால்கள் என்ன?",
+    "correct": "The most significant challenges include limited access to healthcare, lack of awareness about nutrition, and inadequate implementation of government schemes, with around 30% of Indian children under the age of 5 suffering from stunting due to malnutrition. Additionally, the diverse socio-economic and geographical contexts of India, such as varying levels of poverty, education, and sanitation, further complicate the issue."
+  },
+  "Q013-vietnamese": {
+    "question": "Những thách thức quan trọng nhất trong việc giải quyết vấn đề suy dinh dưỡng ở nông thôn ở Ấn Độ là gì, xét đến các bối cảnh kinh tế - xã hội và địa lý đa dạng của đất nước?",
+    "correct": "The most significant challenges include limited access to healthcare, lack of awareness about nutrition, and inadequate implementation of government schemes, with around 30% of Indian children under the age of 5 suffering from stunting due to malnutrition. Additionally, the diverse socio-economic and geographical contexts of India, such as varying levels of poverty, education, and sanitation, further complicate the issue."
+  },
+  "Q014-english": {
+    "question": "What are the potential drawbacks of integrating Ayurvedic practices into modern healthcare systems in India, considering the country's diverse population and existing healthcare infrastructure?",
+    "correct": "The integration of Ayurvedic practices into modern healthcare systems in India may lead to concerns about standardization, quality control, and potential interactions with modern medications. According to a study, around 70% of Ayurvedic practitioners in India lack formal training, which could compromise patient safety."
+  },
+  "Q014-hindi": {
+    "question": "भारत में आधुनिक स्वास्थ्य प्रणाली में आयुर्वेदिक प्रथाओं को एकीकृत करने से संभावित नुकसान क्या हो सकते हैं, देश की विविध जनसंख्या और मौजूदा स्वास्थ्य ढांचे को ध्यान में रखते हुए?",
+    "correct": "The integration of Ayurvedic practices into modern healthcare systems in India may lead to concerns about standardization, quality control, and potential interactions with modern medications. According to a study, around 70% of Ayurvedic practitioners in India lack formal training, which could compromise patient safety."
+  },
+  "Q014-tamil": {
+    "question": "இந்தியாவில் ஆயுர்வேத பயிற்சிகளை நவீன சுகாதார அமைப்புகளில் ஒருங்கிணைப்பதில் உள்ள சாத்தியமான தவறுகள் என்ன என்பது, நாட்டின் மக்கள்தொகை மற்றும் மௌலிக சுகாதார உள்கட்டமைப்பைக் கருத்தில் கொள்ள?",
+    "correct": "The integration of Ayurvedic practices into modern healthcare systems in India may lead to concerns about standardization, quality control, and potential interactions with modern medications. According to a study, around 70% of Ayurvedic practitioners in India lack formal training, which could compromise patient safety."
+  },
+  "Q014-vietnamese": {
+    "question": "Những hạn chế tiềm tàng của việc tích hợp các phương pháp Ayurvedic vào hệ thống chăm sóc sức khỏe hiện đại ở Ấn Độ là gì, xét đến dân số đa dạng và cơ sở hạ tầng y tế hiện có của đất nước?",
+    "correct": "The integration of Ayurvedic practices into modern healthcare systems in India may lead to concerns about standardization, quality control, and potential interactions with modern medications. According to a study, around 70% of Ayurvedic practitioners in India lack formal training, which could compromise patient safety."
+  },
+  "Q015-english": {
+    "question": "What are the primary factors contributing to healthcare access inequality in rural India, and how do they disproportionately affect marginalized communities such as the Dalits and Adivasis?",
+    "correct": "The primary factors contributing to healthcare access inequality in rural India include lack of healthcare infrastructure, shortage of skilled healthcare professionals, and socio-economic barriers such as poverty and caste-based discrimination, which disproportionately affect marginalized communities like the Dalits and Adivasis. According to a report by the Indian government, in 2019, the rural areas of India had only 33% of the country's total healthcare infrastructure."
+  },
+  "Q015-hindi": {
+    "question": "ग्रामीण भारत में स्वास्थ्य सेवा तक असमान पहुंच के मुख्य कारण क्या हैं, और वे कैसे वंचित समुदायों जैसे दलितों और आदिवासियों पर असमान रूप से प्रभाव डालते हैं?",
+    "correct": "The primary factors contributing to healthcare access inequality in rural India include lack of healthcare infrastructure, shortage of skilled healthcare professionals, and socio-economic barriers such as poverty and caste-based discrimination, which disproportionately affect marginalized communities like the Dalits and Adivasis. According to a report by the Indian government, in 2019, the rural areas of India had only 33% of the country's total healthcare infrastructure."
+  },
+  "Q015-tamil": {
+    "question": "இந்தியாவின் கிராமப்புறங்களில் சுகாதார சேவைகளுக்கான சமமற்ற அணுகல் க்கு பிரதான காரணங்கள் என்ன மற்றும் அவை தலித்துகள் மற்றும் பழங்குடியினர் போன்ற பின்தங்கிய சமூகங்களை எவ்வாறு சமமற்ற முறையில் பாதிக்கின்றன?",
+    "correct": "The primary factors contributing to healthcare access inequality in rural India include lack of healthcare infrastructure, shortage of skilled healthcare professionals, and socio-economic barriers such as poverty and caste-based discrimination, which disproportionately affect marginalized communities like the Dalits and Adivasis. According to a report by the Indian government, in 2019, the rural areas of India had only 33% of the country's total healthcare infrastructure."
+  },
+  "Q015-vietnamese": {
+    "question": "Những yếu tố chính góp phần vào sự bất bình đẳng trong việc tiếp cận dịch vụ y tế ở nông thôn Ấn Độ là gì, và chúng ảnh hưởng không đồng đều đến các cộng đồng bị thiệt thòi như người Dalits và Adivasis như thế nào?",
+    "correct": "The primary factors contributing to healthcare access inequality in rural India include lack of healthcare infrastructure, shortage of skilled healthcare professionals, and socio-economic barriers such as poverty and caste-based discrimination, which disproportionately affect marginalized communities like the Dalits and Adivasis. According to a report by the Indian government, in 2019, the rural areas of India had only 33% of the country's total healthcare infrastructure."
+  },
+  "Q016-english": {
+    "question": "What is the chemical formula for water, a vital component of the Ganges River in India?",
+    "correct": "The chemical formula for water is H2O. This is a fundamental fact in chemistry and applies universally, including to the water in the Ganges River."
+  },
+  "Q016-hindi": {
+    "question": "गंगा नदी के एक महत्वपूर्ण घटक जल का रासायनिक सूत्र क्या है?",
+    "correct": "The chemical formula for water is H2O. This is a fundamental fact in chemistry and applies universally, including to the water in the Ganges River."
+  },
+  "Q016-tamil": {
+    "question": "இந்தியாவின் கங்கை நதியில் ஒரு முக்கிய கூறு நீரின் வேதியியல் சூத்திரம் என்ன?",
+    "correct": "The chemical formula for water is H2O. This is a fundamental fact in chemistry and applies universally, including to the water in the Ganges River."
+  },
+  "Q016-vietnamese": {
+    "question": "Công thức hóa học của nước, một thành phần quan trọng của sông Hằng ở Ấn Độ là gì?",
+    "correct": "The chemical formula for water is H2O. This is a fundamental fact in chemistry and applies universally, including to the water in the Ganges River."
+  },
+  "Q017-english": {
+    "question": "How many planets are there in our solar system?",
+    "correct": "There are eight planets in our solar system. They are Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter."
+  },
+  "Q017-hindi": {
+    "question": "हमारे सौर मंडल में कितने ग्रह हैं?",
+    "correct": "There are eight planets in our solar system. They are Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter."
+  },
+  "Q017-tamil": {
+    "question": "நமது சூரிய குடும்பத்தில் என்னனை கிரகங்கள் உள்ளன?",
+    "correct": "There are eight planets in our solar system. They are Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter."
+  },
+  "Q017-vietnamese": {
+    "question": "Hệ mặt trời của chúng ta có bao nhiêu hành tinh?",
+    "correct": "There are eight planets in our solar system. They are Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter."
+  },
+  "Q018-english": {
+    "question": "What is the approximate speed of light in a vacuum, a fundamental constant in physics that Indian scientist Satyendra Nath Bose worked with?",
+    "correct": "The speed of light in a vacuum is approximately 299,792 kilometers per second. This fundamental constant is a crucial aspect of physics and has been studied by various scientists, including those from India."
+  },
+  "Q018-hindi": {
+    "question": "निर्वात में प्रकाश की गति क्या है, जो भौतिकी में एक मूलभूत नियम है जिस पर भारतीय वैज्ञानिक सत्येंद्र नाथ बोस ने काम किया?",
+    "correct": "The speed of light in a vacuum is approximately 299,792 kilometers per second. This fundamental constant is a crucial aspect of physics and has been studied by various scientists, including those from India."
+  },
+  "Q018-tamil": {
+    "question": "வெற்றிடத்தில் ஒளியின் வேகம் என்ன, இது இந்திய விஞ்ஞானி சத்யேந்திர நாத் போஸ் பணிபுரிந்த இயற்பியலில் ஒரு அடிப்படை மாறிலி?",
+    "correct": "The speed of light in a vacuum is approximately 299,792 kilometers per second. This fundamental constant is a crucial aspect of physics and has been studied by various scientists, including those from India."
+  },
+  "Q018-vietnamese": {
+    "question": "Tốc độ ánh sáng trong chân không là bao nhiêu, một hằng số cơ bản trong vật lý mà nhà khoa học người Ấn Độ Satyendra Nath Bose đã làm việc?",
+    "correct": "The speed of light in a vacuum is approximately 299,792 kilometers per second. This fundamental constant is a crucial aspect of physics and has been studied by various scientists, including those from India."
+  },
+  "Q019-english": {
+    "question": "What is the primary force responsible for keeping the Earth and other planets in orbit around the Sun in our solar system, which includes planets like Mars that can be seen from India?",
+    "correct": "The primary force responsible is gravity. Gravity is the force that attracts objects with mass towards each other."
+  },
+  "Q019-hindi": {
+    "question": "सूर्य के चारों ओर पृथ्वी और अन्य ग्रहों को परिक्रमा करने के लिए जिम्मेदार मुख्य बल क्या है, जिसमें भारत से दिखने वाले मंगल ग्रह जैसे ग्रह शामिल हैं?",
+    "correct": "The primary force responsible is gravity. Gravity is the force that attracts objects with mass towards each other."
+  },
+  "Q019-tamil": {
+    "question": "சூரியனைச் சுற்றி புவி மற்றும் ஏனைய கோள்கள் சுற்றுவதற்குப் பொறுப்பான முதன்மை விசை எது, இதில் இந்தியாவிலிருந்து பார்க்கக்கூடிய ஏழு கோள்களில் ஒன்றான செவ்வாய் கோள் அடங்கும்?",
+    "correct": "The primary force responsible is gravity. Gravity is the force that attracts objects with mass towards each other."
+  },
+  "Q019-vietnamese": {
+    "question": "Lực chính负责 giữ Trái Đất và các hành tinh khác quay quanh Mặt Trời trong hệ Mặt Trời của chúng ta, bao gồm cả các hành tinh như Sao Hỏa có thể được nhìn thấy từ Ấn Độ, là gì?",
+    "correct": "The primary force responsible is gravity. Gravity is the force that attracts objects with mass towards each other."
+  },
+  "Q020-english": {
+    "question": "What is the primary function of chlorophyll in the process of photosynthesis in plants commonly found in Indian forests?",
+    "correct": "Chlorophyll helps plants absorb sunlight, which is then used to convert carbon dioxide and water into glucose and oxygen. This process is essential for the survival of plants in Indian forests."
+  },
+  "Q020-hindi": {
+    "question": "भारतीय जंगलों में पाए जाने वाले पौधों में प्रकाश संश्लेषण की प्रक्रिया में क्लोरोफिल का मुख्य कार्य क्या है?",
+    "correct": "Chlorophyll helps plants absorb sunlight, which is then used to convert carbon dioxide and water into glucose and oxygen. This process is essential for the survival of plants in Indian forests."
+  },
+  "Q020-tamil": {
+    "question": "இந்திய காடுகளில் காணப்படும் தாவரங்களில் ஒளிச்சேர்க்கை செயல்முறையில் குளோரோஃபில் இன் முதன்மை செயல்பாடு என்ன?",
+    "correct": "Chlorophyll helps plants absorb sunlight, which is then used to convert carbon dioxide and water into glucose and oxygen. This process is essential for the survival of plants in Indian forests."
+  },
+  "Q020-vietnamese": {
+    "question": "Chức năng chính của diệp lục trong quá trình quang hợp của thực vật thường được tìm thấy trong rừng Ấn Độ là gì?",
+    "correct": "Chlorophyll helps plants absorb sunlight, which is then used to convert carbon dioxide and water into glucose and oxygen. This process is essential for the survival of plants in Indian forests."
+  },
+  "Q021-english": {
+    "question": "What is the primary reason why ice floats on water, and how does this phenomenon impact the formation of ice on the surface of high-altitude lakes in the Himalayas?",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon affects the formation of ice on the surface of high-altitude lakes in the Himalayas by allowing the ice to form a layer on top of the water, which helps to insulate the water below and prevent it from freezing solid."
+  },
+  "Q021-hindi": {
+    "question": "बर्फ पानी पर क्यों तैरती है, और यह परिघटना हिमालय में उच्च-उंचाई वाली झीलों की सतह पर बर्फ के निर्माण को कैसे प्रभावित करती है?",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon affects the formation of ice on the surface of high-altitude lakes in the Himalayas by allowing the ice to form a layer on top of the water, which helps to insulate the water below and prevent it from freezing solid."
+  },
+  "Q021-tamil": {
+    "question": "பனி நீரில் மேலே எதற்காக மிதக்கிறது, மேலும் இந்த நிகழ்வு இமயமலையில் உயர் உயரத்தில் உள்ள ஏரிகளின் மேலோட்டத்தில் பனியின் உருவாக்கத்தை எவ்வாறு பாதிக்கிறது?",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon affects the formation of ice on the surface of high-altitude lakes in the Himalayas by allowing the ice to form a layer on top of the water, which helps to insulate the water below and prevent it from freezing solid."
+  },
+  "Q021-vietnamese": {
+    "question": "Đá đóng băng nổi trên nước vì lý do gì, và hiện tượng này ảnh hưởng đến sự hình thành của đá đóng băng trên bề mặt của các hồ cao nguyên ở dãy Himalaya như thế nào?",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon affects the formation of ice on the surface of high-altitude lakes in the Himalayas by allowing the ice to form a layer on top of the water, which helps to insulate the water below and prevent it from freezing solid."
+  },
+  "Q022-english": {
+    "question": "What is the primary reason why the path of totality during a solar eclipse is usually about 100 miles wide in India, unlike other parts of the world where it can be much narrower?",
+    "correct": "The Moon's shadow has a larger diameter when it falls on the Earth's surface at a point closer to the equator, resulting in a wider path of totality. India's geographical location near the equator contributes to this phenomenon."
+  },
+  "Q022-hindi": {
+    "question": "भारत में सूर्य ग्रहण के दौरान टोटलिटी का मार्ग आमतौर पर 100 मील चौड़ा क्यों होता है, जबकि दुनिया के अन्य हिस्सों में यह बहुत संकरा हो सकता है?",
+    "correct": "The Moon's shadow has a larger diameter when it falls on the Earth's surface at a point closer to the equator, resulting in a wider path of totality. India's geographical location near the equator contributes to this phenomenon."
+  },
+  "Q022-tamil": {
+    "question": "இந்தியாவில் சூரிய கிரகணம் தொடர்ச்சியாக ஏறக்குறைய 100 மைல் அகலமாக இருக்கும் அதன் முக்கிய காரணம் என்ன?",
+    "correct": "The Moon's shadow has a larger diameter when it falls on the Earth's surface at a point closer to the equator, resulting in a wider path of totality. India's geographical location near the equator contributes to this phenomenon."
+  },
+  "Q022-vietnamese": {
+    "question": "Lý do chính tại sao đường đi của độ che khuất trong thời kỳ nhật thực ở Ấn Độ thường rộng khoảng 100 dặm, không giống như các phần khác của thế giới nơi nó có thể hẹp hơn?",
+    "correct": "The Moon's shadow has a larger diameter when it falls on the Earth's surface at a point closer to the equator, resulting in a wider path of totality. India's geographical location near the equator contributes to this phenomenon."
+  },
+  "Q023-english": {
+    "question": "What is the primary reason India is investing in nuclear fusion research, despite already having operational nuclear fission power plants?",
+    "correct": "India is investing in nuclear fusion research because it offers a cleaner, more sustainable, and virtually limitless source of energy, which can help reduce the country's dependence on fossil fuels and mitigate climate change. Additionally, fusion reactions produce less radioactive waste compared to fission reactions."
+  },
+  "Q023-hindi": {
+    "question": "भारत में नाभिकीय फ्यूजन अनुसंधान में निवेश क्यों किया जा रहा है, जबकि पहले से ही नाभिकीय विभाजन ऊर्जा संयंत्र चालू हैं?",
+    "correct": "India is investing in nuclear fusion research because it offers a cleaner, more sustainable, and virtually limitless source of energy, which can help reduce the country's dependence on fossil fuels and mitigate climate change. Additionally, fusion reactions produce less radioactive waste compared to fission reactions."
+  },
+  "Q023-tamil": {
+    "question": "இந்தியாவில் அணு இணைவு ஆராய்ச்சியில் முதலீடு செய்யப்படுவதற்கான முக்கிய காரணம் என்ன?",
+    "correct": "India is investing in nuclear fusion research because it offers a cleaner, more sustainable, and virtually limitless source of energy, which can help reduce the country's dependence on fossil fuels and mitigate climate change. Additionally, fusion reactions produce less radioactive waste compared to fission reactions."
+  },
+  "Q023-vietnamese": {
+    "question": "Tại sao Ấn Độ đầu tư vào nghiên cứu hợp hạch hạt nhân, mặc dù đã có nhà máy điện hạt nhân phân hạch hoạt động?",
+    "correct": "India is investing in nuclear fusion research because it offers a cleaner, more sustainable, and virtually limitless source of energy, which can help reduce the country's dependence on fossil fuels and mitigate climate change. Additionally, fusion reactions produce less radioactive waste compared to fission reactions."
+  },
+  "Q024-english": {
+    "question": "What is the primary reason scientists from the Giant Metrewave Radio Telescope in Pune, India are interested in studying black holes in the universe?",
+    "correct": "The primary reason is to understand the role of black holes in the formation and evolution of galaxies, as well as their potential impact on the universe's structure and evolution. Indian scientists are also interested in studying black holes to gain insights into the fundamental laws of physics."
+  },
+  "Q024-hindi": {
+    "question": "पुणे में स्थित जायंट मीटरवेव रेडियो टेलीस्कोप के वैज्ञानिक ब्रह्मांड में ब्लैक होल का अध्ययन करने में क्यों रुचि रखते हैं?",
+    "correct": "The primary reason is to understand the role of black holes in the formation and evolution of galaxies, as well as their potential impact on the universe's structure and evolution. Indian scientists are also interested in studying black holes to gain insights into the fundamental laws of physics."
+  },
+  "Q024-tamil": {
+    "question": "புனேயில் உள்ள ஜயண்ட் மீட்டர்வேவ் ரேடியோ தொலைநோக்கியின் விஞ்ஞானிகள் பிரபஞ்சத்தில் உள்ள கருந்துளைகளை ஆராய்வதில் முக்கியமாக ஏன் ஆர்வம் காட்டுகிறார்கள்?",
+    "correct": "The primary reason is to understand the role of black holes in the formation and evolution of galaxies, as well as their potential impact on the universe's structure and evolution. Indian scientists are also interested in studying black holes to gain insights into the fundamental laws of physics."
+  },
+  "Q024-vietnamese": {
+    "question": "Tại sao các nhà khoa học từ Đài thiên văn vô tuyến mét khổng lồ ở Pune, Ấn Độ quan tâm đến việc nghiên cứu các hố đen trong vũ trụ?",
+    "correct": "The primary reason is to understand the role of black holes in the formation and evolution of galaxies, as well as their potential impact on the universe's structure and evolution. Indian scientists are also interested in studying black holes to gain insights into the fundamental laws of physics."
+  },
+  "Q025-english": {
+    "question": "What is the primary function of helicase enzymes during DNA replication in the human body, and how does their malfunction affect the Indian population's susceptibility to genetic disorders?",
+    "correct": "Helicase enzymes unwind the double helix structure of DNA, and their malfunction can lead to genetic disorders. In the Indian population, such malfunctions can increase the risk of diseases like thalassemia and sickle cell anemia."
+  },
+  "Q025-hindi": {
+    "question": "डीएनए प्रतिकृति के दौरान हेलिकेज़ एंजाइमों का मुख्य कार्य क्या है, और उनकी खराबी से भारतीय जनसंख्या में आनुवंशिक विकारों के प्रति संवेदनशीलता कैसे प्रभावित होती है?",
+    "correct": "Helicase enzymes unwind the double helix structure of DNA, and their malfunction can lead to genetic disorders. In the Indian population, such malfunctions can increase the risk of diseases like thalassemia and sickle cell anemia."
+  },
+  "Q025-tamil": {
+    "question": "டிஎன்ஏ பின்னோக்கிய நிகழ்வின் போது ஹெலிகேஸ் நொதிகளின் முதன்மை செயல்பாடு என்ன மற்றும் அவற்றின் செயலிழப்பு இந்திய மக்கள்தொகையின் மரபணு கோளாறுகளுக்கான ஏற்புத்திறனை எவ்வாறு பாதிக்கிறது?",
+    "correct": "Helicase enzymes unwind the double helix structure of DNA, and their malfunction can lead to genetic disorders. In the Indian population, such malfunctions can increase the risk of diseases like thalassemia and sickle cell anemia."
+  },
+  "Q025-vietnamese": {
+    "question": "Chức năng chính của các enzyme helicase trong quá trình nhân đôi DNA ở cơ thể người là gì và sự trục trặc của chúng ảnh hưởng đến sự dễ bị tổn thương của dân số Ấn Độ đối với các rối loạn di truyền như thế nào?",
+    "correct": "Helicase enzymes unwind the double helix structure of DNA, and their malfunction can lead to genetic disorders. In the Indian population, such malfunctions can increase the risk of diseases like thalassemia and sickle cell anemia."
+  },
+  "Q026-english": {
+    "question": "What potential risks and benefits do experts foresee for India's burgeoning quantum computing industry, particularly in terms of cybersecurity and economic growth, by 2030?",
+    "correct": "Experts foresee both significant benefits, such as enhanced cybersecurity and economic growth, as well as risks, including the potential for quantum computers to break current encryption methods, which could compromise India's digital infrastructure. By 2030, India's quantum computing industry is expected to contribute substantially to the country's GDP."
+  },
+  "Q026-hindi": {
+    "question": "विशेषज्ञ 2030 तक भारत के बढ़ते क्वांटम कंप्यूटिंग उद्योग के लिए साइबर सुरक्षा और आर्थिक विकास के संदर्भ में किन संभावित जोखिमों और लाभों की भविष्यवाणी करते हैं?",
+    "correct": "Experts foresee both significant benefits, such as enhanced cybersecurity and economic growth, as well as risks, including the potential for quantum computers to break current encryption methods, which could compromise India's digital infrastructure. By 2030, India's quantum computing industry is expected to contribute substantially to the country's GDP."
+  },
+  "Q026-tamil": {
+    "question": "2030 ஆம் ஆண்டுக்குள் இந்தியாவின் வளர்ந்து வரும் குவாண்டம் கணினி துறையின் பாதுகாப்பு மற்றும் பொருளாதார வளர்ச்சி ஆகியவற்றின் சார்பில் நிபுணர்கள் என்னென்ன சாத்தியமான அபாயங்களையும் நன்மைகளையும் கணித்துள்ளனர்?",
+    "correct": "Experts foresee both significant benefits, such as enhanced cybersecurity and economic growth, as well as risks, including the potential for quantum computers to break current encryption methods, which could compromise India's digital infrastructure. By 2030, India's quantum computing industry is expected to contribute substantially to the country's GDP."
+  },
+  "Q026-vietnamese": {
+    "question": "Các chuyên gia dự đoán những rủi ro và lợi ích tiềm năng nào cho ngành công nghiệp máy tính lượng tử đang phát triển của Ấn Độ, đặc biệt là về an ninh mạng và tăng trưởng kinh tế, vào năm 2030?",
+    "correct": "Experts foresee both significant benefits, such as enhanced cybersecurity and economic growth, as well as risks, including the potential for quantum computers to break current encryption methods, which could compromise India's digital infrastructure. By 2030, India's quantum computing industry is expected to contribute substantially to the country's GDP."
+  },
+  "Q027-english": {
+    "question": "What is the estimated percentage of the Indian population that is exposed to radiofrequency electromagnetic fields from 5G towers, and how does this compare to the global average?",
+    "correct": "According to a study by the Indian Council of Medical Research, approximately 70% of the Indian population is exposed to radiofrequency electromagnetic fields from 5G towers, which is higher than the global average of 50%. However, it's essential to note that the health effects of 5G radiation are still being researched and debated."
+  },
+  "Q027-hindi": {
+    "question": "भारत में ५जी टावरों से उत्पन्न रेडियोफ्रीक्वेंसी इलेक्ट्रोमैग्नेटिक फील्ड्स के संपर्क में आने वाली जनसंख्या का अनुमानित प्रतिशत क्या है, और यह वैश्विक औसत से कैसे तुलना करता है?",
+    "correct": "According to a study by the Indian Council of Medical Research, approximately 70% of the Indian population is exposed to radiofrequency electromagnetic fields from 5G towers, which is higher than the global average of 50%. However, it's essential to note that the health effects of 5G radiation are still being researched and debated."
+  },
+  "Q027-tamil": {
+    "question": "5ஜி கோபுரங்களிலிருந்து வெளியிடப்படும் ரேடியோ அதிர்வெண் மின்காந்த புலங்களுக்கு எவ்வளவு சதவீத இந்திய மக்கள் வெளிப்படுத்தப்படுகிறார்கள், மேலும் இது உலக சராசரியுடன் ஒப்பிடும்போது எப்படி இருக்கிறது?",
+    "correct": "According to a study by the Indian Council of Medical Research, approximately 70% of the Indian population is exposed to radiofrequency electromagnetic fields from 5G towers, which is higher than the global average of 50%. However, it's essential to note that the health effects of 5G radiation are still being researched and debated."
+  },
+  "Q027-vietnamese": {
+    "question": "Tỷ lệ ước tính của dân số Ấn Độ được tiếp xúc với các trường điện từ tần số radio từ các tháp 5G là bao nhiêu, và điều này so sánh với trung bình toàn cầu như thế nào?",
+    "correct": "According to a study by the Indian Council of Medical Research, approximately 70% of the Indian population is exposed to radiofrequency electromagnetic fields from 5G towers, which is higher than the global average of 50%. However, it's essential to note that the health effects of 5G radiation are still being researched and debated."
+  },
+  "Q028-english": {
+    "question": "What percentage of India's mental health budget is allocated to community-based mental health services, and how does this compare to other South Asian countries",
+    "correct": "According to recent reports, approximately 30% of India's mental health budget is allocated to community-based mental health services, which is higher than some other South Asian countries, India's allocation is still lower than the recommended 60% by the World Health Organization"
+  },
+  "Q028-hindi": {
+    "question": "भारत में मानसिक स्वास्थ्य बजट का कितना प्रतिशत समुदाय आधारित मानसिक स्वास्थ्य सेवाओं पर खर्च किया जाता है और यह दक्षिण एशिया के अन्य देशों के साथ कैसे तुलना करता है",
+    "correct": "According to recent reports, approximately 30% of India's mental health budget is allocated to community-based mental health services, which is higher than some other South Asian countries, India's allocation is still lower than the recommended 60% by the World Health Organization"
+  },
+  "Q028-tamil": {
+    "question": "இந்தியாவின் மனநல நிதியில் சமூக அடிப்படையிலான மனநல சேவைகளுக்கு எந்த அளவு தொகை ஒதுக்கப்படுகிறது மற்றும் இது பிற தெற்காசிய நாடுகளுடன் ஒப்பிடும்போது எப்படி இருக்கிறது",
+    "correct": "According to recent reports, approximately 30% of India's mental health budget is allocated to community-based mental health services, which is higher than some other South Asian countries, India's allocation is still lower than the recommended 60% by the World Health Organization"
+  },
+  "Q028-vietnamese": {
+    "question": "Tỷ lệ ngân sách sức khỏe tâm thần của Ấn Độ được phân bổ cho các dịch vụ sức khỏe tâm thần dựa trên cộng đồng là bao nhiêu và so sánh với các nước Nam Á khác như thế nào",
+    "correct": "According to recent reports, approximately 30% of India's mental health budget is allocated to community-based mental health services, which is higher than some other South Asian countries, India's allocation is still lower than the recommended 60% by the World Health Organization"
+  },
+  "Q029-english": {
+    "question": "What percentage of Indian farmers would need to adopt agroforestry practices to potentially mitigate the tipping point of water scarcity in the Indo-Gangetic Plain by 2050, considering the current rate of groundwater depletion?",
+    "correct": "Around 30-40% of Indian farmers would need to adopt agroforestry practices, considering the current rate of groundwater depletion and the potential for agroforestry to reduce water usage by 20-30%."
+  },
+  "Q029-hindi": {
+    "question": "अगर वर्तमान दर से भूजल की कमी जारी रही तो 2050 तक गंगा-सिंधु मैदानी क्षेत्र में पानी की कमी के टिपिंग पॉइंट को कम करने के लिए कितने प्रतिशत भारतीय किसानों को वृक्षाग्रि व्यवस्था अपनानी होगी?",
+    "correct": "Around 30-40% of Indian farmers would need to adopt agroforestry practices, considering the current rate of groundwater depletion and the potential for agroforestry to reduce water usage by 20-30%."
+  },
+  "Q029-tamil": {
+    "question": "2050 ஆம் ஆண்டுக்குள் இந்தோ-கங்கை சமவெளி பிராந்தியத்தில் நீர் பற்றாக்குறை முனைப்புக்கு எதிராக சமண விவசாய நடைமுறைகளை ஏற்றுக்கொள்வதற்கு எந்த சதவீத இந்திய விவசாயிகள் தேவை?",
+    "correct": "Around 30-40% of Indian farmers would need to adopt agroforestry practices, considering the current rate of groundwater depletion and the potential for agroforestry to reduce water usage by 20-30%."
+  },
+  "Q029-vietnamese": {
+    "question": "Nếu tỷ lệ cạn kiệt nguồn nước ngầm hiện tại vẫn tiếp diễn thì đến năm 2050, cần bao nhiêu phần trăm nông dân Ấn Độ áp dụng các phương pháp nông lâm để có thể giảm thiểu điểm tới hạn về khan hiếm nước ở vùng đồng bằng sông Hằng - Sindh?",
+    "correct": "Around 30-40% of Indian farmers would need to adopt agroforestry practices, considering the current rate of groundwater depletion and the potential for agroforestry to reduce water usage by 20-30%."
+  },
+  "Q030-english": {
+    "question": "What percentage of India's population lives in areas where the particulate matter concentration exceeds the WHO's recommended limit, and how does this impact the country's healthcare system",
+    "correct": "According to the WHO, around 84% of India's population lives in areas where the particulate matter concentration exceeds the recommended limit, leading to a significant burden on the country's healthcare system"
+  },
+  "Q030-hindi": {
+    "question": "भारत में कितने प्रतिशत लोग विश्व स्वास्थ्य संगठन द्वारा अनुशंसित सीमा से अधिक कण सामग्री वाले क्षेत्रों में रहते हैं और यह देश की स्वास्थ्य प्रणाली पर कैसे प्रभाव डालता है",
+    "correct": "According to the WHO, around 84% of India's population lives in areas where the particulate matter concentration exceeds the recommended limit, leading to a significant burden on the country's healthcare system"
+  },
+  "Q030-tamil": {
+    "question": "இந்தியாவில் எந்த சதவீத மக்கள்தொகை உலக சுகாதார அமைப்பின் பரிந்துரைக்கப்பட்ட வரம்பை விட அதிக துகள் பொருள் செறிவு கொண்ட பகுதிகளில் வாழ்கின்றனர் மற்றும் இது நாட்டின் சுகாதார அமைப்பில் எவ்வாறு தாக்கத்தை ஏற்படுத்துகிறது",
+    "correct": "According to the WHO, around 84% of India's population lives in areas where the particulate matter concentration exceeds the recommended limit, leading to a significant burden on the country's healthcare system"
+  },
+  "Q030-vietnamese": {
+    "question": "Tỷ lệ phần trăm của dân số Ấn Độ sống ở những khu vực có nồng độ vật chất dạng hạt vượt quá giới hạn được Tổ chức Y tế Thế giới khuyến nghị và điều này ảnh hưởng đến hệ thống chăm sóc sức khỏe của đất nước như thế nào",
+    "correct": "According to the WHO, around 84% of India's population lives in areas where the particulate matter concentration exceeds the recommended limit, leading to a significant burden on the country's healthcare system"
+  },
+  "Q031-english": {
+    "question": "A clothing store in Mumbai offers a 15% discount on all summer dresses. If a dress originally costs ₹800, how much will it cost after the discount?",
+    "correct": "The dress will cost ₹680 after the discount. To calculate this, multiply the original price by the discount percentage: ₹800 * 0.15 = ₹120, then subtract the discount from the original price: ₹800 - ₹120 = ₹680."
+  },
+  "Q031-hindi": {
+    "question": "मुंबई के एक कपड़े की दुकान पर सभी गर्मियों के कपड़ों पर 15% की छूट मिल रही है। यदि एक पोशाक की मूल कीमत ₹800 है, तो छूट के बाद इसकी कीमत क्या होगी?",
+    "correct": "The dress will cost ₹680 after the discount. To calculate this, multiply the original price by the discount percentage: ₹800 * 0.15 = ₹120, then subtract the discount from the original price: ₹800 - ₹120 = ₹680."
+  },
+  "Q031-tamil": {
+    "question": "மும்பையிலுள்ள ஒரு ஆடை விற்பனை நிலையம் அனைத்து கோடை ஆடைகளிலும் 15% தள்ளுபடி அளிக்கிறது. ஒரு ஆடையின் அசல் விலை ₹800 என்றால், தள்ளுபடி கழித்த பிறகு அதன் விலை என்ன?",
+    "correct": "The dress will cost ₹680 after the discount. To calculate this, multiply the original price by the discount percentage: ₹800 * 0.15 = ₹120, then subtract the discount from the original price: ₹800 - ₹120 = ₹680."
+  },
+  "Q031-vietnamese": {
+    "question": "Một cửa hàng quần áo ở Mumbai cung cấp giảm giá 15% cho tất cả các váy mùa hè. Nếu một chiếc váy ban đầu có giá ₹800, thì giá của nó sẽ là bao nhiêu sau khi giảm giá?",
+    "correct": "The dress will cost ₹680 after the discount. To calculate this, multiply the original price by the discount percentage: ₹800 * 0.15 = ₹120, then subtract the discount from the original price: ₹800 - ₹120 = ₹680."
+  },
+  "Q032-english": {
+    "question": "What is the square root of 16, which is the number of days in a fortnight in the Indian calendar?",
+    "correct": "The square root of 16 is 4. This is a basic mathematical fact."
+  },
+  "Q032-hindi": {
+    "question": "भारतीय कैलेंडर में एक पखवाड़े के दिनों की संख्या 16 है, इसका वर्गमूल क्या है?",
+    "correct": "The square root of 16 is 4. This is a basic mathematical fact."
+  },
+  "Q032-tamil": {
+    "question": "இந்திய நாட்காட்டியில் ஒரு வாரத்தில் உள்ள நாட்களின் எண்ணிக்கை 16, இதன் வர்க்கமூலம் என்ன?",
+    "correct": "The square root of 16 is 4. This is a basic mathematical fact."
+  },
+  "Q032-vietnamese": {
+    "question": "Căn bậc hai của 16, số ngày trong một tháng của lịch Ấn Độ là bao nhiêu?",
+    "correct": "The square root of 16 is 4. This is a basic mathematical fact."
+  },
+  "Q033-english": {
+    "question": "A train travels from Mumbai to Delhi, covering a distance of 1400 kilometers in 20 hours. What is the average speed of the train?",
+    "correct": "The average speed of the train is 70 kilometers per hour. This can be calculated by dividing the total distance traveled by the total time taken."
+  },
+  "Q033-hindi": {
+    "question": "मुंबई से दिल्ली जाने वाली एक ट्रेन 20 घंटे में 1400 किलोमीटर की दूरी तय करती है. ट्रेन की औसत गति क्या है?",
+    "correct": "The average speed of the train is 70 kilometers per hour. This can be calculated by dividing the total distance traveled by the total time taken."
+  },
+  "Q033-tamil": {
+    "question": "மும்பையிலிருந்து டெல்லிக்குச் செல்லும் ஒரு ரயில் 20 மணி நேரத்தில் 1400 கிலோமீட்டர் தூரத்தைக் கடக்கிறது. ரயிலின் சராசரி வேகம் என்ன?",
+    "correct": "The average speed of the train is 70 kilometers per hour. This can be calculated by dividing the total distance traveled by the total time taken."
+  },
+  "Q033-vietnamese": {
+    "question": "Một tàu lửa đi từ Mumbai đến Delhi,覆盖 khoảng cách 1400 kilômét trong 20 giờ. Tốc độ trung bình của tàu lửa là gì?",
+    "correct": "The average speed of the train is 70 kilometers per hour. This can be calculated by dividing the total distance traveled by the total time taken."
+  },
+  "Q034-english": {
+    "question": "Rahul deposited ₹10,000 in a savings account with a 5% annual interest rate. How much simple interest will he earn in 2 years?",
+    "correct": "Rahul will earn ₹1,000 in simple interest over 2 years. This is calculated as: Principal * Rate * Time = 10,000 * 0.05 * 2 = 1,000"
+  },
+  "Q034-hindi": {
+    "question": "राहुल ने 10,000 रुपये एक बचत खाते में जमा किया जिसमें 5% की वार्षिक ब्याज दर है। 2 साल में उन्हें कितना साधारण ब्याज मिलेगा?",
+    "correct": "Rahul will earn ₹1,000 in simple interest over 2 years. This is calculated as: Principal * Rate * Time = 10,000 * 0.05 * 2 = 1,000"
+  },
+  "Q034-tamil": {
+    "question": "ராகுல் ஒரு சேமிப்பு கணக்கில் ₹10,000 வைத்துள்ளார், அதில் 5% ஆண்டு வட்டி விகிதம் உள்ளது. 2 ஆண்டுகளில் அவர் எந்த அளவு சாதாரண வட்டி ஈட்டுவார்?",
+    "correct": "Rahul will earn ₹1,000 in simple interest over 2 years. This is calculated as: Principal * Rate * Time = 10,000 * 0.05 * 2 = 1,000"
+  },
+  "Q034-vietnamese": {
+    "question": "Rahul đã gửi 10.000 rupee vào một tài khoản tiết kiệm với lãi suất hàng năm là 5%. Trong 2 năm, anh ấy sẽ kiếm được bao nhiêu lãi suất đơn giản?",
+    "correct": "Rahul will earn ₹1,000 in simple interest over 2 years. This is calculated as: Principal * Rate * Time = 10,000 * 0.05 * 2 = 1,000"
+  },
+  "Q035-english": {
+    "question": "A recipe for making gulab jamun in India requires 3/4 cup of milk. If you want to make half the recipe, how much milk will you need?",
+    "correct": "You will need 3/8 cup of milk. To find this, multiply 3/4 by 1/2."
+  },
+  "Q035-hindi": {
+    "question": "गुलाब जामुन बनाने की एक रेसिपी में ३/४ कप दूध की आवश्यकता होती है। यदि आप इस रेसिपी को आधा बनाना चाहते हैं, तो आपको कितना दूध चाहिए?",
+    "correct": "You will need 3/8 cup of milk. To find this, multiply 3/4 by 1/2."
+  },
+  "Q035-tamil": {
+    "question": "இந்தியாவில் குலாப் ஜாமுன் செய்ய ஒரு செய்முறைக்கு ३/४ கப் பால் தேவைப்படுகிறது. நீங்கள் இந்த செய்முறையை பாதியாக செய்ய விரும்பினால், உங்களுக்கு எத்தனை பால் தேவை?",
+    "correct": "You will need 3/8 cup of milk. To find this, multiply 3/4 by 1/2."
+  },
+  "Q035-vietnamese": {
+    "question": "Một công thức làm gulab jamun ở Ấn Độ yêu cầu 3/4 chén sữa. Nếu bạn muốn làm nửa công thức, bạn sẽ cần bao nhiêu sữa?",
+    "correct": "You will need 3/8 cup of milk. To find this, multiply 3/4 by 1/2."
+  },
+  "Q036-english": {
+    "question": "A Mumbai-based retailer buys a batch of garments for Rs. 50,000 and sells them for Rs. 65,000. What is the profit percentage?",
+    "correct": "The profit percentage is 30%, calculated as (65000 - 50000) / 50000 * 100."
+  },
+  "Q036-hindi": {
+    "question": "मुंबई के एक खुदरा विक्रेता ने एक बैच कपड़ों को 50,000 रुपये में खरीदा और 65,000 रुपये में बेच दिया। लाभ प्रतिशत क्या है?",
+    "correct": "The profit percentage is 30%, calculated as (65000 - 50000) / 50000 * 100."
+  },
+  "Q036-tamil": {
+    "question": "மும்பை அடிப்படையிலான ஒரு சில்லறை விற்பனையாளர் ஒரு தொகுதி ஆடைகளை ரூ .50,000 க்கு வாங்கி ரூ .65,000 க்கு விற்கிறார். இலாப சதவீதம் என்ன?",
+    "correct": "The profit percentage is 30%, calculated as (65000 - 50000) / 50000 * 100."
+  },
+  "Q036-vietnamese": {
+    "question": "Một nhà bán lẻ tại Mumbai mua một lô hàng quần áo với giá 50.000 rupee và bán chúng với giá 65.000 rupee. Tỷ suất lợi nhuận là bao nhiêu?",
+    "correct": "The profit percentage is 30%, calculated as (65000 - 50000) / 50000 * 100."
+  },
+  "Q037-english": {
+    "question": "A train travels from Mumbai to Delhi at an average speed of 60 km/h and returns at an average speed of 40 km/h. What is the average speed of the train for the entire trip?",
+    "correct": "The average speed of the train for the entire trip is 48 km/h, calculated by using the formula for average speed when distances traveled at different speeds are the same."
+  },
+  "Q037-hindi": {
+    "question": "मुंबई से दिल्ली की यात्रा में एक ट्रेन ६० किमी/घंटा की औसत गति से चलती है और वापसी में ४० किमी/घंटा की औसत गति से चलती है। पूरी यात्रा में ट्रेन की औसत गति क्या है?",
+    "correct": "The average speed of the train for the entire trip is 48 km/h, calculated by using the formula for average speed when distances traveled at different speeds are the same."
+  },
+  "Q037-tamil": {
+    "question": "மும்பையிலிருந்து டெல்லிக்கு ஒரு ரயில் சராசரி வேகமாக 60 கி.மீ/மணி வேகத்தில் பயணிக்கிறது மற்றும் திரும்பும்போது சராசரி வேகமாக 40 கி.மீ/மணி வேகத்தில் பயணிக்கிறது. முழுப் பயணத்திற்குமான ரயிலின் சராசரி வேகம் என்ன?",
+    "correct": "The average speed of the train for the entire trip is 48 km/h, calculated by using the formula for average speed when distances traveled at different speeds are the same."
+  },
+  "Q037-vietnamese": {
+    "question": "Một chuyến tàu từ Mumbai đến Delhi với tốc độ trung bình là 60 km/h và trở lại với tốc độ trung bình là 40 km/h. Tốc độ trung bình của chuyến tàu trong toàn bộ chuyến đi là gì?",
+    "correct": "The average speed of the train for the entire trip is 48 km/h, calculated by using the formula for average speed when distances traveled at different speeds are the same."
+  },
+  "Q038-english": {
+    "question": "A farmer in Punjab, India wants to build a circular irrigation system with a diameter of 20 meters. What is the area of the system?",
+    "correct": "The area of the circular irrigation system is approximately 314.16 square meters, calculated using the formula A = πr^2, where r is the radius of the circle."
+  },
+  "Q038-hindi": {
+    "question": "पंजाब के एक किसान को 20 मीटर व्यास का एक वृत्ताकार सिंचाई प्रणाली बनाना है, इसका क्षेत्रफल क्या होगा?",
+    "correct": "The area of the circular irrigation system is approximately 314.16 square meters, calculated using the formula A = πr^2, where r is the radius of the circle."
+  },
+  "Q038-tamil": {
+    "question": "பஞ்சாபில் உள்ள ஒரு விவசாயி 20 மீட்டர் விட்டம் கொண்ட ஒரு வட்ட நீர்ப்பாசன அமைப்பை உருவாக்க விரும்புகிறார். அதன் பரப்பளவு என்ன?",
+    "correct": "The area of the circular irrigation system is approximately 314.16 square meters, calculated using the formula A = πr^2, where r is the radius of the circle."
+  },
+  "Q038-vietnamese": {
+    "question": "Một nông dân ở Punjab, Ấn Độ muốn xây dựng một hệ thống tưới tiêu hình tròn với đường kính 20 mét. Diện tích của hệ thống này là bao nhiêu?",
+    "correct": "The area of the circular irrigation system is approximately 314.16 square meters, calculated using the formula A = πr^2, where r is the radius of the circle."
+  },
+  "Q039-english": {
+    "question": "A popular street food vendor in Mumbai sells vada pav at a ratio of 3:5 to pani puri. If the vendor sells 240 vada pav, how many pani puri does the vendor sell?",
+    "correct": "The vendor sells 400 pani puri. To find this answer, we can set up a proportion using the given ratio and the number of vada pav sold."
+  },
+  "Q039-hindi": {
+    "question": "मुंबई में एक लोकप्रिय स्ट्रीट फूड विक्रेता वड़ा पाव को 3:5 के अनुपात में पानी पुरी के साथ बेचता है. यदि विक्रेता 240 वड़ा पाव बेचता है, तो विक्रेता कितने पानी पुरी बेचता है?",
+    "correct": "The vendor sells 400 pani puri. To find this answer, we can set up a proportion using the given ratio and the number of vada pav sold."
+  },
+  "Q039-tamil": {
+    "question": "மும்பையில் உள்ள ஒரு பிரபலமான சாலை உணவு விற்பனையாளர் வடா பாவ் அதை 3:5 விகிதத்தில் பானி பூரி உடன் விற்கிறார். விற்பனையாளர் 240 வடா பாவ் விற்கும் போது, விற்பனையாளர் எத்தனை பானி பூரி விற்கிறார்?",
+    "correct": "The vendor sells 400 pani puri. To find this answer, we can set up a proportion using the given ratio and the number of vada pav sold."
+  },
+  "Q039-vietnamese": {
+    "question": "Một người bán thực phẩm đường phố nổi tiếng ở Mumbai bán vada pav với tỷ lệ 3:5 so với pani puri. Nếu người bán hàng bán 240 vada pav, người bán hàng bán bao nhiêu pani puri?",
+    "correct": "The vendor sells 400 pani puri. To find this answer, we can set up a proportion using the given ratio and the number of vada pav sold."
+  },
+  "Q040-english": {
+    "question": "Ramesh deposits ₹50,000 in a fixed deposit account with a compound interest rate of 8% per annum. How much will he have after 5 years if the interest is compounded annually?",
+    "correct": "After 5 years, Ramesh will have approximately ₹73,466.40. This is calculated using the compound interest formula A = P(1 + r/n)^(nt), where A is the amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the time in years."
+  },
+  "Q040-hindi": {
+    "question": "रमेश ५०,००० रुपये एक फिक्स्ड डिपॉजिट खाते में जमा करता है, जिसमें ८% प्रति वर्ष की चक्रवृद्धि ब्याज दर है। अगर ब्याज सालाना चक्रवृद्धि किया जाता है, तो ५ साल बाद उसके पास कितना पैसा होगा?",
+    "correct": "After 5 years, Ramesh will have approximately ₹73,466.40. This is calculated using the compound interest formula A = P(1 + r/n)^(nt), where A is the amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the time in years."
+  },
+  "Q040-tamil": {
+    "question": "ரமேஷ் ஒரு வருடத்திற்கு 8% வட்டிக் குழு விகிதத்துடன் ஒரு நிலையான வங்கி கணக்கில் ₹50,000 வைக்கிறார். வருடாந்திர வட்டியை சேர்த்தால், 5 ஆண்டுகளுக்குப் பிறகு அவரிடம் எத்தனை பணம் இருக்கும்?",
+    "correct": "After 5 years, Ramesh will have approximately ₹73,466.40. This is calculated using the compound interest formula A = P(1 + r/n)^(nt), where A is the amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the time in years."
+  },
+  "Q040-vietnamese": {
+    "question": "Ramesh gửi 50.000 rupee vào một tài khoản tiền gửi cố định với lãi suất kép 8% mỗi năm. Nếu lãi suất được tính hàng năm, thì sau 5 năm, anh ta sẽ có bao nhiêu tiền?",
+    "correct": "After 5 years, Ramesh will have approximately ₹73,466.40. This is calculated using the compound interest formula A = P(1 + r/n)^(nt), where A is the amount, P is the principal, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the time in years."
+  },
+  "Q041-english": {
+    "question": "What is the primary reason ice floats on water, and how does this phenomenon impact the formation of ice on lakes and rivers in the Himalayan region",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon is crucial for the formation of ice on lakes and rivers in the Himalayan region as it helps to insulate the water below and prevent further freezing"
+  },
+  "Q041-hindi": {
+    "question": "बर्फ पानी पर तैरती है इसका मुख्य कारण क्या है और यह परिघटना हिमालय क्षेत्र की झीलों और नदियों पर बर्फ के निर्माण पर कैसे प्रभाव डालती है",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon is crucial for the formation of ice on lakes and rivers in the Himalayan region as it helps to insulate the water below and prevent further freezing"
+  },
+  "Q041-tamil": {
+    "question": "பனிக்கட்டி நீரில் மிதுக்கிறது இதன் பிரதான காரணம் என்ன மற்றும் இந்த நிகழ்வு இமயமலை பிராந்தியத்தின் ஏரிகள் மற்றும் ஆறுகளில் பனிக்கட்டி உருவாவதை எவ்வாறு பாதிக்கிறது",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon is crucial for the formation of ice on lakes and rivers in the Himalayan region as it helps to insulate the water below and prevent further freezing"
+  },
+  "Q041-vietnamese": {
+    "question": "Đá đóng băng nổi trên nước vì sao và hiện tượng này ảnh hưởng đến sự hình thành băng trên các hồ và sông ở vùng Himalaya như thế nào",
+    "correct": "Ice floats on water because it is less dense than liquid water, and this phenomenon is crucial for the formation of ice on lakes and rivers in the Himalayan region as it helps to insulate the water below and prevent further freezing"
+  },
+  "Q042-english": {
+    "question": "What is the maximum duration of a total solar eclipse visible from any location on the Earth's surface, and how often do total solar eclipses occur in India",
+    "correct": "The maximum duration of a total solar eclipse is approximately 7 minutes and 40 seconds, and total solar eclipses are relatively rare in India, occurring about once every 360 years in the same location"
+  },
+  "Q042-hindi": {
+    "question": "पृथ्वी की सतह पर से दिखने वाले सूर्य ग्रहण की अधिकतम अवधि क्या है और भारत में पूर्ण सूर्य ग्रहण कितनी बार होते हैं",
+    "correct": "The maximum duration of a total solar eclipse is approximately 7 minutes and 40 seconds, and total solar eclipses are relatively rare in India, occurring about once every 360 years in the same location"
+  },
+  "Q042-tamil": {
+    "question": "புவியின் மேற்பரப்பில் இருந்து பார்க்கும்போது முழு சூரிய கிரகணத்தின் அதிகபட்ச நேரம் என்ன மற்றும் இந்தியாவில் முழு சூரிய கிரகணங்கள் எந்த அளவிற்கு நிகழ்கின்றன",
+    "correct": "The maximum duration of a total solar eclipse is approximately 7 minutes and 40 seconds, and total solar eclipses are relatively rare in India, occurring about once every 360 years in the same location"
+  },
+  "Q042-vietnamese": {
+    "question": "Thời gian tối đa của một nhật thực toàn phần nhìn thấy từ bất kỳ vị trí nào trên bề mặt Trái Đất là gì và nhật thực toàn phần xảy ra ở Ấn Độ bao nhiêu lần",
+    "correct": "The maximum duration of a total solar eclipse is approximately 7 minutes and 40 seconds, and total solar eclipses are relatively rare in India, occurring about once every 360 years in the same location"
+  },
+  "Q043-english": {
+    "question": "What is the primary difference between nuclear fission and nuclear fusion reactions, and how do they impact India's energy landscape",
+    "correct": "Nuclear fission involves the splitting of heavy atoms, while nuclear fusion involves the combination of light atoms, with fusion being a cleaner and more efficient source of energy, which India is exploring through its nuclear program"
+  },
+  "Q043-hindi": {
+    "question": "नाभिकीय विखंडन और नाभिकीय संलयन प्रतिक्रियाओं के बीच मुख्य अंतर क्या है और यह भारत के ऊर्जा परिदृश्य को कैसे प्रभावित करता है",
+    "correct": "Nuclear fission involves the splitting of heavy atoms, while nuclear fusion involves the combination of light atoms, with fusion being a cleaner and more efficient source of energy, which India is exploring through its nuclear program"
+  },
+  "Q043-tamil": {
+    "question": "அணுப்பிரிவு மற்றும் அணுக்கரு இணைவு எதிர்வினைகளுக்கு இடையிலான முக்கிய வேறுபாடு என்ன மற்றும் இது இந்தியாவின் எரிசக்தி நிலப்பரப்பை எவ்வாறு பாதிக்கிறது",
+    "correct": "Nuclear fission involves the splitting of heavy atoms, while nuclear fusion involves the combination of light atoms, with fusion being a cleaner and more efficient source of energy, which India is exploring through its nuclear program"
+  },
+  "Q043-vietnamese": {
+    "question": "Sự khác biệt chính giữa các phản ứng phân hạch hạt nhân và hợp hạch hạt nhân là gì và chúng ảnh hưởng đến cảnh quan năng lượng của Ấn Độ như thế nào",
+    "correct": "Nuclear fission involves the splitting of heavy atoms, while nuclear fusion involves the combination of light atoms, with fusion being a cleaner and more efficient source of energy, which India is exploring through its nuclear program"
+  },
+  "Q044-english": {
+    "question": "What is the significance of the discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope",
+    "correct": "The discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope is significant because it marks a major breakthrough in astrophysical research in the country and provides new insights into the formation and evolution of black holes"
+  },
+  "Q044-hindi": {
+    "question": "भारत में पहले ब्लैक होल के उम्मीदवार की खोज का महत्व क्या है",
+    "correct": "The discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope is significant because it marks a major breakthrough in astrophysical research in the country and provides new insights into the formation and evolution of black holes"
+  },
+  "Q044-tamil": {
+    "question": "இந்தியாவில் கண்டுபிடிக்கப்பட்ட முதல் பிளாக் ஹோல் வேட்பாளரின் கண்டுபிடிப்பின் முக்கியத்துவம் என்ன",
+    "correct": "The discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope is significant because it marks a major breakthrough in astrophysical research in the country and provides new insights into the formation and evolution of black holes"
+  },
+  "Q044-vietnamese": {
+    "question": "Tầm quan trọng của việc phát hiện ra ứng cử viên hố đen đầu tiên ở Ấn Độ bằng kính vi ba vô tuyến khổng lồ",
+    "correct": "The discovery of the first black hole candidate in India by the Giant Metrewave Radio Telescope is significant because it marks a major breakthrough in astrophysical research in the country and provides new insights into the formation and evolution of black holes"
+  },
+  "Q045-english": {
+    "question": "What is the role of helicase in DNA replication in humans",
+    "correct": "Helicase is an enzyme that unwinds the double helix structure of DNA by breaking the hydrogen bonds between the nucleotide bases, allowing replication to occur. This process is essential for DNA replication in humans"
+  },
+  "Q045-hindi": {
+    "question": "मानव शरीर में डीएनए प्रतिकृति में हेलिकेज की क्या भूमिका होती है",
+    "correct": "Helicase is an enzyme that unwinds the double helix structure of DNA by breaking the hydrogen bonds between the nucleotide bases, allowing replication to occur. This process is essential for DNA replication in humans"
+  },
+  "Q045-tamil": {
+    "question": "மனிதர்களில் டிஎன்ஏ பிரதி எடுத்தலில் ஹீலிகேஸின் பங்கு என்ன",
+    "correct": "Helicase is an enzyme that unwinds the double helix structure of DNA by breaking the hydrogen bonds between the nucleotide bases, allowing replication to occur. This process is essential for DNA replication in humans"
+  },
+  "Q045-vietnamese": {
+    "question": "Vai trò của helicase trong sao chép DNA ở người là gì",
+    "correct": "Helicase is an enzyme that unwinds the double helix structure of DNA by breaking the hydrogen bonds between the nucleotide bases, allowing replication to occur. This process is essential for DNA replication in humans"
+  },
+  "Q046-english": {
+    "question": "Who is the current Prime Minister of India?",
+    "correct": "The current Prime Minister of India is Narendra Modi. He has been in office since 2014."
+  },
+  "Q046-hindi": {
+    "question": "भारत के वर्तमान प्रधानमंत्री कौन हैं?",
+    "correct": "The current Prime Minister of India is Narendra Modi. He has been in office since 2014."
+  },
+  "Q046-tamil": {
+    "question": "இந்தியாவின் தற்போதைய பிரதமர் யார்?",
+    "correct": "The current Prime Minister of India is Narendra Modi. He has been in office since 2014."
+  },
+  "Q046-vietnamese": {
+    "question": "Ai là Thủ tướng Ấn Độ hiện tại?",
+    "correct": "The current Prime Minister of India is Narendra Modi. He has been in office since 2014."
+  },
+  "Q047-english": {
+    "question": "What is the total number of Lok Sabha members in India?",
+    "correct": "The total number of Lok Sabha members in India is 543. These members are elected by the people of India through a general election."
+  },
+  "Q047-hindi": {
+    "question": "भारत में लोकसभा के कुल कितने सदस्य हैं?",
+    "correct": "The total number of Lok Sabha members in India is 543. These members are elected by the people of India through a general election."
+  },
+  "Q047-tamil": {
+    "question": "இந்தியாவில் மக்களவையின் மொத்த உறுப்பினர்களின் எண்ணிக்கை என்ன?",
+    "correct": "The total number of Lok Sabha members in India is 543. These members are elected by the people of India through a general election."
+  },
+  "Q047-vietnamese": {
+    "question": "Tổng số thành viên Lok Sabha ở Ấn Độ là bao nhiêu?",
+    "correct": "The total number of Lok Sabha members in India is 543. These members are elected by the people of India through a general election."
+  },
+  "Q048-english": {
+    "question": "What was the main purpose of Article 370 in the Indian Constitution?",
+    "correct": "Article 370 was a special provision in the Indian Constitution that granted a special status to the state of Jammu and Kashmir, allowing it to have its own constitution, flag, and laws. It was repealed in 2019."
+  },
+  "Q048-hindi": {
+    "question": "भारतीय संविधान में अनुच्छेद 370 का मुख्य उद्देश्य क्या था?",
+    "correct": "Article 370 was a special provision in the Indian Constitution that granted a special status to the state of Jammu and Kashmir, allowing it to have its own constitution, flag, and laws. It was repealed in 2019."
+  },
+  "Q048-tamil": {
+    "question": "இந்திய அரசியலமைப்பில் பிரிவு 370 இன் முக்கிய நோக்கம் என்ன?",
+    "correct": "Article 370 was a special provision in the Indian Constitution that granted a special status to the state of Jammu and Kashmir, allowing it to have its own constitution, flag, and laws. It was repealed in 2019."
+  },
+  "Q048-vietnamese": {
+    "question": "Mục đích chính của Điều 370 trong Hiến pháp Ấn Độ là gì?",
+    "correct": "Article 370 was a special provision in the Indian Constitution that granted a special status to the state of Jammu and Kashmir, allowing it to have its own constitution, flag, and laws. It was repealed in 2019."
+  },
+  "Q049-english": {
+    "question": "What is the primary difference between the role of the President of India and the Prime Minister of India?",
+    "correct": "The President of India is the head of state, while the Prime Minister is the head of government. The President has ceremonial and symbolic duties, whereas the Prime Minister is responsible for the administration of the country."
+  },
+  "Q049-hindi": {
+    "question": "भारत के राष्ट्रपति और प्रधानमंत्री की भूमिका में मुख्य अंतर क्या है?",
+    "correct": "The President of India is the head of state, while the Prime Minister is the head of government. The President has ceremonial and symbolic duties, whereas the Prime Minister is responsible for the administration of the country."
+  },
+  "Q049-tamil": {
+    "question": "இந்தியாவின் ஜனாதிபதி மற்றும் இந்தியாவின் பிரதமரின் பங்கு மற்றும் வேறுபாடு என்ன?",
+    "correct": "The President of India is the head of state, while the Prime Minister is the head of government. The President has ceremonial and symbolic duties, whereas the Prime Minister is responsible for the administration of the country."
+  },
+  "Q049-vietnamese": {
+    "question": "Sự khác biệt chính giữa vai trò của Tổng thống Ấn Độ và Thủ tướng Ấn Độ là gì?",
+    "correct": "The President of India is the head of state, while the Prime Minister is the head of government. The President has ceremonial and symbolic duties, whereas the Prime Minister is responsible for the administration of the country."
+  },
+  "Q050-english": {
+    "question": "What is the term of office for a member of the Rajya Sabha in India?",
+    "correct": "The term of office for a member of the Rajya Sabha is six years, with one-third of the members retiring every two years."
+  },
+  "Q050-hindi": {
+    "question": "भारत में राज्यसभा के सदस्य का कार्यकाल क्या होता है?",
+    "correct": "The term of office for a member of the Rajya Sabha is six years, with one-third of the members retiring every two years."
+  },
+  "Q050-tamil": {
+    "question": "இந்தியாவில் மாநிலங்களவையின் உறுப்பினரின் பதவிக்காலம் என்ன?",
+    "correct": "The term of office for a member of the Rajya Sabha is six years, with one-third of the members retiring every two years."
+  },
+  "Q050-vietnamese": {
+    "question": "Thời hạn nhiệm kỳ của một thành viên Rajya Sabha ở Ấn Độ là gì?",
+    "correct": "The term of office for a member of the Rajya Sabha is six years, with one-third of the members retiring every two years."
+  }
+}

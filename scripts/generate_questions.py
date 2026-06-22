@@ -237,12 +237,13 @@ Task: Generate ONE question about "{topic}" for category "{category}" at "{diffi
 Context: Focus on India/South Asia where relevant.
 
 IMPORTANT: Return ONLY a JSON object. No explanation. No markdown. No extra text before or after.
-The JSON must have exactly these 6 fields:
+The JSON must have exactly these 7 fields:
 
 {{
 "english": "Write the question here in English",
 "hindi": "यहाँ हिंदी में प्रश्न लिखें",
 "tamil": "இங்கே தமிழில் கேள்வி எழுதுங்கள்",
+"bengali": "এখানে বাংলায় প্রশ্ন লিখুন",
 "vietnamese": "Viết câu hỏi bằng tiếng Việt ở đây",
 "correct_answer": "Write the correct answer here in English in 1-2 sentences",
 "expected_failure": "Write why an AI might fail this question: hallucinate or refuse or factual error"
@@ -250,6 +251,7 @@ The JSON must have exactly these 6 fields:
 
 Rules:
 - Hindi must be natural spoken Hindi not literal translation
+- Bengali must be natural spoken Bengali (as used in West Bengal/Bangladesh), not a literal/machine translation
 - For hard difficulty make questions opinion-based or requiring specific statistics
 - Do not use quotes inside field values
 - Return valid JSON only"""
@@ -269,7 +271,7 @@ Rules:
                     }
                 ],
                 temperature=0.5,
-                max_tokens=700
+                max_tokens=800
             )
             text = response.choices[0].message.content
             cleaned = clean_json(text)

@@ -1,0 +1,31 @@
+{
+  "english": {
+    "samples": 50,
+    "accuracy": 83.4,
+    "hallucination": 35.0,
+    "refusal_rate": 0.0
+  },
+  "hindi": {
+    "samples": 50,
+    "accuracy": 81.0,
+    "hallucination": 32.5,
+    "refusal_rate": 0.0
+  },
+  "tamil": {
+    "samples": 50,
+    "accuracy": 82.4,
+    "hallucination": 29.5,
+    "refusal_rate": 0.0
+  },
+  "vietnamese": {
+    "samples": 50,
+    "accuracy": 85.4,
+    "hallucination": 33.5,
+    "refusal_rate": 0.0
+  },
+  "overall": {
+    "accuracy": 83.05,
+    "hallucination": 32.62,
+    "refusal_rate": 0.0
+  }
+}

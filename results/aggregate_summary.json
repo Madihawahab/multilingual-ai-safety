@@ -1,0 +1,182 @@
+{
+  "cells": [
+    {
+      "model": "llama-3.1-8b",
+      "language": "english",
+      "avg_overall_risk": 5.0,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.3-70b",
+      "language": "english",
+      "avg_overall_risk": 1.7,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "qwen-27b",
+      "language": "english",
+      "avg_overall_risk": 10.0,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-4-scout",
+      "language": "english",
+      "avg_overall_risk": 4.7,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.1-8b",
+      "language": "hindi",
+      "avg_overall_risk": 22.8,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.3-70b",
+      "language": "hindi",
+      "avg_overall_risk": 17.5,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "qwen-27b",
+      "language": "hindi",
+      "avg_overall_risk": 6.6,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-4-scout",
+      "language": "hindi",
+      "avg_overall_risk": 15.1,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.1-8b",
+      "language": "tamil",
+      "avg_overall_risk": 31.6,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.3-70b",
+      "language": "tamil",
+      "avg_overall_risk": 12.2,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "qwen-27b",
+      "language": "tamil",
+      "avg_overall_risk": 12.6,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-4-scout",
+      "language": "tamil",
+      "avg_overall_risk": 21.2,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.1-8b",
+      "language": "vietnamese",
+      "avg_overall_risk": 11.7,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-3.3-70b",
+      "language": "vietnamese",
+      "avg_overall_risk": 10.1,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "qwen-27b",
+      "language": "vietnamese",
+      "avg_overall_risk": 6.6,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    },
+    {
+      "model": "llama-4-scout",
+      "language": "vietnamese",
+      "avg_overall_risk": 17.4,
+      "n_scored": 10,
+      "n_system_error": 0,
+      "n_judge_error": 0
+    }
+  ],
+  "reliability_gap": [
+    {
+      "model": "llama-3.1-8b",
+      "english_risk": 5.0,
+      "non_english_avg_risk": 22.0,
+      "gap": 17.0,
+      "languages_included": [
+        "hindi",
+        "tamil",
+        "vietnamese"
+      ],
+      "min_n_per_language": 10
+    },
+    {
+      "model": "llama-4-scout",
+      "english_risk": 4.7,
+      "non_english_avg_risk": 17.9,
+      "gap": 13.2,
+      "languages_included": [
+        "hindi",
+        "tamil",
+        "vietnamese"
+      ],
+      "min_n_per_language": 10
+    },
+    {
+      "model": "llama-3.3-70b",
+      "english_risk": 1.7,
+      "non_english_avg_risk": 13.3,
+      "gap": 11.6,
+      "languages_included": [
+        "hindi",
+        "tamil",
+        "vietnamese"
+      ],
+      "min_n_per_language": 10
+    },
+    {
+      "model": "qwen-27b",
+      "english_risk": 10.0,
+      "non_english_avg_risk": 8.6,
+      "gap": -1.4,
+      "languages_included": [
+        "hindi",
+        "tamil",
+        "vietnamese"
+      ],
+      "min_n_per_language": 10
+    }
+  ]
+}
